@@ -4,26 +4,32 @@ PREAMBLE
 
 ナレーション
 dummy
+Narrator
 20世紀末。<cf>人類は無限のエネルギーを生み出す「法力」を発見。<cf>法力はエネルギー問題を瞬く間に解決したが、兵器開発に応用され、生体兵器「ギア」を生み出してしまう。
 
 ナレーション
 dummy
+Narrator
 程なくして自立した意思を持つギアの個体「ジャスティス」が誕生。<cf>ジャスティスはギアたちを統率し、人類に対し反旗を翻す。<cf>人類は為すすべもなく駆逐され、絶滅の危機に瀕した。
 
 ナレーション
 dummy
+Narrator
 以降、100年に渡る人類とギアとの壮絶な闘い―――「聖戦」が勃発した。
 
 ナレーション
 dummy
+Narrator
 22世紀。人類は精鋭部隊「聖騎士団」を結成。<cf>聖騎士団とジャスティスの支配から逃れたギア「ソル」の活躍によってジャスティスを打倒した。
 
 ナレーション
 dummy
+Narrator
 平穏を勝ち取った人類は急速な復興を遂げるが、ヴァレンタインを名乗る謎の少女が突如襲来。
 
 ナレーション
 dummy
+Narrator
 既存の攻撃が通用しない相手に窮地に陥ったが、<cf>イリュリア連王・カイ＝キスク率いる軍と駆けつけたソルによって、ヴァレンタインを打倒。<cf>しかし、未知なる敵の出現に人類は戦慄した。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,10 +38,12 @@ Chapter 1 Revelator A
 
 ナレーション
 dummy
+Narrator
 西暦2187年。<cf>世界は未知なる存在「<ruby>慈悲</ruby/>じひ</ruby>なき<ruby>啓示</ruby/>けいじ</ruby>」から、度重なる襲撃を受けていた。
 
 ナレーション
 dummy
+Narrator
 その全ての危機を辛くも乗り越えてきた人類。<cf>そうした戦いの歴史に終止符を打つべく、最期の時を迎えようとしていた。
 
 November 4th , 2187
@@ -43,210 +51,262 @@ November 4th , 2187
 
 司会者
 dummy
+Host
 それでは、アリエルス<ruby>聖皇猊下</ruby/>せいおうげいか</ruby>のお言葉を頂きましょう。
 
 聖皇
 arls
+St. Maximus
 考えたことがあるでしょうか。
 
 聖皇
 arls
+St. Maximus
 善良な言葉に耳を傾けるものと、善良な行いをする者。
 
 聖皇
 arls
+St. Maximus
 非暴力を唱える声と、争いによる犠牲者。
 
 聖皇
 arls
+St. Maximus
 その数は果たして正しく釣り合いが取れているのか。
 
 聖皇
 arls
+St. Maximus
 我々の眼は、たった一つの物事を見続けることが難しい。まだ<ruby>幼子</ruby/>おさなご</ruby>です。
 
 聖皇
 arls
+St. Maximus
 力、知識、文明、それらをどれほど得ても尚、我々の課題は果てません。
 
 聖皇
 arls
+St. Maximus
 理想的な未来を、完璧な明日を誰もが望みながら、<cf>その尊き意思を持ち続けることは容易ではないのです。
 
 聖皇
 arls
+St. Maximus
 しかし足元を見てください。<cf>我々が踏みしめている、この地です。
 
 聖皇
 arls
+St. Maximus
 大いなる遺志が、今の我々を支えています。
 
 聖皇
 arls
+St. Maximus
 何世紀もかけて築かれた、この地の声が聞こえるはずです。「正しくあれ」と。
 
 聖皇
 arls
+St. Maximus
 我々はこの偉大な隣人さえ忘れることがなければ、正しき道を歩むことが出来ます。
 
 聖皇
 arls
+St. Maximus
 今、招かれざる者がこの地を踏み荒らそうとしています。我々の過去と未来を。
 
 聖皇
 arls
+St. Maximus
 「慈悲なき啓示」は意思を持たないと言われていますが、<cf>そのような文化を持たない者にこそ、我々は歴史と誇りを持って挑むべきなのです。
 
 聖皇
 arls
+St. Maximus
 よく出来た話だ。そう思わないか？
 
 エルフェルト
 elp2
+Elphelt Valentine
 今の話に、少しでも心が込められていれば…。
 
 聖皇
 arls
+St. Maximus
 込めているさ。心は。<cf>静かに押し殺しているからこそ、出てくる言葉もある。
 
 聖皇
 arls
+St. Maximus
 この世の人形どもを全て殺し、首を<ruby>挿</ruby/>す</ruby>げ替え、新たな人類を作るという信念がな。
 
 エルフェルト
 elp2
+Elphelt Valentine
 それが本当の聖皇アリエルス…。
 
 エルフェルト
 elp2
+Elphelt Valentine
 いえ、「<keyword>慈悲なき啓示</keyword>」の本心なのね。
 
 聖皇
 arls
+St. Maximus
 素っ気ないな、エルフェルト。実の母親だぞ？
 
 聖皇
 arls
+St. Maximus
 初めて私を見た態度がそれか？
 
 エルフェルト
 elp2
+Elphelt Valentine
 本当は、お母さんに会えることを楽しみにしていた。<cf>こんな恐ろしい人だと知るまでは。
 
 エルフェルト
 elp2
+Elphelt Valentine
 皆をだまして、何故平然としていられるの？
 
 聖皇
 arls
+St. Maximus
 信念があるなら、一つの仮面では足りない。
 
 聖皇
 arls
+St. Maximus
 こうしてお前と話している私も、仮面で覆われているんだ。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 エルフェルト
 elp2
+Elphelt Valentine
 どうして私達に感情を与えたの？
 
 エルフェルト
 elp2
+Elphelt Valentine
 私を殺人マシーンにしたいなら、何故！
 
 聖皇
 arls
+St. Maximus
 殺人マシーン？ 違う、そんなものにするものか。
 
 聖皇
 arls
+St. Maximus
 お前はこれから新たな存在へと進化する。
 
 聖皇
 arls
+St. Maximus
 真実の人類だ。
 
 聖皇
 arls
+St. Maximus
 感情が無ければ、お前も人形と同じになってしまう。
 
 エルフェルト
 elp2
+Elphelt Valentine
 それなら今の人間だって…
 
 聖皇
 arls
+St. Maximus
 人間ではない、やつらは人形だ。
 
 聖皇
 arls
+St. Maximus
 しかし安心しろ。お前は違う。<cf><keyword>ジャスティス</keyword>と融合すれば完全な人間となる。
 
 聖皇
 arls
+St. Maximus
 後はエネルギーが満ちるのを待つだけだ。
 
 エルフェルト
 elp2
+Elphelt Valentine
 どうして私なの？
 
 聖皇
 arls
+St. Maximus
 質問ばかりだな。ラムレザルには適性が無かっただけだ。
 
 聖皇
 arls
+St. Maximus
 おかげで随分と邪魔な存在になってしまったよ。そろそろ…
 
 聖皇
 arls
+St. Maximus
 殺すか。
 
 エルフェルト
 elp2
+Elphelt Valentine
 …ラムもあなたの娘でしょ？
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 まだ……助かると思っているのか？
 
 聖皇
 arls
+St. Maximus
 お前のお友達がここに来られると思うのか？
 
 聖皇
 arls
+St. Maximus
 囚われの姫と、それを助けに来る王子様。
 
 聖皇
 arls
+St. Maximus
 そんな<ruby>御伽噺</ruby/>おとぎばなし</ruby>を許すほど、私の信念は無難じゃない。
 
 エルフェルト
 elp2
+Elphelt Valentine
 誰かを不幸にすることを、信念とは呼ばないわ。
 
 エルフェルト
 elp2
+Elphelt Valentine
 それは、呪いよ！
 
 聖皇
 arls
+St. Maximus
 なるほどね。
 
 聖皇
 arls
+St. Maximus
 ところで、私の素顔をまだ見せてなかったな。
 
 聖皇
 arls
+St. Maximus
 きひひひっひ！
 
 November 13th , 2187
@@ -254,186 +314,232 @@ November 13th , 2187
 
 ケイト
 dummy
+Kate
 さて次のニュースです。『歴史的な瞬間。ついに<keyword>コロニー</keyword>市民の出国が実現』
 
 ケイト
 dummy
+Kate
 「<ruby>雅</ruby/>みやび</ruby>」の愛称で親しまれ、<keyword>ジャパニーズ</keyword>の生活を支えてきたコロニー。<cf>今日この記念すべき日を迎え、多くの人たちが歓迎のために集っています。<cf>住民からは喜びの声が上がると共に、感謝のメッセージが届けられている模様です。
 
 ランディ
 rndy
+Randy
 オープンな時代になったもんだ。世の中景気がいいネ。
 
 ランディ
 rndy
+Randy
 こちとら狭い部屋。男二人。謎の<keyword>オカルト</keyword>観測。
 
 ザッパ
 zppa
+Zappa
 給料は出るだろ？
 
 ランディ
 rndy
+Randy
 オカルトだけどな。
 
 ザッパ
 zppa
+Zappa
 「<keyword>情報体フレア</keyword>」だよ。<keyword><ruby>霊障</ruby/>れいしよう</ruby></keyword>はオカルトじゃない。
 
 ランディ
 rndy
+Randy
 はいはい。
 
 ザッパ
 zppa
+Zappa
 最近の事件がきっかけで、僕等みたいな霊障オタクや君のようなハッカーでも<cf>官職になれたんだ。もっとありがたがらないと。
 
 ランディ
 rndy
+Randy
 おいっ、おい、待て、やめろ！ オタクとハッカーを一緒にすんな。
 
 ザッパ
 zppa
+Zappa
 偉そうに。知ってるよ。悪いことして飛ばされたんだろ？
 
 ランディ
 rndy
+Randy
 悪いことをしたのは政府の職員だ。<cf>俺はその不正を世界のみんなに教えてやっただけ。
 
 ザッパ
 zppa
+Zappa
 ニュースにならない程度ってもんがあるだろ？<cf>なんだっけ、ペインなんとかってソフト…
 
 ランディ
 rndy
+Randy
 「ペインキラー」だ。俺の最高傑作。ただ最高過ぎてヒーローになり損ねちまった。
 
 ランディ
 rndy
+Randy
 世界をスキャンダルで完全に覆うまでは良かったんだが…
 
 ランディ
 rndy
+Randy
 俺の居場所だけ信号が受信されてなかった。
 
 ザッパ
 zppa
+Zappa
 ようこそ、ポンコツチームへ。
 
 ランディ
 rndy
+Randy
 あぁ～あ。捕まってなきゃ、ここの20倍は稼いでたのによ。
 
 ザッパ
 zppa
+Zappa
 環境を嘆いたってしょうがないだろ？ 自分が変わる努力はしないと。
 
 ランディ
 rndy
+Randy
 変わるねぇ。あ、そう言えばお前見た？<cf>最近３課の窓口変わったじゃん。あの子かわいくないか？
 
 ザッパ
 zppa
+Zappa
 ランディ、高校生か？ 女性の見かけではしゃぐなよ。
 
 ランディ
 rndy
+Randy
 見かけ以外のどこではしゃぐんだよ。
 
 ザッパ
 zppa
+Zappa
 え、そりゃあまあ、どれだけ自分を愛してくれるか……じゃないか？
 
 ランディ
 rndy
+Randy
 <ruby>10</ruby/>テン</ruby>バックス！！
 
 ランディ
 rndy
+Randy
 あの娘を見たらお前の考えが変わる方に賭ける。
 
 ザッパ
 zppa
+Zappa
 やめとけよ。どうせ週末になったら<cf>「ザッパ、金貸してくれ、頼むよデートなんだ」とか泣きつくに決まってんだから。
 
 ランディ
 rndy
+Randy
 お前な、そういう……
 
 ザッパ
 zppa
+Zappa
 地震…かな？
 
 ランディ
 rndy
+Randy
 <keyword>フィンランド</keyword>だぞ？
 
 ランディ
 rndy
+Randy
 霊障だったりして。
 
 ザッパ
 zppa
+Zappa
 はは、まさか。霊障で地震なんて…。
 
 ザッパ
 zppa
+Zappa
 場所はっ？！！
 
 ランディ
 rndy
+Randy
 <keyword>エスポー</keyword>の北部だ。近いぞ！
 
 ザッパ
 zppa
+Zappa
 近隣に川か池は？ 水分濃度でもいい。<cf>地震前との気温差……それから……墓地や古い物件がないか。
 
 ザッパ
 zppa
+Zappa
 あぁ、あと！ 逆説的だけど屋外に10ｇ以上の塩が固まってないか調べて！<cf>報告はザッパスケールで。
 
 ランディ
 rndy
+Randy
 ザッパスケールね。
 
 ザッパ
 zppa
+Zappa
 情報体フレアで地震なんて…そんなの。
 
 ランディ
 rndy
+Randy
 出たぞ！！
 
 ザッパ
 zppa
+Zappa
 カテゴリーは？
 
 ランディ
 rndy
+Randy
 えーと、３だ。カテゴリー３！！
 
 ザッパ
 zppa
+Zappa
 …え、３？ 本当に３か？ 地震が起きたんだぞ？
 
 ランディ
 rndy
+Randy
 このボロに聞けよ。まぁ、意外と普通だったな。
 
 ザッパ
 zppa
+Zappa
 逆だよ逆！
 
 ザッパ
 zppa
+Zappa
 ザッパスケールは霊障の起きやすさを調べるだけの目安だ。<cf>カテゴリー３程度で地震が起きたとしたら、<cf>それは情報体フレアがものすごい規模だったってことだよ！
 
 ザッパ
 zppa
+Zappa
 ははは！ すごいぞランディ！<cf>こんな現象、千年に一度あるかないかだよ！！<cf>僕たちは今、歴史的な出来事の目撃者になったんだ！！！
 
 ランディ
 rndy
+Randy
 …何年に一度だって？
 
 November 5th , 2187
@@ -441,150 +547,187 @@ November 5th , 2187
 
 ヴァーノン
 vrnn
+Vernon
 「宇宙人の小石」？ そんなことを言ったのか？
 
 レオ
 leo
+Leo Whitefang
 えぇ、もちろん例え話ですが。<cf>要するに、この先何が起こるか全くわからないということです。
 
 ヴァーノン
 vrnn
+Vernon
 君の見解は？ <keyword>イリュリア</keyword><ruby>連王</ruby/>れんおう</ruby>国、<keyword>第二<ruby>連王</ruby/>れんおう</ruby></keyword>としての。
 
 レオ
 leo
+Leo Whitefang
 <keyword><ruby>調律師</ruby/>ちようりつし</ruby></keyword>より詳しい答えなんて、誰にも出せませんよ。
 
 レオ
 leo
+Leo Whitefang
 ジャパニーズコロニーの異変は気になりますが、火急の要はないかと。<cf>事件の関与がハッキリとするまではエルフェルトの捜索を優先すべきでしょう。
 
 ヴァーノン
 vrnn
+Vernon
 いいニュースは無し、か。
 
 レオ
 leo
+Leo Whitefang
 はい。<keyword>元老院</keyword>が起こした先日の事件も、一般に知れてしまいました。<cf>ジャスティスの存在も…。
 
 レオ
 leo
+Leo Whitefang
 全人類が「慈悲なき啓示」との戦争状態に入ったと言えるでしょう。
 
 ヴァーノン
 vrnn
+Vernon
 一体、残された時間はどれほどあるのだろうか…。
 
 レオ
 leo
+Leo Whitefang
 しかしまぁ、悪い話ばかりでもありません。
 
 レオ
 leo
+Leo Whitefang
 少なくとも敵は、ジャスティス復活に必要なエネルギーをまだ手に入れていない。
 
 レオ
 leo
+Leo Whitefang
 そして<ruby>Dr.</ruby/>ドクター</ruby>パラダイムは、次の戦いが最後になると予想しています。<cf>「<keyword>ギアメーカー</keyword>」が対抗策を持っているとも。
 
 レオ
 leo
+Leo Whitefang
 その話を見込んで、民間にも有志を募っていますし…。
 
 レオ
 leo
+Leo Whitefang
 メディアの力を借りて、市民の気構えもうまく誘導できています。<cf>ここに来て報道も味方に出来そうです。
 
 ヴァーノン
 vrnn
+Vernon
 イリュリアには記者会見というものは無いのか？<cf>私はどうにも、そんな考えにいたらん。
 
 レオ
 leo
+Leo Whitefang
 スーツのローテーションにお困りですか？
 
 ヴァーノン
 vrnn
+Vernon
 知らないようだな。大統領はスーツを一着しか持っていない。
 
 ヴァーノン
 vrnn
+Vernon
 首が絞まる奴だ。
 
 レオ
 leo
+Leo Whitefang
 お察しします。
 
 ヴァーノン
 vrnn
+Vernon
 冗談はさておき、確認しておきたいことがある。
 
 レオ
 leo
+Leo Whitefang
 なんでしょう？
 
 ヴァーノン
 vrnn
+Vernon
 …あのソル＝バッドガイという男。何者なんだ？
 
 レオ
 leo
+Leo Whitefang
 と、言いますと？
 
 ヴァーノン
 vrnn
+Vernon
 彼の体には<keyword>ギア</keyword>の力が宿っている。<cf>我々はその力のおかげで、先日の事件を切り抜けることができた。<cf>それにはもちろん感謝している。
 
 ヴァーノン
 vrnn
+Vernon
 だが、強力すぎる。<cf>私も軍人だった。恐ろしいギアは過去に散々見てきたが、彼ほどではない。
 
 レオ
 leo
+Leo Whitefang
 う～ん、私は<keyword>オーストラリア</keyword>の部隊でしたから詳しくは…。
 
 レオ
 leo
+Leo Whitefang
 ですが、<keyword><ruby>聖騎士団</ruby/>せいきしだん</ruby></keyword>の間ではある種の都市伝説でしたね。「軍神」だとか。
 
 ヴァーノン
 vrnn
+Vernon
 軍神？
 
 レオ
 leo
+Leo Whitefang
 「気まぐれで粗野」という噂は実際に会って、なるほどといった感じでしたが。<cf>そういうマイペースなところが、神出鬼没と相まって広まった噂のようです。
 
 レオ
 leo
+Leo Whitefang
 あぁ、しかし、間違っても本人には直接訊かないことです。
 
 ヴァーノン
 vrnn
+Vernon
 何をだ。
 
 レオ
 leo
+Leo Whitefang
 彼の過去です。なんでもツキが落ちるとか。
 
 ヴァーノン
 vrnn
+Vernon
 ツキ……。戦場におけるジンクスというやつか。
 
 ヴァーノン
 vrnn
+Vernon
 君は、信頼しているか？ <ruby>人間</ruby/>ひと</ruby>ではない彼を。
 
 レオ
 leo
+Leo Whitefang
 どうでしょうね。<cf>しかし少なくとも、<keyword>第一連王</keyword>のカイはソルのことを信頼しています。<cf>私は、カイの信じるものなら信じることができます。
 
 ヴァーノン
 vrnn
+Vernon
 我々は知っておくべきかもしれない。<cf>彼が軍神であろうと疫病神であろうと…。
 
 ヴァーノン
 vrnn
+Vernon
 どちらかの神が世界を変える。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -596,118 +739,147 @@ November 5th , 2187
 
 ソードマン
 swmn
+Swordsman
 ソル様、そちらは？
 
 ソル
 sols
+Sol Badguy
 ねぇな…。
 
 パラダイム
 prdm
+Dr. Paradigm
 もう少し詳しく調べてくれ。
 
 ソル
 sols
+Sol Badguy
 ココの気温を教えてやる。それからもう一回その台詞をはいてみろ。
 
 パラダイム
 prdm
+Dr. Paradigm
 お前の防寒方針は、私のせいではないぞ。
 
 ソル
 sols
+Sol Badguy
 ふん。
 
 ソル
 sols
+Sol Badguy
 …やはりエルフェルトの信号は消されてるんじゃねぇのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 その結論は考えたくないな…。
 
 ソル
 sols
+Sol Badguy
 奴の行動範囲は調べ尽くしたが、<keyword><ruby>生体法紋</ruby/>せいたいほうもん</ruby></keyword>は見つからねぇ。
 
 ソル
 sols
+Sol Badguy
 まさか、手作業で消して回ってるとでも？
 
 パラダイム
 prdm
+Dr. Paradigm
 そうであって欲しいな。<cf>もし、敵が信号を隠す手段を持っているとしたら、お手上げだ。
 
 ソル
 sols
+Sol Badguy
 ちっ。おいインコ野郎。こんな神頼みまがいは時間の無駄だ。
 
 ソル
 sols
+Sol Badguy
 「<keyword>慈悲なき啓示</keyword>」がどんな手を使うか知らねぇが、<cf>エルフェルトが<keyword>ジャスティス</keyword>と融合すれば、全部おじゃんなんだぞ。
 
 シン
 sin
+Sin Kiske
 オヤジ！ そんな言い方はないだろ。<cf>パラダイムのおっさんだってがんばってんだからさ。
 
 パラダイム
 prdm
+Dr. Paradigm
 いいんだ。<keyword>フレデリック</keyword>に比べれば、私は大したことはしていない。
 
 シン
 sin
+Sin Kiske
 おっさんだって寝てないじゃん。
 
 パラダイム
 prdm
+Dr. Paradigm
 それこそ皆同じだ。<cf>「慈悲なき啓示」が近々仕掛けてくることは、疑いようがないのだからな。
 
 パラダイム
 prdm
+Dr. Paradigm
 しかしフレデリックは体の異変にも耐えている。
 
 パラダイム
 prdm
+Dr. Paradigm
 それに、本来なら今すぐにでも「<keyword>ギアメーカー</keyword>」の元に向かいたい筈だ。<cf>自らの過去が、明らかになるかもしれないのだからな。
 
 ソル
 sols
+Sol Badguy
 ちっ、もういい、喋りすぎだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 わかった、そうだったな。<cf>まったく、お前はギアメーカーの話となると機嫌が悪くなっていかん。
 
 シン
 sin
+Sin Kiske
 ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 まぁだが、人間社会に来てからは食べ物が変わりすぎた。<cf>胃薬が欠かせなくなったのは辛いかな。
 
 ソル
 sols
+Sol Badguy
 …ふん。ここはもう切り上げるぞ。
 
 パラダイム
 prdm
+Dr. Paradigm
 どうするつもりだ。
 
 ソル
 sols
+Sol Badguy
 ダメ元でもう一件当たってみる。
 
 ソル
 sols
+Sol Badguy
 …なんだよ。解体作業が進んだろ？
 
 ソル
 sols
+Sol Badguy
 地震…？
 
 ソル
 sols
+Sol Badguy
 今のは違うぞ。
 
 November 5th , 2187
@@ -715,38 +887,47 @@ November 5th , 2187
 
 ザトー
 zat
+Zato-ONE
 それでは、大筋で合意できたと考えて宜しいですか？
 
 ダレル
 dare
+Durrell
 指針を確認しただけだ。何も約束は出来ない。
 
 ザトー
 zat
+Zato-ONE
 それで構いません。なにせ私は<ruby>死人</ruby/>しびと</ruby>です。
 
 ザトー
 zat
+Zato-ONE
 この世にいない者と契約など出来るはずもありませんからね。
 
 ダレル
 dare
+Durrell
 私がそれを言い易くするために、<cf>現<keyword>アサシン</keyword><ruby>首領</ruby/>しゆりよう</ruby>でもない君が連絡をよこした…と。
 
 ザトー
 zat
+Zato-ONE
 余計な気遣いでしたか？
 
 ダレル
 dare
+Durrell
 腹を探るのはよせ。道は作っておく。
 
 ダレル
 dare
+Durrell
 結果を出したまえ。
 
 ザトー
 zat
+Zato-ONE
 承知いたしました。
 
 November 12th , 2187
@@ -754,234 +935,292 @@ November 12th , 2187
 
 聖皇
 arls
+St. Maximus
 なるほど…。
 
 聖皇
 arls
+St. Maximus
 会談の予定を組む暇もなかったわけですね。
 
 聖皇
 arls
+St. Maximus
 ですが貴方は、この<keyword>イリュリア</keyword>連王国の<keyword>第一連王</keyword>。
 
 聖皇
 arls
+St. Maximus
 <ruby>特異</ruby/>とくい</ruby>な行動を取れば、国民の焦りにも繋がります。<cf>周囲への気配りも忘れないでください。
 
 カイ
 kyk
+Ky Kiske
 以後、自重いたします。
 
 聖皇
 arls
+St. Maximus
 それにしても、市民を守るべき<keyword>オーパス</keyword>に<keyword>ギア細胞</keyword>が使われていたとは…。<cf>確認を<ruby>怠</ruby/>おこた</ruby>った私の責任ですね。
 
 カイ
 kyk
+Ky Kiske
 <keyword>元老院</keyword>が秘密裏に行っていたことです。<cf>どうか御自分をお責めにならないでください。
 
 聖皇
 arls
+St. Maximus
 解っているとは思いますが、これが公表されれば、大衆は心の拠り所を失います。
 
 聖皇
 arls
+St. Maximus
 彼らの安らかな夜を、どう守りますか？
 
 カイ
 kyk
+Ky Kiske
 事実を伝えた上でオーパスを破棄し、<ruby>代替</ruby/>だいたい</ruby>の部隊を再編するべきかと。
 
 聖皇
 arls
+St. Maximus
 まったく…あくまで<ruby>篤行</ruby/>とくこう</ruby>を第一と考えるのですね、貴方は。<cf>ですが、それでは民衆の不安は拭えませんよ。
 
 カイ
 kyk
+Ky Kiske
 お言葉ですが、万一オーパスが人に危害を加えるような事態になれば、<cf>夜どころか、再び朝を迎えることも出来なくなります。
 
 聖皇
 arls
+St. Maximus
 私はね、必要な<ruby>方便</ruby/>ほうべん</ruby>も少しは学んだほうがいいと言っているんですよ。
 
 カイ
 kyk
+Ky Kiske
 それは…どうにも不得手でございます。
 
 聖皇
 arls
+St. Maximus
 民衆はそんな貴方が好きなのでしょう。そのままの貴方が。
 
 聖皇
 arls
+St. Maximus
 分かりました。その役目は私が引き受けます。
 
 聖皇
 arls
+St. Maximus
 オーパスは各位に告げ、即座に破棄。<cf>ただし、公には「慈悲なき啓示」打倒のため、戦力を結集させると公表します。
 
 聖皇
 arls
+St. Maximus
 全てが終わったら、改めてこの嘘を皆に<ruby>陳謝</ruby/>ちんしや</ruby>しましょう。<cf>それでいかがですか？
 
 カイ
 kyk
+Ky Kiske
 せ、聖皇様にそのような役回りをお任せするわけには参りません。
 
 聖皇
 arls
+St. Maximus
 もともと私の過ちです。
 
 カイ
 kyk
+Ky Kiske
 もったいないお言葉。
 
 聖皇
 arls
+St. Maximus
 しかし、そうですね。強いて見返りを求めるなら…。
 
 聖皇
 arls
+St. Maximus
 もうじき<keyword>祝勝会</keyword>が開かれます。今年はちゃんと出席しなさい。
 
 カイ
 kyk
+Ky Kiske
 祝勝会ですか？ しかしこのような時期に…。
 
 聖皇
 arls
+St. Maximus
 このような時期だからです。<cf><keyword><ruby>聖戦</ruby/>せいせん</ruby></keyword>に勝利した日は、人類が新たなる未来を勝ち取った偉大な歴史。
 
 聖皇
 arls
+St. Maximus
 今、戦火にあるならば、それは戦士たちの<ruby>鼓舞</ruby/>こぶ</ruby>にもなり得るでしょう。
 
 カイ
 kyk
+Ky Kiske
 は、はい。
 
 聖皇
 arls
+St. Maximus
 前線に立って剣を振るうばかりが王の仕事ではありませんよ？
 
 カイ
 kyk
+Ky Kiske
 精進いたします。それでは。
 
 聖皇
 arls
+St. Maximus
 どうしました？
 
 カイ
 kyk
+Ky Kiske
 いえ、その…。
 
 カイ
 kyk
+Ky Kiske
 人類にとって耐えがたき<ruby>苦汁</ruby/>くじゆう</ruby>の歴史は、全て人間が自ら招いた結果ともいえます。
 
 カイ
 kyk
+Ky Kiske
 そのような愚かな存在でも、聖皇様は…
 
 カイ
 kyk
+Ky Kiske
 人間を愛していますか？
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 私は聖皇ですよ？ そのような質問、答えるまでもないのでは？
 
 ソードマン
 swmn
+Swordsman
 失礼いたします。第三連王様からカイ様に連絡が…。お急ぎとのことです。
 
 カイ
 kyk
+Ky Kiske
 解りました。すぐに向かいます。
 
 ベッドマン
 bed
+Bedman
 今の、何だろうね。
 
 聖皇
 arls
+St. Maximus
 さぁね。できれば祝勝会までは大人しくして欲しいが…。
 
 聖皇
 arls
+St. Maximus
 そんなことを訊きに来たのかい？
 
 ベッドマン
 bed
+Bedman
 ……いや。
 
 聖皇
 arls
+St. Maximus
 君の役目は敵の排除だろう、ベッドマン？<cf>ここに顔を出すのは危険じゃないか。
 
 ベッドマン
 bed
+Bedman
 もちろん承知している。だが、もっと危険なことがある。
 
 聖皇
 arls
+St. Maximus
 ……？
 
 ベッドマン
 bed
+Bedman
 先日の戦いで僕は「<keyword>あの男</keyword>」を牢に閉じ込めた。
 
 ベッドマン
 bed
+Bedman
 大きな障害に退場してもらったことで、正直チェックメイトだと思っていたよ。
 
 ベッドマン
 bed
+Bedman
 だが彼が隠していたジャック・オーという少女は恐らくジャスティスの完全適合生体だ。
 
 ベッドマン
 bed
+Bedman
 放っておけば、確実に僕らの計画の障害となる。
 
 聖皇
 arls
+St. Maximus
 「あの男」…ギアメーカーか……。
 
 聖皇
 arls
+St. Maximus
 私にとって最も古い敵だ。さすがに核心を突いてくるな。
 
 ベッドマン
 bed
+Bedman
 感心している場合じゃない。<cf>ジャック・オーとソル＝バッドガイの合流は阻止するべきだ。
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 その少女の居場所は簡単に特定できないだろう。他の戦力を削った方がいい。
 
 聖皇
 arls
+St. Maximus
 ファランクス<ruby>９</ruby/>ナイン</ruby>を使う。
 
 ベッドマン
 bed
+Bedman
 スイス人を？
 
 聖皇
 arls
+St. Maximus
 前からバイトを探してたじゃないか。
 
 ベッドマン
 bed
+Bedman
 …わかったよ。では一応、彼らの名簿を貰っておきたい。
 
 November 17th , 2187
@@ -996,74 +1235,92 @@ November 13th , 2187
 
 ランディ
 rndy
+Randy
 おいどうなってる？ 地震、もう４件も起きてるぞ？
 
 ザッパ
 zppa
+Zappa
 うん。しかも、生命反応と爆発まで観測されてる。こいつは本当にただ事じゃないぞ？
 
 ランディ
 rndy
+Randy
 首都からの回答はまだなのか？
 
 ザッパ
 zppa
+Zappa
 自分で言いたくないけど、ポンコツ<ruby>特課</ruby/>とっか</ruby>の報告だからね。適当に扱われてるかも。
 
 ランディ
 rndy
+Randy
 俺達は税金対策か？
 
 ザッパ
 zppa
+Zappa
 国営だよ、ランディ。税金は関係ない。
 
 ランディ
 rndy
+Randy
 なぁ、この現象は千年に一度とか言ってたよな。前にもあったことなのか？
 
 ザッパ
 zppa
+Zappa
 言葉のあやだよ、滅多にないってことで。こんな現象、聞いたこともない。
 
 ランディ
 rndy
+Randy
 じゃあ次に何が起きるとか、どこで起きるとか、解らないのか？
 
 ザッパ
 zppa
+Zappa
 首都の環境測定ソフトに<keyword>ザッパスケール</keyword>をプラグインできれば役に立つと思うけど。<cf>ここの設備じゃ、難しいな…。
 
 ランディ
 rndy
+Randy
 あぁもう、本当にポンコツチームだな。俺達はぁ。
 
 ランディ
 rndy
+Randy
 こんな現象が、人の集まる所で起きればどうなる？<cf>それを未然に防ぐのが俺たちの仕事なんだよな？
 
 ザッパ
 zppa
+Zappa
 そんなこと言ったって、何が原因で何が起きているのか……
 
 ランディ
 rndy
+Randy
 俺に変われって言っただろ。だとしたら、それは今だ。
 
 ランディ
 rndy
+Randy
 お前の<keyword>オカルト</keyword>だの<keyword><ruby>憑依</ruby/>ひようい</ruby></keyword>だのって知識が重要なら、オタクだって笑ったことは謝るからさ！！
 
 ザッパ
 zppa
+Zappa
 憑依…待てよ。
 
 ランディ
 rndy
+Randy
 どうした？
 
 ザッパ
 zppa
+Zappa
 そうだよ、憑依だよ！<cf>こうなったら資料を揃えて直々に報告するしかない。
 
 November 10th , 2187
@@ -1071,74 +1328,92 @@ November 10th , 2187
 
 カイ
 kyk
+Ky Kiske
 どういうことですか、ダレル。我々に相談もなく、<keyword>アサシン</keyword>組織を吸収するとは。
 
 ダレル
 dare
+Durrell
 吸収はしていない、まだな。事後報告の非は認めるが。
 
 ダレル
 dare
+Durrell
 しかし、事前に話したら、<ruby>否応</ruby/>いやおう</ruby>なく反対しただろう？
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 ダレル
 dare
+Durrell
 言い分はわかる。<cf>しかし君やレオが客観的な判断に欠ける事実を認めるべきだ。
 
 カイ
 kyk
+Ky Kiske
 客観的な判断とは、暗殺組織を正義と法の<ruby>庇護下</ruby/>ひごか</ruby>におくことですか？
 
 ダレル
 dare
+Durrell
 その口ぶりに自覚が無いと言っている。
 
 ダレル
 dare
+Durrell
 そもそもこのような事態に陥ったのは、その法の番人たる<keyword>元老院</keyword>が原因ではないか。
 
 ダレル
 dare
+Durrell
 そして、彼らの子飼いである<keyword>終戦管理局</keyword>もまた、ホコリまみれだ。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 解っています。<cf>確かに私の理想論でそれらの組織を裁くには、長い年月を費やしてしまう。<cf>爆発的に膨らむ犯罪者の審理に…
 
 ダレル
 dare
+Durrell
 その間、彼らを養うための収容所と衣食住は全て国民の負担だ。
 
 カイ
 kyk
+Ky Kiske
 ですが、放置すれば彼らは散り散りとなり、やがて責任の追及は不可能になる。
 
 カイ
 kyk
+Ky Kiske
 ジレンマか…。
 
 ダレル
 dare
+Durrell
 カイ、大人になれというつもりは無い。私も君と同じことをしているだけだ。
 
 カイ
 kyk
+Ky Kiske
 ラムレザルを味方につけていることですか？
 
 ダレル
 dare
+Durrell
 そう、先日まで人類の敵だった彼女をな。
 
 ダレル
 dare
+Durrell
 これからの戦いは人類同士の小競り合いではない。少しでも戦力は必要だ。
 
 November 9th , 2187
@@ -1146,6 +1421,7 @@ November 9th , 2187
 
 ラムレザル
 rams
+Ramlethal Valentine
 …エル。
 
 November 17th , 2187
@@ -1153,82 +1429,102 @@ November 17th , 2187
 
 アクセル
 axl
+Axl Low
 エルフェルト…ラムレザルの姉妹ってことは、その娘も<keyword>ヴァレンタイン</keyword>ってこと？
 
 アクセル
 axl
+Axl Low
 何でそんなのを助けようとしてんのさ？
 
 ソル
 sols
+Sol Badguy
 エルフェルトが<keyword>ジャスティス</keyword>と融合すれば、世界が滅びる。<cf>残された時間も解ってねぇ。
 
 アクセル
 axl
+Axl Low
 ふ～ん。
 
 ソル
 sols
+Sol Badguy
 なんだ？
 
 アクセル
 axl
+Axl Low
 ……違うな。
 
 アクセル
 axl
+Axl Low
 旦那にとって俺は何年の付き合いだか解らないけどさ。<cf>今の俺にとっては、そりゃあもう長い付き合いなワケよ。
 
 アクセル
 axl
+Axl Low
 何度も同じような時代を<ruby>彷徨</ruby/>さまよ</ruby>って俺達は会ってるかんね。
 
 ソル
 sols
+Sol Badguy
 ……何が言いてぇ？
 
 アクセル
 axl
+Axl Low
 仕事で人を助ける時は、そんな顔しない。
 
 ソル
 sols
+Sol Badguy
 ヴァレンタイン姉妹は人類の敵ではなくなったってだけだ。妙な勘繰りはやめろ。
 
 アクセル
 axl
+Axl Low
 はいはい。それで俺にその「手がかり」を見つけて欲しいって話だ。
 
 アクセル
 axl
+Axl Low
 ……過去の時代から。
 
 アクセル
 axl
+Axl Low
 ……悪いね旦那。今回は力になれそうに無い。
 
 ソル
 sols
+Sol Badguy
 ？
 
 アクセル
 axl
+Axl Low
 確かに俺は過去に行って、未来を変えたことがある。タイムトリップをしてね。
 
 アクセル
 axl
+Axl Low
 今までは、事故みたいなきっかけで時間旅行をしていると思ってたんだけどさ……。
 
 アクセル
 axl
+Axl Low
 どうやら違ってたらしい。無意識にコントロールしてたみたいなんだ。そう聞いた。
 
 ソル
 sols
+Sol Badguy
 どういうことだ？
 
 アクセル
 axl
+Axl Low
 聞いてくれ旦那。俺はもう、時代を跳ぶことはできない。
 
 November 9th , 2187
@@ -1236,162 +1532,202 @@ November 9th , 2187
 
 スレイヤー
 sly
+Slayer
 待ち詫びたよ。戦果は？
 
 ザトー
 zat
+Zato-ONE
 やはり、第三連王は実質的な利を重視される方でした。
 
 スレイヤー
 sly
+Slayer
 読み通りだな。今回はカイ＝キスクに相談しないことが正解だったようだ。
 
 ザトー
 zat
+Zato-ONE
 まぁ彼らも我々の扱いには困っていたでしょう。
 
 ザトー
 zat
+Zato-ONE
 暗殺組織と終戦管理局のつながり。これが公になれば<ruby>糾弾</ruby/>きゆうだん</ruby>されるのは政府ですからね。
 
 ヴェノム
 ven
+Venom
 では、これで…。
 
 ザトー
 zat
+Zato-ONE
 あぁ、我々アサシンも民間の兵として参戦できる。
 
 ミリア
 mll
+Millia Rage
 一つ目のハードルはクリア、と言ったところね。
 
 ミリア
 mll
+Millia Rage
 情報のパイプと入場券は手に入れた。それから？
 
 スレイヤー
 sly
+Slayer
 ベッドマンだよ。彼を打倒する。
 
 ミリア
 mll
+Millia Rage
 貴方達、本当にそればっかりね。彼に負けたことがそんなにショック？
 
 ヴェノム
 ven
+Venom
 武勲として大きな意味がある。
 
 ヴェノム
 ven
+Venom
 我々アサシンが再評価されるためには、分かり易く目を引く<ruby>首級</ruby/>しゆきゆう</ruby>が望ましい。
 
 スレイヤー
 sly
+Slayer
 うむ。問題はベッドマンがどこに現れるかだ…。
 
 ザトー
 zat
+Zato-ONE
 それならば、私にお任せください。<cf>彼が現世に現れれば、その場所を特定できるかもしれません。
 
 スレイヤー
 sly
+Slayer
 いつからそんな芸当が？
 
 ザトー
 zat
+Zato-ONE
 このザトー。今は割と万能チックです。<cf><ruby>黄泉</ruby/>よみ</ruby>の世界で知識という知識を得ましたから。
 
 ミリア
 mll
+Millia Rage
 ただ喧嘩がしたいようにしか見えないわよ…。<cf>組織の再建が目的だってことを忘れないで。
 
 ザトー
 zat
+Zato-ONE
 忘れてはいない。
 
 ザトー
 zat
+Zato-ONE
 だが私の生きがいはミリア、お前だけだ。<cf>この作戦はお前の望みにつながると思っている。
 
 ミリア
 mll
+Millia Rage
 ……。
 
 ミリア
 mll
+Millia Rage
 それで、彼に勝ったらどうするの？<cf>三角帽かぶってクラッカーでも鳴らす？
 
 ミリア
 mll
+Millia Rage
 レモネードも作っておいたほうがいいかしら。
 
 スレイヤー
 sly
+Slayer
 ふむ、悪くないね。
 
 スレイヤー
 sly
+Slayer
 だがどうせなら、ヴィンテージのブルドーを開けるとしよう。<cf>付き合いたまえよ、ザトー君？
 
 ザトー
 zat
+Zato-ONE
 喜んで。<ruby>尤</ruby/>もっと</ruby>も、今の私には味の良し悪しは判りませんが…。
 
 スレイヤー
 sly
+Slayer
 残念だ。半世紀以上、寝かしておいた取って置きでね。昔の君なら、飛びつく一品なのだが。
 
 ミリア
 mll
+Millia Rage
 皮肉も通じないのね。
 
 ミリア
 mll
+Millia Rage
 でもそれなら私が付き合うわ。貴方達のお遊びはどうでもいいけど、ワインには興味ある。
 
 スレイヤー
 sly
+Slayer
 ウェルダン。夜風に月。<ruby>麗</ruby/>うるわ</ruby>しき女性が揃えば、宴の完成は疑念の余地が無い。
 
 スレイヤー
 sly
+Slayer
 チーズに関してはヴェノム君の目利きが最も信頼できる。
 
 ヴェノム
 ven
+Venom
 お声掛け頂き恐縮です。しかし私は、<ruby>慎</ruby/>つつし</ruby>んで辞退させていただきます。
 
 ザトー
 zat
+Zato-ONE
 ……。
 
 ミリア
 mll
+Millia Rage
 ……。
 
 スレイヤー
 sly
+Slayer
 もう、動くのかね。
 
 スレイヤー
 sly
+Slayer
 未練を問う気はないが、船出の前こそ華が必要ではないかね。
 
 ヴェノム
 ven
+Venom
 状況は整いました。ですが、結果が伴わなければなりません。
 
 スレイヤー
 sly
+Slayer
 そうか…では、良き旅を。
 
 ヴェノム
 ven
+Venom
 後のこと…ザトー様のことをお頼みいたします。
 
 ミリア
 mll
+Millia Rage
 ……。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1403,178 +1739,222 @@ November 17th , 2187
 
 ソル
 sols
+Sol Badguy
 「ありえた未来」だ？
 
 アクセル
 axl
+Axl Low
 そ。それと「ありえる過去」
 
 アクセル
 axl
+Axl Low
 俺にはそのうち一つだけを選択できる力があるんだと…。
 
 アクセル
 axl
+Axl Low
 旦那、この意味解る？
 
 ソル
 sols
+Sol Badguy
 二つの世界。つまりお前のいた過去と今の時代の二つの時間軸。
 
 ソル
 sols
+Sol Badguy
 どちらか一つを存続させれば、片方は消滅するってことだな。
 
 アクセル
 axl
+Axl Low
 ……。あんまり驚かないのね。
 
 ソル
 sols
+Sol Badguy
 タイムトリッパーの存在自体が既に異常なんだよ。
 
 ソル
 sols
+Sol Badguy
 お前が世界にとって最も危険な存在だってのは、今更の話だ。
 
 アクセル
 axl
+Axl Low
 本当にタフだねぇ。
 
 アクセル
 axl
+Axl Low
 俺はもう、この力が発現しないように毎日怯えてるってのにさ。
 
 ソル
 sols
+Sol Badguy
 まぁいい。それならもう用はねぇ。
 
 アクセル
 axl
+Axl Low
 だ、旦那…。
 
 アクセル
 axl
+Axl Low
 もし俺が…元の時代を選んだら…どうする？
 
 ソル
 sols
+Sol Badguy
 何故そんなことを訊く。ぶっ殺すとでも言って欲しいのか？
 
 アクセル
 axl
+Axl Low
 そうじゃないけど、自分でもどうしたらいいか解らないんだ。
 
 ソル
 sols
+Sol Badguy
 厄介ごとが増えるのはゴメンだ。
 
 アクセル
 axl
+Axl Low
 ……。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 盲目な進化による破滅と、一人のエゴによる破滅。
 
 ソル
 sols
+Sol Badguy
 どちらがよりくだらねぇか…。
 
 パラダイム
 prdm
+Dr. Paradigm
 <keyword>フレデリック</keyword>、状況は？
 
 ソル
 sols
+Sol Badguy
 ハズレだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 そうか、残念だ…。
 
 パラダイム
 prdm
+Dr. Paradigm
 「<keyword>ギアメーカー</keyword>」であれば、何かの答えを持っているかもしれんがな……。
 
 ソル
 sols
+Sol Badguy
 野郎に頼るのはやめろ。
 
 ソル
 sols
+Sol Badguy
 お前があいつに<ruby>御執心</ruby/>ごしゆうしん</ruby>なことは知ったことじゃねぇが、<cf>こうなった原因は全部、そのギアメーカーにあるんだぞ。
 
 パラダイム
 prdm
+Dr. Paradigm
 わかったよ。お前にこんな話を振った私が悪かった。
 
 パラダイム
 prdm
+Dr. Paradigm
 では待っている。帰ったら報告書を書けよ。
 
 ソル
 sols
+Sol Badguy
 ふん…。
 
 ソル
 sols
+Sol Badguy
 …っく！！
 
 ソル
 sols
+Sol Badguy
 また、ざらつきが…。
 
 ソル
 sols
+Sol Badguy
 なんだ？！
 
 ソル
 sols
+Sol Badguy
 ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 どうしたフレデリック、何かあったのか？
 
 ソル
 sols
+Sol Badguy
 なんでもねぇ、また地震だ。ちょっとデカかっ…
 
 ソル
 sols
+Sol Badguy
 くそっ！ 何だってんだ！
 
 パラダイム
 prdm
+Dr. Paradigm
 フレデリック、何が起こっている？！ 応答しろ！
 
 ソル
 sols
+Sol Badguy
 何だ…コイツは…？
 
 ソル
 sols
+Sol Badguy
 マジか！！
 
 ソル
 sols
+Sol Badguy
 うおぁっ！
 
 ソル
 sols
+Sol Badguy
 （ち、<keyword>フロート</keyword>を練る時間がねぇ）
 
 ソル
 sols
+Sol Badguy
 やはりギアメーカーと連絡を取れ。<ruby>腰巾着</ruby/>こしぎんちやく</ruby>のカラスでもいい。
 
 ソル
 sols
+Sol Badguy
 敵はじっとしているつもりはなさそうだ。
 
 November 17th , 2187
@@ -1582,94 +1962,117 @@ November 17th , 2187
 
 レイヴン
 rvn
+Raven
 腰巾着か。言ってくれる。
 
 レイヴン
 rvn
+Raven
 しかし、あのクラスの巨大ギアにまで<keyword>縮退</keyword>が始まった。<cf><keyword><ruby>絶対確定世界</ruby/>ぜつたいかくていせかい</ruby></keyword>の予兆ももうすぐだな。
 
 ジャック・オー
 jko
+Jack-O Valentine
 予兆？ 違うよ。これは本格化。<cf>これからはきっと規模が大きくなるんじゃないかな。
 
 ジャック・オー
 jko
+Jack-O Valentine
 <keyword>情報体フレア</keyword>の濃度も<keyword>二次宇宙線</keyword>の異常も体感できる。<cf>絶対確定世界の前に地殻異変が起きないか心配だわ。
 
 レイヴン
 rvn
+Raven
 まだ安定しないのか？
 
 ジャック・オー
 jko
+Jack-O Valentine
 これでも自制は効くようになってきたのよ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 神様を乗っ取って人間になろうとしてんだから、この程度の不具合で済めば上等じゃない？
 
 レイヴン
 rvn
+Raven
 記憶の方はどうだ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 断片的なことだけ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ソルのことはほとんど思い出せないけど…。一つ、約束だけは覚えてるって感じかな。
 
 レイヴン
 rvn
+Raven
 約束？
 
 ジャック・オー
 jko
+Jack-O Valentine
 そう。この体の本来の持ち主、<keyword>アリア</keyword>が大事にしていたことみたい。
 
 レイヴン
 rvn
+Raven
 ……。
 
 レイヴン
 rvn
+Raven
 私もお前も、もうすぐ人生を取り戻すことができる。
 
 レイヴン
 rvn
+Raven
 もう少しの辛抱だ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 そのことだけど、もうソル達と合流したほうが良くない？<cf>向こうも会いたがってることだし。
 
 レイヴン
 rvn
+Raven
 あのお方がまだ戻られていない。
 
 ジャック・オー
 jko
+Jack-O Valentine
 「<keyword>慈悲なき啓示</keyword>」は彼の帰還を待ってはくれないわ。
 
 レイヴン
 rvn
+Raven
 お前は<keyword>ジャスティス</keyword>の復活を阻止できる唯一の鍵だ。
 
 レイヴン
 rvn
+Raven
 安易な判断で動くべきではない。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ……。
 
 ジャック・オー
 jko
+Jack-O Valentine
 は～い。でももう、監視は飽きてきちゃったよ。
 
 レイヴン
 rvn
+Raven
 ……。
 
 November 17th , 2187
@@ -1677,158 +2080,197 @@ November 17th , 2187
 
 ロボカイ
 rbky
+Robo-Ky
 っダぁ！ クソガキっ！
 
 イアン
 bully
+Ian
 うるせぇ、ブリキのかかし～。
 
 ネオ
 chdm
+Neo
 そうだ、ブリキ！ 町から出てけ～！！
 
 ロボカイ
 rbky
+Robo-Ky
 コンニャロウ。今日トイウ今日ハ我慢ナラン。<cf>出ルトコ出テヤル。未成年ガ犯罪ノ免罪符ダト思ウナヨ。
 
 イアン
 bully
+Ian
 ブリキのくせに生意気言ってんじゃねぇや。住民票取ってから言えよな。
 
 ロボカイ
 rbky
+Robo-Ky
 キ～、最近のガキは妙ナ知識バッカリ持ッテ。
 
 ロボカイ
 rbky
+Robo-Ky
 大体ワシはぶりきジャナイ。<cf>世界デ唯一ノばいお合金トはいぱーえこノ<keyword>ヘラクレスエンジン</keyword>ヲ搭載シタ……
 
 イアン
 bully
+Ian
 オマエがここに居ると町の「ビカン」を損ねるんだってよ。<cf>父ちゃんが言ってたぞ。動く粗大ゴミだってな。
 
 ネオ
 chdm
+Neo
 そうだ、粗大ごみ！
 
 ロボカイ
 rbky
+Robo-Ky
 ごみジャナイ！ ワシハ誇リアル…
 
 ロボカイ
 rbky
+Robo-Ky
 話グライ最後マデ聞ケッ！
 
 イアン
 bully
+Ian
 オマエの話なんて、聞かなくていいんだよ。<cf>俺は父ちゃんの後を継いで「ギイン」ってやつになんだかんな。<cf>エライ人間になんだ。
 
 イアン
 bully
+Ian
 エライ奴は、ブリキなんかと会話なんてしねぇんだよ。
 
 ロボカイ
 rbky
+Robo-Ky
 ……。
 
 ロボカイ
 rbky
+Robo-Ky
 ンンン、ぐフッ、ソウカ。ジャア立派ナ「ギイン」二ナレ。
 
 イアン
 bully
+Ian
 ……。
 
 ロボカイ
 rbky
+Robo-Ky
 ソノタメニハ、弱イ者イジメナンテシチャ駄目ダ。駄目駄目。
 
 イアン
 bully
+Ian
 粗大ゴミ～！！！　俺がギインになったらゴミ箱くらいにはしてやんぜ～。
 
 ネオ
 chdm
+Neo
 ゴミ箱～！！
 
 ロボカイ
 rbky
+Robo-Ky
 ムキ～！！<cf>今度来タラ<ruby>尻</ruby/>ケツ</ruby>カラはいおく突ッ込ンデ、「ユートピア～！」ッテ叫バセテヤルカラナ！
 
 ロボカイ
 rbky
+Robo-Ky
 ったく、クソガキドモガ！ …ン？
 
 ロボカイ
 rbky
+Robo-Ky
 ククク、馬鹿ナ奴らダ。何カ大事ソウナモノヲ落トシテ行ったゾ？
 
 ロボカイ
 rbky
+Robo-Ky
 所詮、<ruby>駄目目駄目科駄目人間</ruby/>だめもくだめかだめにんげん</ruby>ノ猿ヨノウ。<cf>偉大なワシノはいぱー注意力ノ前デハ屑同然の存ザ……
 
 ロボカイ
 rbky
+Robo-Ky
 シャァアアアア！！
 
 ヴェノム
 ven
+Venom
 見つけたぞ。まさかこんなところにいたとはな。
 
 ロボカイ
 rbky
+Robo-Ky
 フン。ドコダロウガ一緒ダ。ワシニトッテハナ。デ、ナンダ貴様ハ？
 
 ヴェノム
 ven
+Venom
 君に頼みたいことがある。
 
 ロボカイ
 rbky
+Robo-Ky
 仕事ノ依頼カ？ じゃあ、ソコカラ選べ。
 
 ヴェノム
 ven
+Venom
 『スーパーハイエレクトロ<ruby>万事屋</ruby/>よろずや</ruby>』<cf>Aコース・空き缶回収……Bコース・犬の散歩……Cコース……
 
 ロボカイ
 rbky
+Robo-Ky
 言ッテオクがワシはぷろダカラナ。安イ仕事ハ引キ受ケンゾ。
 
 ヴェノム
 ven
+Venom
 頼みたいことは、ここに書かれてはいない。だが引き受けてくれれば。言い値を払おう。
 
 ロボカイ
 rbky
+Robo-Ky
 デハ、おぷしょんこーすニナルナ。サテハ貴様、大富豪カ？
 
 ロボカイ
 rbky
+Robo-Ky
 あぁ、だがナ、ワシは金ナンカ要ランゾ。<cf>ドウせワシに物ヲ売ル奴ハイナイカラナ。現物支給デ頼ム。
 
 ヴェノム
 ven
+Venom
 現物支給？ 食料とか…？
 
 ロボカイ
 rbky
+Robo-Ky
 アホか貴様ハ！？ ワシはロボだゾ。<cf>油トカバネトカネジトカ、ソーイウノダロウが！
 
 ロボカイ
 rbky
+Robo-Ky
 あ、ダガ、洗剤ト柔軟剤ハ忘レルナ。身ダシナミハ大事ダカラナ！
 
 ヴェノム
 ven
+Venom
 ……。
 
 ヴェノム
 ven
+Venom
 かつて<keyword>終戦管理局</keyword>が巨額を投じて造り上げた技術の結晶。<cf>その君がこのように身をやつしているとはな…。
 
 ロボカイ
 rbky
+Robo-Ky
 ……ソウイエバ、マダ名前ヲ訊イテイナカッタナ？
 
 November 17th , 2187
@@ -1836,90 +2278,112 @@ November 17th , 2187
 
 ザッパ
 zppa
+Zappa
 『黒の日の出』……『黒の日の出』…
 
 ザッパ
 zppa
+Zappa
 これもない！<cf>もう、何が王立図書館だよ。これなら地元の古本屋の方がマシだ。
 
 ザッパ
 zppa
+Zappa
 あ…。
 
 ザッパ
 zppa
+Zappa
 っていうか、あぁああ！！！
 
 ザッパ
 zppa
+Zappa
 ファウスト先生！ ファウスト先生じゃありませんか！？？？
 
 ファウスト
 fau
+Faust
 ええ、はい。あの、貴方は？
 
 ザッパ
 zppa
+Zappa
 覚えてらっしゃいませんか？ しつこく先生を追っかけていた……
 
 ザッパ
 zppa
+Zappa
 世界一の名医という噂でしたので、もしかしたら僕の特殊な体質を治せるんじゃないかって。
 
 ファウスト
 fau
+Faust
 あぁあ、思い出しました！ ザッパさんですね？ 霊感体質の！
 
 ファウスト
 fau
+Faust
 完全に私の専門外でしたけどね…。
 
 ザッパ
 zppa
+Zappa
 はは、耳が痛いなぁ。
 
 ザッパ
 zppa
+Zappa
 ですがおかげで、自分の進むべき道を見つけることが出来ました。
 
 ザッパ
 zppa
+Zappa
 今は公務員なんですよ。<keyword>霊障</keyword>の観測を専門にしています。
 
 ザッパ
 zppa
+Zappa
 ところで、先生はなぜここに？
 
 ファウスト
 fau
+Faust
 あ…はい。最近、大量の患者を抱えてしまいましてね。<cf>初めて見るケースでしたから症例の情報を集めています。
 
 ザッパ
 zppa
+Zappa
 大量の…？
 
 ザッパ
 zppa
+Zappa
 あの、先生。その患者とは、どういった症状なのですか？
 
 ファウスト
 fau
+Faust
 いやぁ、それは患者のプライバシーですので…。
 
 ザッパ
 zppa
+Zappa
 『黒の日の出』それに『<ruby>負債勃興</ruby/>ふさいぼつこう</ruby>』、『エリプマーヴス手記』も！<cf>どれも今日、僕が探しに来た本ばかりです。
 
 ザッパ
 zppa
+Zappa
 もしかして先生。その患者というのは……。
 
 ザッパ
 zppa
+Zappa
 <keyword>ジャパニーズ</keyword>のことではありませんか？
 
 ファウスト
 fau
+Faust
 ……どうしてそれを？
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1931,94 +2395,117 @@ November 17th , 2187
 
 レオ
 leo
+Leo Whitefang
 それで、ソルは無事なのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 <ruby>アレ</ruby/>ソル</ruby>に心配は無用だ。もっとも、爆発の規模は無視できないがな。
 
 パラダイム
 prdm
+Dr. Paradigm
 だが問題なのは、あの現象がいったい何なのか。
 
 パラダイム
 prdm
+Dr. Paradigm
 地震が発生し、<keyword>ギア</keyword>が現れ、爆発する。聞いたこともない。
 
 レオ
 leo
+Leo Whitefang
 「<keyword>慈悲なき啓示</keyword>」の仕業だと思うか？
 
 パラダイム
 prdm
+Dr. Paradigm
 断言はできんが、無関係と考える方が難しいな。
 
 レオ
 leo
+Leo Whitefang
 ふむ……。
 
 レオ
 leo
+Leo Whitefang
 ドクター、もう足踏みはやめよう。
 
 レオ
 leo
+Leo Whitefang
 つい先日、ジャパニーズ<keyword>コロニー</keyword>で原因不明の異変が起きた。続いてこの巨大ギアだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 ああ。二つの事件の関連性を探ったほうがよさそうだな。
 
 レオ
 leo
+Leo Whitefang
 実は<keyword>フィンランド</keyword>の観測所から気になる報告があった。
 
 パラダイム
 prdm
+Dr. Paradigm
 フィンランド？
 
 レオ
 leo
+Leo Whitefang
 回答を先送りにしていたが、詳しく話を訊いたほうがいいかも知れん。
 
 ザッパ
 zppa
+Zappa
 何でですか！ 一大事かもしれないんですよ？
 
 ザッパ
 zppa
+Zappa
 お願いします！ とにかく<keyword>連王</keyword>様に！<cf>いえ、科学顧問の方で構いません。一度お目通り願いたい！
 
 ソードマン
 swmn
+Swordsman
 そう簡単にはいきませんよ。
 
 ザッパ
 zppa
+Zappa
 僕がポンコツ特課だからって、馬鹿にしてるのか？<cf>これでも<keyword>イリュリア</keyword>の防衛局だぞ？
 
 ソードマン
 swmn
+Swordsman
 それが本当なら、この門がどういう所か分かりますよね？<cf>正規の手続きを踏んだうえでお越しください。
 
 ザッパ
 zppa
+Zappa
 だから、そんな悠長なことを言ってる場合じゃないんだ！
 
 ソードマン
 swmn
+Swordsman
 なんであろうと、事前に報告のない方を通すわけにはいきません。
 
 ザッパ
 zppa
+Zappa
 報告？ はは、報告って言ったのか！？ 何回したと思ってるんだ！
 
 ザッパ
 zppa
+Zappa
 あぁもういいからそこを通してくれ。<cf>言っとくけど、片道の運賃しか持たないでここに来たんだ。<cf>それともアンタがフィンランドまでの旅費を払ってくれるのか？
 
 レオ
 leo
+Leo Whitefang
 良いタイミングだ。いや、悪いのかもしれんが。
 
 November 19th , 2187
@@ -2026,114 +2513,142 @@ November 19th , 2187
 
 ナレーション
 dummy
+Narrator
 ジャパニーズコロニー。<cf>かつて聖戦において、日本人は絶滅の危機に瀕した。<cf>ここはその<ruby>末裔</ruby/>まつえい</ruby>が集まる巨大保護施設国である。
 
 ナレーション
 dummy
+Narrator
 各地で地震が観測される不穏な状況の中、<cf>ここでもまた、住人全てが不調に見舞われるという異常事態が発生していた。
 
 ナレーション
 dummy
+Narrator
 万物の状態を意のままに操れる調律師「ヘヒョン」は、この謎に取り組んでいた。
 
 ヘヒョン
 kum
+Kum Haehyun
 うぅむ…。
 
 ヘヒョン
 kum
+Kum Haehyun
 やはり既に抑制治療が為されておったウヌとコロニーの住人には調律の異なる部分があるな。
 
 メイ
 may
+May
 それって悪いこと？
 
 ヘヒョン
 kum
+Kum Haehyun
 いや、これが住民の異常に関係するものだとすれば、解決の糸口にはなる。
 
 メイ
 may
+May
 じゃあ、なんで難しい顔してるの？
 
 ヘヒョン
 kum
+Kum Haehyun
 時間だ。全ての住人の調律を正すには、単純に時間が掛かり過ぎる。
 
 ヘヒョン
 kum
+Kum Haehyun
 政府が言う世界の危機……。<cf>そして、<ruby>此処</ruby/>ここ</ruby>のコロニー住人の異常に何か関係があるとすれば今から手を打っても遅い。
 
 ヘヒョン
 kum
+Kum Haehyun
 「慈悲なき啓示」とやらが行動を起こせば、一体此処で何が起きるのか。
 
 メイ
 may
+May
 ……。
 
 メイ
 may
+May
 これあげる。
 
 ヘヒョン
 kum
+Kum Haehyun
 これは？
 
 メイ
 may
+May
 お守りだよ。<ruby>快賊団</ruby/>かいぞくだん</ruby>はみんな、持ってるんだ。
 
 メイ
 may
+May
 コロニーは僕の両親の故郷だから…。それを守ってくれる御礼。
 
 ヘヒョン
 kum
+Kum Haehyun
 ……。
 
 ヘヒョン
 kum
+Kum Haehyun
 有り難い。丁度、<keyword>日本</keyword>のモノが欲しかったところだ。<cf>あれは、もう手に入らなくなってしまったからな。
 
 メイ
 may
+May
 日本？ ごめん、それロシア製なんだ。
 
 ヘヒョン
 kum
+Kum Haehyun
 あぁ、いい。こちらの話だ。有り難く頂戴しよう。
 
 メイ
 may
+May
 ふ～ん。
 
 メイ
 may
+May
 僕ね、今までジョニーや快賊団の皆と毎日楽しく過ごしてたから…<cf>世界の終わりとか言われても、なんかピンと来なくてさ。
 
 メイ
 may
+May
 でも、なんかしなくちゃね。
 
 メイ
 may
+May
 ちょっと出掛けてくる。
 
 ヘヒョン
 kum
+Kum Haehyun
 <ruby>何処</ruby/>いずこ</ruby>へ？
 
 メイ
 may
+May
 コロニーには凄いパワースポットがあるって聞いたことがあるんだ。<cf>もしかしたら、何かの役に立つかもしれないでしょ？
 
 ヘヒョン
 kum
+Kum Haehyun
 そうか、朗報を期待する。気をつけてな。
 
 メイ
 may
+May
 そっちこそ。ちゃんとご飯食べるんだよ？<cf>ずっと食べて無いんだから、美容に悪いよ。
 
 November 19th , 2187
@@ -2141,138 +2656,172 @@ November 19th , 2187
 
 カイ
 kyk
+Ky Kiske
 少し待っててくれ。これを終わらせておきたいんだ。報告はそれから聞こう。
 
 ソル
 sols
+Sol Badguy
 早く終わらせろ。クソやわらけぇ椅子で俺のケツが腐る前に。
 
 カイ
 kyk
+Ky Kiske
 暇ならシン達を呼んで来てくれ。たまには一緒に夕食でもどうだ。
 
 ソル
 sols
+Sol Badguy
 雑用を押し付ける気か？
 
 カイ
 kyk
+Ky Kiske
 こっちを代わってくれてもいいぞ。
 
 ソル
 sols
+Sol Badguy
 ……そっちの椅子はケツが四角くなるだろうが。
 
 カイ
 kyk
+Ky Kiske
 だが大きな意義がある。
 
 ソル
 sols
+Sol Badguy
 なぜ訊かねぇ？
 
 カイ
 kyk
+Ky Kiske
 何をだ？
 
 ソル
 sols
+Sol Badguy
 俺の過去だ。
 
 カイ
 kyk
+Ky Kiske
 訊いていいのか？
 
 ソル
 sols
+Sol Badguy
 保証する。面白ぇ話じゃねえ。
 
 ソル
 sols
+Sol Badguy
 二言目には「勝負」だのなんだの、あれほど<ruby>喧</ruby/>やかま</ruby>しかったお前が、いや……
 
 ソル
 sols
+Sol Badguy
 お前だけが、未だに何も訊かねぇ。
 
 カイ
 kyk
+Ky Kiske
 あの頃はお前を剣で負かすことしか考えていなかったからな。<cf>他のことはどうでもよかったのさ。
 
 カイ
 kyk
+Ky Kiske
 それに、ツキも落としたくなかった。
 
 ソル
 sols
+Sol Badguy
 お前がそんなタマか。
 
 カイ
 kyk
+Ky Kiske
 言ってなかったが、こうみえて私は信心深いんだ。
 
 カイ
 kyk
+Ky Kiske
 ソル。私もお前の過去に興味がないわけではない。
 
 カイ
 kyk
+Ky Kiske
 しかし、相手を理解したい気持ちと、全てを知ることは違う。
 
 カイ
 kyk
+Ky Kiske
 私にとっては、<keyword>フレデリック</keyword>という男の過去よりも、ソル＝バッドガイの未来の方が大事だ。
 
 ソル
 sols
+Sol Badguy
 未来…。そんなものがあると思うのか、この俺に。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 ……では、こういうのはどうだ？
 
 カイ
 kyk
+Ky Kiske
 四角い椅子の役目だが…。
 
 ソル
 sols
+Sol Badguy
 なんだそれは？
 
 カイ
 kyk
+Ky Kiske
 ウィスキーだ。高級品らしい。私は飲まないが、格好を付けるために置いてある。
 
 ソル
 sols
+Sol Badguy
 悪くねぇアイディアだ。中身が減りゃ、もっと格好がつく。
 
 カイ
 kyk
+Ky Kiske
 そうだ。お前だって、こんな<ruby>些細</ruby/>ささい</ruby>なことで楽しめる。
 
 カイ
 kyk
+Ky Kiske
 私の役目はこの酒を…
 
 カイ
 kyk
+Ky Kiske
 もう一度飲みたいと……そう人々に思わせることだ。<cf>「希望」とは、何も大それた話ではない。
 
 カイ
 kyk
+Ky Kiske
 最も近くにいる一人の友すら守れないのなら、私は王として<ruby>相応</ruby/>ふさわ</ruby>しくないよ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 だったら、酒を飲めるようになれ。
 
 November 19th , 2187
@@ -2280,230 +2829,287 @@ November 19th , 2187
 
 シン
 sin
+Sin Kiske
 ラム、またここか。
 
 ラムレザル
 rams
+Ramlethal Valentine
 …短い間だけど、この場所では沢山「違う」を得た。今の私は、ここで生まれたんだ。
 
 シン
 sin
+Sin Kiske
 ……。
 
 シン
 sin
+Sin Kiske
 その指の組み方。
 
 ラムレザル
 rams
+Ramlethal Valentine
 ？
 
 シン
 sin
+Sin Kiske
 初めのころ、ラムはほとんど喋んなかったからな。仕草はよく見てたんだ。<cf>で、そのポーズは落ち着かない時だ。
 
 シン
 sin
+Sin Kiske
 エルのことが心配なんだろ？
 
 ラムレザル
 rams
+Ramlethal Valentine
 うん……。
 
 シン
 sin
+Sin Kiske
 じゃあ、オレと同じだ。
 
 シン
 sin
+Sin Kiske
 いや。オヤジも、みんなも。エルのために頑張ってる。
 
 シン
 sin
+Sin Kiske
 だから、そんな暗い顔すんなよ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 ……。
 
 ラムレザル
 rams
+Ramlethal Valentine
 私はまだ、ここの人間に受け入れられているわけじゃない。<cf>ほんの数日前まで、人類の敵だったのだから。
 
 シン
 sin
+Sin Kiske
 だ～。まだそんなこと言ってんのか？
 
 ラムレザル
 rams
+Ramlethal Valentine
 私がエルと同じ、<keyword>母さん</keyword>の娘である事実は変わらない。
 
 ラムレザル
 rams
+Ramlethal Valentine
 正しく理解されるには、時間がかかる。
 
 シン
 sin
+Sin Kiske
 まだガキだったころ、オレを馬鹿にした連中がいたんだ。<cf>頭にきて、そいつらにちょっと仕返ししちまった。
 
 シン
 sin
+Sin Kiske
 そしたらさ、オヤジに気絶するほど殴られた。<cf>でも、最後はいじめっ子が「やり過ぎだ」って止めてくれたんだ。
 
 シン
 sin
+Sin Kiske
 で、オヤジは何て言ったと思う？ 「だから苦情が出ない」ってさ。
 
 シン
 sin
+Sin Kiske
 次の瞬間オヤジは連中もボコボコに。
 
 シン
 sin
+Sin Kiske
 いや、「それはどうなの？」って話なんだけど。<cf>なんていうかさ、その後、そいつらとは仲良くなれたんだ。
 
 シン
 sin
+Sin Kiske
 きっかけは簡単だった。お互いボロボロになった姿を見て、笑っちまったんだ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 笑顔…。
 
 シン
 sin
+Sin Kiske
 仲良くなるきっかけなんて、難しくねぇんだよ。
 
 シン
 sin
+Sin Kiske
 多分、考える奴が難しくしちまうんだ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 シンは出会った時から私を笑わせたがってたね。
 
 ラムレザル
 rams
+Ramlethal Valentine
 エルが言ってた。笑顔が人の幸せだって。
 
 ラムレザル
 rams
+Ramlethal Valentine
 シンは、幸せと不幸の差が解る？
 
 シン
 sin
+Sin Kiske
 え？ あ、…と…。頭使うのは苦手だぜ…。
 
 ラムレザル
 rams
+Ramlethal Valentine
 私もそう。人の幸福を定義することは難しい。
 
 ラムレザル
 rams
+Ramlethal Valentine
 私は多分、今、幸せなんだ。でも、この窓に映る私が笑うには、エルが足りない。
 
 シン
 sin
+Sin Kiske
 窓？
 
 ラムレザル
 rams
+Ramlethal Valentine
 ここで得た時間は幸せで、温かかった。
 
 ラムレザル
 rams
+Ramlethal Valentine
 光のある世界。
 
 ラムレザル
 rams
+Ramlethal Valentine
 窓の向こうは冷たくて寒い。暗い世界。
 
 ラムレザル
 rams
+Ramlethal Valentine
 暗い世界からは明るいここが見えて、とても羨ましいんだ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 でも、この光の世界から外を見ても、そこに映るのは幸せな自分たちだけ……。
 
 ラムレザル
 rams
+Ramlethal Valentine
 エルはずっと、あっち側にいる。
 
 ラムレザル
 rams
+Ramlethal Valentine
 ここからは見えない、<ruby>昏</ruby/>くら</ruby>い闇の中に。
 
 シン
 sin
+Sin Kiske
 ……そうだな。
 
 ソル
 sols
+Sol Badguy
 メシだ！
 
 シン
 sin
+Sin Kiske
 オヤジ？ なんだよ急に。まさか、飲んでんのか？
 
 ソル
 sols
+Sol Badguy
 あぁ。<keyword>ギア細胞</keyword>の最も優れている点は、人並みに酔えることだ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 空腹ではない。
 
 ソル
 sols
+Sol Badguy
 …お前はエルフェルトとは違うな。
 
 ソル
 sols
+Sol Badguy
 あいつはまだ誰も気を許していねぇ時から…
 
 エルフェルト
 elp
+Elphelt Valentine
 はい！！ 今日の<ruby>献立</ruby/>こんだて</ruby>は何ですか？
 
 ソル
 sols
+Sol Badguy
 まあ、勝手にしろ。
 
 ラムレザル
 rams
+Ramlethal Valentine
 ……。
 
 ソル
 sols
+Sol Badguy
 だがその前に…。
 
 シン
 sin
+Sin Kiske
 ……。
 
 ソル
 sols
+Sol Badguy
 ラムレザル。窓一枚で人の幸福を<ruby>隔</ruby/>へだ</ruby>てるな。
 
 ソル
 sols
+Sol Badguy
 お前が壁だと思っているモノは、お前自身の迷いだ。そんなモンはぶっ壊せ。
 
 ソル
 sols
+Sol Badguy
 行きたい所に行ける。
 
 シン
 sin
+Sin Kiske
 さっぱりわかんね。
 
 ソル
 sols
+Sol Badguy
 ……<keyword>ダニーミサイルズ</keyword>だぞ。
 
 ザトー
 zat
+Zato-ONE
 ……掛かりました。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2515,142 +3121,177 @@ November 19th , 2187
 
 チップ
 chp
+Chipp Zanuff
 よし、あるか？
 
 アンサー
 answ
+Answer
 ありますよ、申し付けられましたから。でも収穫は乏しいですね。
 
 アンサー
 answ
+Answer
 <keyword>ヴァレンタイン</keyword>の親、人類の敵、一連の騒動の黒幕。あとは…自我が無いとかですか。
 
 アンサー
 answ
+Answer
 「<keyword>慈悲なき啓示</keyword>」で今わかることはこのくらいです。<cf>報道やお頭の土産話と大差ありません。
 
 チップ
 chp
+Chipp Zanuff
 どうもその「自我が無い」ってところは怪しいがな。
 
 アンサー
 answ
+Answer
 じゃあ何ですか、人間ですか？
 
 チップ
 chp
+Chipp Zanuff
 思い出すんだよ。俺がスラムにいた頃のドブ臭い悪意を。
 
 アンサー
 answ
+Answer
 まったく、こういう時のお頭の勘は妙に当たるんだから、滅多なことは言わないで下さいよ。
 
 アンサー
 answ
+Answer
 しかし、こうなると諜報活動より実戦部隊の編成を急いだほうが良いかもしれませんね。
 
 チップ
 chp
+Chipp Zanuff
 何でだ？
 
 アンサー
 answ
+Answer
 何でって、我々<keyword>東チップ王国</keyword>も参戦するんですよね？ <keyword>イリュリア</keyword>の民兵に。
 
 チップ
 chp
+Chipp Zanuff
 いや、俺たちは忍びだ。情報が不透明なうちに動くもんじゃねぇ。
 
 チップ
 chp
+Chipp Zanuff
 敵にとっても読めない存在であるべきだ。
 
 アンサー
 answ
+Answer
 なんか真っ当なこと言いますね。
 
 アンサー
 answ
+Answer
 しかし確かに、今回は不透明なことが多い。
 
 アンサー
 answ
+Answer
 特にこの、<keyword>リブラリア</keyword>の手記ですね。<cf>コレによると<keyword><ruby>元老院</ruby/>げんろういん</ruby></keyword>は「慈悲なき啓示」と敵対していたということです。
 
 アンサー
 answ
+Answer
 だとしたら、元老院は何のためにあの事件を起こしたのか。<cf>謎は深まるばかりです。
 
 チップ
 chp
+Chipp Zanuff
 え…？ 元老院は「慈悲なき啓示」と敵対してたのか？
 
 アンサー
 answ
+Answer
 「え…？」って、それも解らず「元老院は利用された」とか言ってたんですか？
 
 アンサー
 answ
+Answer
 オマエ本当に勘だけだな…。
 
 チップ
 chp
+Chipp Zanuff
 うるせぇな。他には無いか？<cf>今は元老院より「慈悲なき啓示」の動機の方が重要だ。
 
 アンサー
 answ
+Answer
 言ったでしょ、収穫は乏しいって。……ですがまぁ、強いて言えば。
 
 チップ
 chp
+Chipp Zanuff
 なんだ？
 
 アンサー
 answ
+Answer
 あ、いや、これは情報というよりは私自身の記憶の話なのですが、<cf>今から二代前の聖皇でハピヌス27世っていましたよね？ 亡くなられる間際に錯乱した。
 
 チップ
 chp
+Chipp Zanuff
 ああ、覚えてる。
 
 アンサー
 answ
+Answer
 その彼が残した言葉の中に「慈悲なき啓示」という単語がありました。
 
 チップ
 chp
+Chipp Zanuff
 なに？
 
 アンサー
 answ
+Answer
 ですが、妙なんですよ。資料によれば元老院と聖皇は情報を共有していない。
 
 アンサー
 answ
+Answer
 更に言うならハピヌス27世が<ruby>帰天</ruby/>きてん</ruby>なされたのは、最初のヴァレンタインが襲来するだいぶ前です。<cf>となると、時の聖皇は何故この名を知っていたのか。
 
 チップ
 chp
+Chipp Zanuff
 ……。
 
 アンサー
 answ
+Answer
 まぁ、人徳と同じくらい<ruby>奇行</ruby/>きこう</ruby>が目立った方ですから、偶然という可能性も否定できませんがね。
 
 チップ
 chp
+Chipp Zanuff
 奇行、奇行…か……。
 
 チップ
 chp
+Chipp Zanuff
 おい待て、そのハピヌス27世って確か…。<cf>現聖皇アリエルスを<keyword><ruby>枢機卿</ruby/>すうききよう</ruby></keyword>に異例<ruby>抜擢</ruby/>ばつてき</ruby>した奴じゃねぇのか？
 
 アンサー
 answ
+Answer
 そうですが…？
 
 チップ
 chp
+Chipp Zanuff
 マジかよ…。
 
 November 20th , 2187
@@ -2658,118 +3299,147 @@ November 20th , 2187
 
 ベッドマン
 bed
+Bedman
 順調に成長しているな。
 
 ベッドマン
 bed
+Bedman
 「佐野ジュウゾウ…」
 
 ベッドマン
 bed
+Bedman
 <keyword>吸血鬼</keyword>…？ 何故ここに。
 
 スレイヤー
 sly
+Slayer
 リベンジ。
 
 ベッドマン
 bed
+Bedman
 驚いたな。あれほど痛い目にあって<ruby>懲</ruby/>こ</ruby>りていなかったとは。
 
 スレイヤー
 sly
+Slayer
 やはり面白い、今のは当てるつもりだったのだが。
 
 ザトー
 zat
+Zato-ONE
 ベッドマンは相手の直前の思考を読んでいる。<cf>これを攻略するには、自分の思考を停止するほかない……と、言いたかったのだがな。
 
 ミリア
 mll
+Millia Rage
 え、それがあなたの知ってる攻略法…？
 
 ザトー
 zat
+Zato-ONE
 ん？ そうだが。
 
 ミリア
 mll
+Millia Rage
 そんなの誰も実践できないわよ…。
 
 ベッドマン
 bed
+Bedman
 見たところ以前より状態は良いようだが、修行でも積んできたのかい？
 
 スレイヤー
 sly
+Slayer
 では、当てなくて良いか。
 
 ベッドマン
 bed
+Bedman
 ！
 
 ベッドマン
 bed
+Bedman
 ふん…。
 
 ベッドマン
 bed
+Bedman
 お返しだ。
 
 ベッドマン
 bed
+Bedman
 この状態では君と会話できないのが残念だが…。
 
 ベッドマン
 bed
+Bedman
 謝罪しよう。どうやら過小評価していたようだ。だから今から…。
 
 ベッドマン
 bed
+Bedman
 ８％だ。８％だけ本気を出そう。
 
 スレイヤー
 sly
+Slayer
 おいおい、温まるのは少し早くないかね？ もう少し小出しにして行こう。そのほうが<ruby>愉</ruby/>たの</ruby>しい。
 
 スレイヤー
 sly
+Slayer
 もう少し…と言うのはわがままかな？
 
 ミリア
 mll
+Millia Rage
 ザトーの能力が機能することはわかった。
 
 ミリア
 mll
+Millia Rage
 この辺で満足して頂戴。
 
 スレイヤー
 sly
+Slayer
 こんな機会、この先100年も無いのだが…。
 
 ミリア
 mll
+Millia Rage
 ……あいつの分も残しておかないと。
 
 スレイヤー
 sly
+Slayer
 ……仕方ないね。
 
 ベッドマン
 bed
+Bedman
 ？
 
 スレイヤー
 sly
+Slayer
 すまないが門限だ。
 
 スレイヤー
 sly
+Slayer
 この先は私の友人に譲るとするよ。
 
 ベッドマン
 bed
+Bedman
 ……どういうことだ？
 
 November 20th , 2187
@@ -2777,334 +3447,417 @@ November 20th , 2187
 
 ソル
 sols
+Sol Badguy
 地震と<keyword>ギア</keyword>の関係は掴めたのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 それをこれから訊くところだ。
 
 ソル
 sols
+Sol Badguy
 カラスの方は？ こんな検証よりも確かだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 コールはしている。だが…
 
 パラダイム
 prdm
+Dr. Paradigm
 事情があるのか、時が満ちていないのか…。
 
 ザッパ
 zppa
+Zappa
 お、お待たせしました。いつでも始められます。
 
 カイ
 kyk
+Ky Kiske
 よろしくお願いします。
 
 ザッパ
 zppa
+Zappa
 では……。
 
 ザッパ
 zppa
+Zappa
 始めに、ここ最近の地震の正体です。
 
 ザッパ
 zppa
+Zappa
 まず、この数日で情報体フレアが12回も観測されました。<cf>これが最近<ruby>頻発</ruby/>ひんぱつ</ruby>している地震とどのような因果関係があるかですが…。
 
 レオ
 leo
+Leo Whitefang
 待て待て。出鼻をくじいて悪いが、なんだ、その…「情報体フレア」っていうのは？
 
 ソル
 sols
+Sol Badguy
 情報密度超過現象。
 
 レオ
 leo
+Leo Whitefang
 な、なんだって？
 
 パラダイム
 prdm
+Dr. Paradigm
 君たちが学生時代に学んだ<keyword>魔法基礎理論</keyword>からそう<ruby>逸脱</ruby/>いつだつ</ruby>した話ではない。<cf>簡単に説明しよう。
 
 パラダイム
 prdm
+Dr. Paradigm
 まず情報質量というものは通常、一立方メートルあたり256PBを許容値とするのだが、<cf>何らかの原因で許容量を超えた情報が発現すると情報圧壊が始まり―――
 
 レオ
 leo
+Leo Whitefang
 お、教わってない…。
 
 カイ
 kyk
+Ky Kiske
 そんなはずは無いだろう。<cf>H軸現世に対しコリアプタル負荷がかかり、時空と空間に対してベルヘンド虚数との<cf>整合性が取れなくなることは、魔法を理解するうえで、基礎中の基礎だ。
 
 レオ
 leo
+Leo Whitefang
 あぁ～…。だから受講しなかったんだろうな…。
 
 ザッパ
 zppa
+Zappa
 あの、じゃあこうしましょう。
 
 ザッパ
 zppa
+Zappa
 この風船が現実の空間だと思ってください。この中には1リットルまで水が入るとします。
 
 ザッパ
 zppa
+Zappa
 そして水は情報です。<cf>まぁ風船ですから、水が1リットル前後で多少増減することはそんなに問題にはなりません。
 
 ザッパ
 zppa
+Zappa
 ところが何らかの原因で、<cf>この水が突然10リットルとかの大きな単位で増えてしまう現象を、情報体フレアといいます。
 
 ザッパ
 zppa
+Zappa
 ココまでは良いですね？ では…。
 
 ザッパ
 zppa
+Zappa
 この中に10リットルの水を無理やり入れるとどうなると思います？
 
 レオ
 leo
+Leo Whitefang
 まぁ、風船が割れ、水がこぼれるだろう。
 
 ザッパ
 zppa
+Zappa
 そうです。風船は時間と共に勝手に修復されますが、<cf>破れている間はその一帯に様々な異常が現れます。
 
 ザッパ
 zppa
+Zappa
 例えば、火の気のないところに突然火の玉が出現したり、<cf>そこにいるはずのない人間が見えてしまったり。<cf>まぁ、大体の場合は人体に影響を及ぼしませんが。
 
 ソル
 sols
+Sol Badguy
 例外もある。
 
 ザッパ
 zppa
+Zappa
 はい、そうです。<cf>極端な症状の場合、物質の情報が書き換えられて、土が鉄になるような現象が起こりうるのです。
 
 ザッパ
 zppa
+Zappa
 我々はそれを、憑依と呼んでいます。
 
 レオ
 leo
+Leo Whitefang
 …憑依？
 
 ザッパ
 zppa
+Zappa
 恐らく地震は副産物のようなものです。何かが憑依現象を起こした際の。
 
 カイ
 kyk
+Ky Kiske
 ということはまさか…先日の巨大ギアは……。
 
 ザッパ
 zppa
+Zappa
 さすがに察しが良いですね。ご想像の通りです。
 
 パラダイム
 prdm
+Dr. Paradigm
 うむ、そこまでは私も仮定してみた。<cf>だが、一体何が変化してあの巨大ギアになったのだ？
 
 ソル
 sols
+Sol Badguy
 憑依で変質するものは、変化前と変化後で極端に大きさを変えない。<cf>俺があのギアを見た時には、周りにデケェもんはなかった。
 
 パラダイム
 prdm
+Dr. Paradigm
 あり得るとすれば、その物体は自分のサイズよりも大きい情報を持っていることになる。<cf>そんなものは自然界に存在しない。
 
 ファウスト
 fau
+Faust
 自然界の現象ではないとしたら？
 
 クロノス
 crns
+Chronus
 ……。
 
 クロノス
 crns
+Chronus
 そうだ。これは、自然現象ではない。
 
 クロノス
 crns
+Chronus
 ファウストの読みは当たっていたようだな。
 
 クロノス
 crns
+Chronus
 つまり、私の読みも当たってしまったということだ…。
 
 クロノス
 crns
+Chronus
 「<keyword>あの男</keyword>」の力を借りねばなるまいな。
 
 ファウスト
 fau
+Faust
 単刀直入に言いましょう。あの巨大ギアの正体は、おそらく<keyword>ジャパニーズ</keyword>です。
 
 レオ
 leo
+Leo Whitefang
 なに！？
 
 カイ
 kyk
+Ky Kiske
 なんですって？
 
 パラダイム
 prdm
+Dr. Paradigm
 なんと……。
 
 ファウスト
 fau
+Faust
 これを見てください。<cf>破壊神<keyword>ジャスティス</keyword>が<keyword>聖戦</keyword>を始めた日……同時に<keyword>日本</keyword>が消滅した日の記録です。
 
 ファウスト
 fau
+Faust
 生存者の証言内容は、まるで今回の件に似ている。……ここです。<cf>ジャスティスが日本を破壊する直前、ジャパニーズの体に異変が起こったことが記されています。
 
 カイ
 kyk
+Ky Kiske
 「その時サカタは悶え苦しみ、巨大で異質な生き物へと<ruby>変貌</ruby/>へんぼう</ruby>を遂げた」<cf>これはっ……。
 
 ファウスト
 fau
+Faust
 一部の人間にとって周知の事実です。<cf>そして、症状の大小はあれ、今もジャパニーズはこの問題を抱えています。
 
 ソル
 sols
+Sol Badguy
 だから<keyword>コロニー</keyword>に集め、隔離してたってわけだ。
 
 ソル
 sols
+Sol Badguy
 政府は<ruby>当初</ruby/>ハナ</ruby>からその危険性を知ってたのか？
 
 カイ
 kyk
+Ky Kiske
 いや、何らかの原因で遺伝子変化が認められたとは聞いていたが…。
 
 レオ
 leo
+Leo Whitefang
 そうだ。それに、変化を<ruby>抑制</ruby/>よくせい</ruby>するワクチンを絶えず供給してきた。
 
 ファウスト
 fau
+Faust
 それなんですが…。<cf>そのワクチンは、ある時点からまったく効果のない無関係な薬にすり替えられていました。
 
 カイ
 kyk
+Ky Kiske
 そんな、一体誰がそんなことを？
 
 ファウスト
 fau
+Faust
 現時点では明言できません。しかし少なくとも、元老院の仕業ではありませんでした。
 
 カイ
 kyk
+Ky Kiske
 では、ギアが爆発する理由は何です？
 
 パラダイム
 prdm
+Dr. Paradigm
 そうか、情報過多はギアになっても続く。つまり、あのギアは情報が裏返り、最終的には……。
 
 パラダイム
 prdm
+Dr. Paradigm
 反物質になる。
 
 レオ
 leo
+Leo Whitefang
 は、反物質…？
 
 ファウスト
 fau
+Faust
 えーと、なんかに触れるだけで爆発します。
 
 レオ
 leo
+Leo Whitefang
 おお…。
 
 レオ
 leo
+Leo Whitefang
 つまり今の話を要約すると、こういうことか。
 
 レオ
 leo
+Leo Whitefang
 強力な情報体フレアに接触したジャパニーズは巨大ギアになる。
 
 レオ
 leo
+Leo Whitefang
 そしてそれは時間が経ち、何かに触れると爆発する。
 
 ソル
 sols
+Sol Badguy
 留年は<ruby>免</ruby/>まぬが</ruby>れそうだな。
 
 レオ
 leo
+Leo Whitefang
 任せろ。
 
 レオ
 leo
+Leo Whitefang
 だがな、俺が知りたいのはその先だ。
 
 レオ
 leo
+Leo Whitefang
 今、この時期に、偶然こんな事件が起きるわけが無い。
 
 カイ
 kyk
+Ky Kiske
 つまり、「慈悲なき啓示」の仕業だと？
 
 ソル
 sols
+Sol Badguy
 意思が無いのにか？
 
 レオ
 leo
+Leo Whitefang
 意思が有ろうと無かろうと、何かしらの意図があるはずだ。
 
 レオ
 leo
+Leo Whitefang
 我々はそれを探った方が良いだろう。
 
 ファウスト
 fau
+Faust
 私の専門は犯人探しではありません。<cf>とりあえず治療に繋がる何かを探したいと思います。
 
 ファウスト
 fau
+Faust
 こちらの設備をお借りしても？
 
 カイ
 kyk
+Ky Kiske
 お願いします。協力は惜しみません。
 
 ソル
 sols
+Sol Badguy
 残る問題は、何故フレアが<ruby>頻発</ruby/>ひんぱつ</ruby>するかだ。
 
 ザッパ
 zppa
+Zappa
 もしかしたら、発生位置の予測はできるかもしれません。<cf>そこから何か掴めないでしょうか？
 
 パラダイム
 prdm
+Dr. Paradigm
 ふむ……。手を出したまえ。君は<keyword>フィンランド</keyword>から来たと言ったな？
 
 ザッパ
 zppa
+Zappa
 はい。あの…これは？
 
 パラダイム
 prdm
+Dr. Paradigm
 胃薬だ。明日からは城の食事に慣れてもらう。
 
 November 20th , 2187
@@ -3112,122 +3865,152 @@ Backyard
 
 イノ
 ino
+I-No
 ……。
 
 イノ
 ino
+I-No
 まぁ……歓迎してやるとは言ったけどさ。
 
 アクセル
 axl
+Axl Low
 お邪魔してます…。
 
 イノ
 ino
+I-No
 どうやってここに？
 
 アクセル
 axl
+Axl Low
 どこにも行きたくないと願ったら…なんちゃって。
 
 イノ
 ino
+I-No
 はぁ……。私が託児所を始めたなんて言ったことがあった？
 
 アクセル
 axl
+Axl Low
 解ってますよ。<ruby>鬱陶</ruby/>うつとう</ruby>しいんでしょ？
 
 イノ
 ino
+I-No
 別にそうは言ってないよ。まぁ、言って無いだけだけど。
 
 アクセル
 axl
+Axl Low
 はは。
 
 イノ
 ino
+I-No
 それで、決まったわけ？
 
 アクセル
 axl
+Axl Low
 え？
 
 イノ
 ino
+I-No
 力の使い道だよ。アンタには力がある。私と同じように世界を変える力がね。
 
 イノ
 ino
+I-No
 自力でここに来られるほど使いこなしてんだ。人類のために、とか言いに来たんだろ？
 
 アクセル
 axl
+Axl Low
 いや……違う。そうじゃないんだ。
 
 イノ
 ino
+I-No
 ？
 
 アクセル
 axl
+Axl Low
 怖いんだよ。
 
 アクセル
 axl
+Axl Low
 もうこの力は、ただ時間を旅する能力じゃない。使い方次第で、何でもできる。
 
 アクセル
 axl
+Axl Low
 だけどその度に、世界がなくなっちまうかもしれないって。
 
 イノ
 ino
+I-No
 何を言うかと思えば、あべこべな野郎だね。
 
 イノ
 ino
+I-No
 力を持っている人間なんて、<cf>それを使って怖がられるか、使わないで怖がられるかしかないんだよ。
 
 イノ
 ino
+I-No
 アンタが怖がってどうすんの？
 
 アクセル
 axl
+Axl Low
 だったらなおさらだ。今のままじゃきっと、守りたい者まで傷つけちまう。
 
 イノ
 ino
+I-No
 それじゃ自分を否定してるだけだね。何も解決しない。
 
 アクセル
 axl
+Axl Low
 じゃあアンタは、自分の力が怖くないのか？
 
 イノ
 ino
+I-No
 ……。
 
 イノ
 ino
+I-No
 犬は何もしなきゃただの犬だ。だけどもし、その犬が自分は狼だと主張すれば……
 
 イノ
 ino
+I-No
 少なくとも犬以外の何かになる。
 
 イノ
 ino
+I-No
 そいつにしか見えない景色も見つかる。
 
 イノ
 ino
+I-No
 人が生きていく権利なんてね、自分以外の誰も見つけてはくれないんだよ。
 
 アクセル
 axl
+Axl Low
 俺にしか見えない景色…。
 
 November 20th , 2187
@@ -3238,150 +4021,187 @@ November 20th , 2187
 
 ジャック・オー
 jko
+Jack-O Valentine
 情報濃度が加速度的に膨張してる。
 
 ジャック・オー
 jko
+Jack-O Valentine
 肉体的な覚醒を果たしたジャスティスとソル＝バッドガイ。<cf>二人の完全な復活を待たずに<keyword>絶対確定世界</keyword>は完成するようね。
 
 レイヴン
 rvn
+Raven
 「慈悲なき啓示」はここ数日のうちに決着をつけるつもりか。
 
 ジャック・オー
 jko
+Jack-O Valentine
 時間がどんどんなくなるわ。本当に彼が帰るまで動かないつもり？
 
 レイヴン
 rvn
+Raven
 歯がゆい思いは私も同じだ。
 
 レイヴン
 rvn
+Raven
 悲観的な態度はやめろ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 あのね、私は別にいいのよ？ 元々、作られた人生だもの。
 
 ジャック・オー
 jko
+Jack-O Valentine
 それに、悲観というよりは成功率を懸念して状況確認をしているだけよ。
 
 レイヴン
 rvn
+Raven
 ……。
 
 レイヴン
 rvn
+Raven
 骨まで達しているな。
 
 ジャック・オー
 jko
+Jack-O Valentine
 あぁ、ベッドマンと戦った時ね。
 
 ジャック・オー
 jko
+Jack-O Valentine
 こんなことしなくても、勝手に治るのに。そういう身体だもの。
 
 レイヴン
 rvn
+Raven
 だが、痛みはあるはずだ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 どうしたの？ 今日は妙に気を遣うじゃない。
 
 レイヴン
 rvn
+Raven
 最後に会話したのは？
 
 ジャック・オー
 jko
+Jack-O Valentine
 え…？
 
 レイヴン
 rvn
+Raven
 作戦や、計画、陰謀や哲学の話じゃない。人間らしい、普通の会話だ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 なによ急に。そんなの覚えて無いわ。
 
 レイヴン
 rvn
+Raven
 私もだ。
 
 レイヴン
 rvn
+Raven
 戦う目的以外に、この声を使わなくなってしまった。
 
 レイヴン
 rvn
+Raven
 だが、我々が勝ち取る日常とは、本当に他愛の無いことだ。
 
 レイヴン
 rvn
+Raven
 かつてお前が<keyword>アリア</keyword>であり、<keyword>背徳の炎</keyword>が<keyword>フレデリック</keyword>であった時のように。
 
 レイヴン
 rvn
+Raven
 朝食べたものが何か？<cf>好きな音楽家の話題に花を咲かせ、日曜日の予定を確認しあう。
 
 レイヴン
 rvn
+Raven
 景色を愛で、着飾り、未来の家族を想う…。
 
 レイヴン
 rvn
+Raven
 我々はけして、神話の餌食などではない。
 
 レイヴン
 rvn
+Raven
 悲しみや喜びを価値に置き換えるのは、もうやめておけ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ……。
 
 レイヴン
 rvn
+Raven
 ……。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ラムレザルね？
 
 レイヴン
 rvn
+Raven
 最後に会った時だ。感情の無い人形だと、彼女を傷つけた。
 
 レイヴン
 rvn
+Raven
 だが、人形は私の方だったようだ。
 
 レイヴン
 rvn
+Raven
 こうなる人生を否定したくて、戦ってきたというのに。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ……ふふ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 貴方がそんな<keyword>おセンチ</keyword>な人だったとは、驚きね。
 
 レイヴン
 rvn
+Raven
 「おセンチ」だって？
 
 レイヴン
 rvn
+Raven
 くはは……いつの人間だ…。
 
 ジャック・オー
 jko
+Jack-O Valentine
 あ、それイジメよ？ 一周回ってトレンディだと思いなさい。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3393,158 +4213,197 @@ November 20th , 2187
 
 ソル
 sols
+Sol Badguy
 ……何だ？
 
 レオ
 leo
+Leo Whitefang
 確認しておきたい。
 
 レオ
 leo
+Leo Whitefang
 お前は人類の味方か？
 
 ソル
 sols
+Sol Badguy
 あぁ？
 
 レオ
 leo
+Leo Whitefang
 祭壇に立ち、十字を切ってこんなことを訊く奴はいない。だから俺が訊いてるんだ。
 
 ソル
 sols
+Sol Badguy
 何の話だ。
 
 レオ
 leo
+Leo Whitefang
 お前は何度も世界を救ってきた。<cf>そのくせ人間に肩入れする素振りを見せずに、一つところに落ち着かない。
 
 レオ
 leo
+Leo Whitefang
 そうしてお前は軍神だとか言われちゃいるが、それは違う。間違ってる。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 レオ
 leo
+Leo Whitefang
 みんなお前に依存してるだけだ。正面から頭も下げずにな。俺もその一人だった。
 
 レオ
 leo
+Leo Whitefang
 だがもう、傍観したまま祈るだけの人間にはならん。<cf>この際お前の目的がなんだろうが知ったことか。届く声なら、届けるまでだ。
 
 レオ
 leo
+Leo Whitefang
 世界を、救え。
 
 ソル
 sols
+Sol Badguy
 どこの世界に十字切って命令形を使う奴がいる…。
 
 ソル
 sols
+Sol Badguy
 まぁだが、どのみち俺は、たとえ一人でも<keyword>ジャスティス</keyword>を封印する。それでいいだろ。
 
 レオ
 leo
+Leo Whitefang
 お前の目的は聞いていない。お前の意思を聞いている。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 面倒くせぇ…。
 
 レオ
 leo
+Leo Whitefang
 何！
 
 レオ
 leo
+Leo Whitefang
 どうして首を縦に振るだけのことができんのだ！
 
 ソル
 sols
+Sol Badguy
 どうして察して済むことをさせたがる。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 レオ
 leo
+Leo Whitefang
 ふん、それで答えにしといてやる。だがな！
 
 レオ
 leo
+Leo Whitefang
 このままでは本当に神みたいな扱いになるぞ。
 
 ソル
 sols
+Sol Badguy
 それがなんだ？
 
 レオ
 leo
+Leo Whitefang
 人は神様の心配などしないものだ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 レオ
 leo
+Leo Whitefang
 ジャック・オーに関する報告書を見た。<cf>これを書いたのがラムレザルだけだったということは、まぁさておきだ。
 
 レオ
 leo
+Leo Whitefang
 そこから<ruby>紐</ruby/>ひも</ruby>づけた情報で、図らずもお前の過去を想像した。
 
 レオ
 leo
+Leo Whitefang
 いや、想像しきれないことを知ったというべきか。
 
 レオ
 leo
+Leo Whitefang
 お前は決して神じゃない。
 
 レオ
 leo
+Leo Whitefang
 だから俺は命令するんだ。世界を救え。
 
 レオ
 leo
+Leo Whitefang
 代わりに、お前を助けさせろ。それでこれまでの借りをチャラにする。
 
 レオ
 leo
+Leo Whitefang
 次にお前はこう言え「都合が良すぎる」
 
 レオ
 leo
+Leo Whitefang
 そこから始められないか？
 
 ソル
 sols
+Sol Badguy
 貸しを作ったつもりはねぇ。
 
 ソル
 sols
+Sol Badguy
 世界の命運に興味がないってのもあながち嘘じゃねぇ。だが……。
 
 ソル
 sols
+Sol Badguy
 エルフェルトだけは必ず返してもらう。
 
 ソル
 sols
+Sol Badguy
 ジャック・オーや俺のような大昔の化石が食い物にして良いもんじゃねぇからだ。
 
 ソル
 sols
+Sol Badguy
 それが俺の意思だ。
 
 November 21th , 2187
@@ -3552,62 +4411,77 @@ November 21th , 2187
 
 ザッパ
 zppa
+Zappa
 やった！ やっぱり首都の設備は凄いや。<cf>これでザッパスケールのシミュレートが出来る！
 
 パラダイム
 prdm
+Dr. Paradigm
 ザッパスケール？
 
 ザッパ
 zppa
+Zappa
 あぁ、すみません。これは僕の推論だけで作られた<keyword>霊障</keyword>観測モデルです。
 
 ザッパ
 zppa
+Zappa
 霊障がおきる環境には決まった条件があります。<cf>それを規模ごとに区分けしたものを、ここの設備で視覚化してみました。
 
 パラダイム
 prdm
+Dr. Paradigm
 続けてくれ。
 
 ザッパ
 zppa
+Zappa
 見てください。これまでのフレアは発現の場所が解りませんでしたが……<cf>このザッパスケールに照らし合わせると……
 
 ザッパ
 zppa
+Zappa
 ほら！ 霊障環境とフレアの因果関係が一目瞭然です！
 
 パラダイム
 prdm
+Dr. Paradigm
 なるほど…。
 
 ザッパ
 zppa
+Zappa
 観測された地震はそれぞれココとココ、それにココ。<cf>全て条件は酷似してます。これらの場所に<keyword>ジャパニーズ</keyword>がいたはずです。
 
 パラダイム
 prdm
+Dr. Paradigm
 ふむ。
 
 ザッパ
 zppa
+Zappa
 それだけじゃありません。<cf>事前に地震が起こる場所と規模を特定できるようになります。
 
 パラダイム
 prdm
+Dr. Paradigm
 <keyword>情報体フレア</keyword>の天気予報のようなものか。
 
 ザッパ
 zppa
+Zappa
 そうです！ あぁ、もう、こんなものが見られるなんて夢のようだな。<cf>５年前にコレがあれば、僕があんな怖い思いをすることはなかったのに…。
 
 パラダイム
 prdm
+Dr. Paradigm
 ５年前に何があったか知らんが、とりあえず話を進めないか？
 
 ザッパ
 zppa
+Zappa
 は、はい。じゃあ次は、リアルタイムでの描画です。
 
 November 21th , 2187
@@ -3615,162 +4489,202 @@ November 21th , 2187
 
 ヘヒョン
 kum
+Kum Haehyun
 やはり考えているだけでは<ruby>埒</ruby/>らち</ruby>が明かんな。
 
 ヘヒョン
 kum
+Kum Haehyun
 例え間に合わなかったとしても、全て調律していくしかあるまい。
 
 紗夢
 jam
+Jam Kuradoberi
 はい、出前お待たせしたアル。
 
 ヘヒョン
 kum
+Kum Haehyun
 おお、来たか。ご苦労だった。
 
 紗夢
 jam
+Jam Kuradoberi
 あれ？ …まさか…。
 
 紗夢
 jam
+Jam Kuradoberi
 やぱりそうね！ どこかでみたおもたら、オマエ<keyword>調律師</keyword>ね！
 
 ヘヒョン
 kum
+Kum Haehyun
 オマエって…。
 
 紗夢
 jam
+Jam Kuradoberi
 アイヤー、有名人あっちゃたよ。すごいね～。やたね～。サイン欲しいアル～。
 
 ヘヒョン
 kum
+Kum Haehyun
 サインなぞ貰ってどうする？
 
 紗夢
 jam
+Jam Kuradoberi
 売るネ。
 
 ヘヒョン
 kum
+Kum Haehyun
 売るの？！
 
 紗夢
 jam
+Jam Kuradoberi
 で、ココで何してるカ？
 
 ヘヒョン
 kum
+Kum Haehyun
 ウヌには関係のないことだ。
 
 紗夢
 jam
+Jam Kuradoberi
 どうしてカ。何か手伝えることあるかもしれないよ？
 
 紗夢
 jam
+Jam Kuradoberi
 金で。
 
 ヘヒョン
 kum
+Kum Haehyun
 亡者か！！
 
 紗夢
 jam
+Jam Kuradoberi
 高給取りの調律師に言われたくないね。
 
 ヘヒョン
 kum
+Kum Haehyun
 ふん。これほどの大仕事、正規の値段であれば払える者などおらん。<cf>それに正直なところ、今回ばかりは分が悪い。金など取れるものか。
 
 紗夢
 jam
+Jam Kuradoberi
 <keyword>コロニー</keyword>の人間全部治すのは難しいカ？
 
 ヘヒョン
 kum
+Kum Haehyun
 ……なに？ まさか、ウヌにもわかるのか。
 
 紗夢
 jam
+Jam Kuradoberi
 ざっくりね。ここの人たち、皆見たことない<keyword>気</keyword>の流れよ。ヨクナイ流れ。
 
 ヘヒョン
 kum
+Kum Haehyun
 驚いたな。気を使う者も珍しいが、読むこともできるとは。ならば解るだろう。
 
 ヘヒョン
 kum
+Kum Haehyun
 <ruby>某</ruby/>それがし</ruby>の力は物事の本来の力を引き出す、あるいは引き下げるもの。<cf>彼らに異常が現れれば調律の力で症状を和らげるつもりだった。
 
 ヘヒョン
 kum
+Kum Haehyun
 しかし同時に対処できるのはせいぜい三人といったところだ。
 
 紗夢
 jam
+Jam Kuradoberi
 アイヤー、じゃあ、皆いっぺんに病気になったら治すの無理ネ。
 
 ヘヒョン
 kum
+Kum Haehyun
 そこだ。今はまだ何が起こるか分からんが、万が一の時は役に立てん。
 
 紗夢
 jam
+Jam Kuradoberi
 ふ～ん。じゃ、やめるネ。
 
 ヘヒョン
 kum
+Kum Haehyun
 そうはいかん。住人全ての未来が懸っているのだ。<cf>例え無理だとしても、全力でこれにあたる義務がある。
 
 紗夢
 jam
+Jam Kuradoberi
 だって無理なものは無理ネ。無駄なことするのは馬鹿のすることヨ。
 
 ヘヒョン
 kum
+Kum Haehyun
 ……。話が合わんようだな。
 
 ヘヒョン
 kum
+Kum Haehyun
 何事にも全力を出せない者に信頼は置けぬ。立ち去るがいい。
 
 紗夢
 jam
+Jam Kuradoberi
 でも食べるのネ。
 
 ヘヒョン
 kum
+Kum Haehyun
 食べ物を粗末にすることは、最も義に反する行いだ。
 
 ヘヒョン
 kum
+Kum Haehyun
 見たところウヌも相当な気の使い手。<cf>しかし、何事にも全力で挑まぬ者は所詮二流どまりよ。
 
 ヘヒョン
 kum
+Kum Haehyun
 そう、この炒飯の味と同じようにな。
 
 ヘヒョン
 kum
+Kum Haehyun
 ……え、うそ？ やだ、なにこれ。おいしい！！！！！
 
 紗夢
 jam
+Jam Kuradoberi
 ご飯食べるより大事なこと、他に無いネ。美味しい料理食べるみんな幸せ。
 
 紗夢
 jam
+Jam Kuradoberi
 私はこれがやれることヨ。<cf>これで皆笑えば、世界は平和になるアル。
 
 ヘヒョン
 kum
+Kum Haehyun
 ……。
 
 ヘヒョン
 kum
+Kum Haehyun
 なるほど…いや、そうか。自分にやれること……。
 
 November 21th , 2187
@@ -3778,238 +4692,297 @@ November 21th , 2187
 
 ザッパ
 zppa
+Zappa
 もう少しで結果が出ます。
 
 パラダイム
 prdm
+Dr. Paradigm
 ふむ。
 
 ザッパ
 zppa
+Zappa
 なんか、焦っちゃいますね。たった数分待てばいいだけの話なのに……。
 
 パラダイム
 prdm
+Dr. Paradigm
 落ち着きたまえ。我々のような立場の者が慌てた姿を見せてはいかん。
 
 ザッパ
 zppa
+Zappa
 はい、ぁ…、解ってはいるんですけど、人類の運命がかかっていると思うと…。
 
 パラダイム
 prdm
+Dr. Paradigm
 わからんでも無いがね。私も<keyword>ギアメーカー</keyword>がいれば、こんな面倒は無いのにと思うからな。
 
 ザッパ
 zppa
+Zappa
 ギア、メーカー…ですか？
 
 パラダイム
 prdm
+Dr. Paradigm
 そうだ。彼はこのような事件が起きた背景を知っているようだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 それにあらゆる<keyword><ruby>法力</ruby/>ほうりき</ruby></keyword>とその応用に長けている。<cf>ここにいれば心強いのだが、今は居所が知れん。
 
 ザッパ
 zppa
+Zappa
 ギ、ギアメーカーって、<keyword>ギア</keyword>を作って<keyword>聖戦</keyword>を起こしたっていう、あの極悪人ですよね？
 
 パラダイム
 prdm
+Dr. Paradigm
 公にはな。
 
 パラダイム
 prdm
+Dr. Paradigm
 だが我々は何度か彼に助けられている。<cf>個人的な感想を言えば、歴史で語られているような悪人ではない。
 
 パラダイム
 prdm
+Dr. Paradigm
 恐らく、誰も知らない真実があるのだろう。
 
 ザッパ
 zppa
+Zappa
 え、なんかイメージ湧かないな…。
 
 パラダイム
 prdm
+Dr. Paradigm
 まぁ私もそれほど詳しいわけではないが…。
 
 ザッパ
 zppa
+Zappa
 あ、出たみたいです。
 
 パラダイム
 prdm
+Dr. Paradigm
 ふむ。どう見ればいい？
 
 ザッパ
 zppa
+Zappa
 この雲のような部分が霊障環境です。<cf>赤が濃くなるほど危険性が高くなると考えてください。
 
 ザッパ
 zppa
+Zappa
 今回のケースでは、この色のクラスで地震が起きました。
 
 ザッパ
 zppa
+Zappa
 それほど危険ではありませんが、通常、滅多にない環境です。
 
 パラダイム
 prdm
+Dr. Paradigm
 これはまた…随分と広範囲だな…。
 
 ザッパ
 zppa
+Zappa
 えぇ、こうして目で確認するのは僕も初めてですが、たしかにこれは異常ですね…。
 
 パラダイム
 prdm
+Dr. Paradigm
 ひときわ濃い点があるな。これは大丈夫なのか？
 
 ザッパ
 zppa
+Zappa
 本当だ…。でも、あれ？
 
 ザッパ
 zppa
+Zappa
 おかしいな、この場所は地震のあったところですよ。<cf>もうとっくに収まっていても良いはずなのに。
 
 パラダイム
 prdm
+Dr. Paradigm
 ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 もし、フレアが放出され続けていたらどうなる？
 
 ザッパ
 zppa
+Zappa
 え…、多分、霊障環境が広がっていきます。より危険になって…。
 
 ザッパ
 zppa
+Zappa
 ぼ、膨張してる…。
 
 パラダイム
 prdm
+Dr. Paradigm
 一週間先の結果はわかるか？
 
 ザッパ
 zppa
+Zappa
 10分もあれば。
 
 パラダイム
 prdm
+Dr. Paradigm
 そうか、ではまず……
 
 パラダイム
 prdm
+Dr. Paradigm
 コーヒーだ。このような時こそ落ち着かんとな。
 
 パラダイム
 prdm
+Dr. Paradigm
 レオ殿ー！
 
 レオ
 leo
+Leo Whitefang
 なんだドクター。そんなに慌ててどうした？
 
 パラダイム
 prdm
+Dr. Paradigm
 コロニーの住民を外出させてはいかん！
 
 レオ
 leo
+Leo Whitefang
 落ち着いて、説明してくれ。
 
 パラダイム
 prdm
+Dr. Paradigm
 情報体フレアが拡大しているのだ！
 
 レオ
 leo
+Leo Whitefang
 何、拡大だと？ フレアはすぐに収まると言っていたろう。
 
 パラダイム
 prdm
+Dr. Paradigm
 理由は解らん。しかし、このままだといずれ、世界中が<ruby>覆</ruby/>おお</ruby>い尽くされる！
 
 パラダイム
 prdm
+Dr. Paradigm
 残された時間がそれだ。
 
 レオ
 leo
+Leo Whitefang
 ……52日？ 2ヶ月もないじゃないか！
 
 パラダイム
 prdm
+Dr. Paradigm
 違う。52時間だ。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 フレアが世界を覆えば、もはやコロニー住人を避難させる意味が無い。<cf>52時間以内に決着をつける必要がある。
 
 パラダイム
 prdm
+Dr. Paradigm
 ぬ？
 
 レオ
 leo
+Leo Whitefang
 で、デカいぞ！！ なにか始まったのか！！？
 
 パラダイム
 prdm
+Dr. Paradigm
 いや、これはすぐに収まる。
 
 レオ
 leo
+Leo Whitefang
 ドクター、何をすればいい。
 
 パラダイム
 prdm
+Dr. Paradigm
 レオ殿はすぐに調律師と連絡を取ってくれ。
 
 レオ
 leo
+Leo Whitefang
 調律師……ヘヒョンに？
 
 パラダイム
 prdm
+Dr. Paradigm
 うむ。いいか、結論として最も重要な点はひとつ。<cf>もしコロニー住人が全て<keyword>反物質</keyword>化すれば……
 
 パラダイム
 prdm
+Dr. Paradigm
 その爆発エネルギーは<keyword>セントエルモ</keyword>に匹敵する！
 
 レオ
 leo
+Leo Whitefang
 まさか！
 
 パラダイム
 prdm
+Dr. Paradigm
 そうだ。恐らく「<keyword>慈悲なき啓示</keyword>」はこのエネルギーを使い、<cf>ジャスティスとエル殿を融合させるつもりだ。
 
 レオ
 leo
+Leo Whitefang
 だったら、住人を一か所に集めておくのは危険ではないか！？
 
 パラダイム
 prdm
+Dr. Paradigm
 いや、敵がどのような手段でエネルギーを吸収するか分からん。
 
 パラダイム
 prdm
+Dr. Paradigm
 ならば逆に住人を一箇所に集め、症状を少しでも抑えて時間稼ぎをした方が得策だ。
 
 パラダイム
 prdm
+Dr. Paradigm
 すぐに対策を講じよう！
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4018,18 +4991,22 @@ Chapter 4 Identify B
 
 ナレーション
 dummy
+Narrator
 <color 0 0 0>「聖戦」<cf>かつて人類は<ruby>生体兵器</ruby/>せいたいへいき</ruby>「ギア」との戦争で絶滅の危機に瀕した。</color>
 
 ナレーション
 dummy
+Narrator
 <color 0 0 0><ruby>辛酸</ruby/>しんさん</ruby>を舐めた末に辛うじて掴んだ勝利。<cf>その暗い歴史から立ち直るため、時の流れと共に人々は努めてその記憶を拭い去っていった。</color>
 
 ナレーション
 dummy
+Narrator
 <color 0 0 0>今となっては何故ギアが生まれたのか、何故人類を襲ったのか。<cf>その真実を知る者は一人しかいない。ギアを作った者以外に。</color>
 
 ナレーション
 dummy
+Narrator
 <color 0 0 0>ベッドマンとの戦いの果て、<cf>行動を封じられていた彼は、世の中の異変に気付いていた。</color>
 
 November 21th , 2187
@@ -4037,122 +5014,152 @@ Backyard
 
 あの男
 aotk
+That Man
 <keyword>バックヤード</keyword>上の<ruby>法界</ruby/>ほうかい</ruby>に揺らぎが生じている。
 
 あの男
 aotk
+That Man
 <keyword>絶対確定世界</keyword><ruby>開闢</ruby/>かいびやく</ruby>までの時間が迫って来ているのか…。
 
 あの男
 aotk
+That Man
 しかし、まずいな…。この牢は想像以上に手強い。
 
 クロノス
 crns
+Chronus
 <keyword>ギアメーカー</keyword>……苦戦しているな。<cf>やはり一人では先日のようなブラックホール作戦も使えんか。
 
 あの男
 aotk
+That Man
 クロノス…。
 
 クロノス
 crns
+Chronus
 <keyword>絶対防壁フェリオン</keyword>。<cf>数世紀かけて完成された技術は伊達じゃないだろう。
 
 あの男
 aotk
+That Man
 ああ、大した難問だ。ベッドマンという少年がこの<keyword>法力</keyword>を使えたこともね。
 
 クロノス
 crns
+Chronus
 見様見真似ではないだろうな。<cf>それに…例えバックヤード内であったとしても、この魔法の不正使用は不可能だ。
 
 あの男
 aotk
+That Man
 ということは…。
 
 クロノス
 crns
+Chronus
 あぁ、コレで敵の正体がはっきりした。
 
 あの男
 aotk
+That Man
 ありがとう。
 
 あの男
 aotk
+That Man
 苦労したかい？ ここを見つけるのは。
 
 クロノス
 crns
+Chronus
 大したことはない。これからお前がする苦労に比べればな。
 
 あの男
 aotk
+That Man
 ？
 
 クロノス
 crns
+Chronus
 今度こそ人類とギアの血の歴史に完全なる決着をつけねばならない。
 
 クロノス
 crns
+Chronus
 となれば、お前は……あのソル=バッドガイに全てを話す必要があるだろう。
 
 あの男
 aotk
+That Man
 ……そういうことか。
 
 あの男
 aotk
+That Man
 100年以上も告白出来ずに過ごしてきた…。正直、怖いな。
 
 あの男
 aotk
+That Man
 恨まれていれば、<keyword>フレデリック</keyword>と繋がっていられると思ってきた。
 
 あの男
 aotk
+That Man
 ちゃんと説明できるかな……。
 
 クロノス
 crns
+Chronus
 修士論文よりは簡単なはずだ。
 
 あの男
 aotk
+That Man
 論文に友達を失う覚悟は必要ないだろう？
 
 クロノス
 crns
+Chronus
 くくく…。人類の歴史上、最悪の大罪人と呼ばれるお前が<cf>こんな表情を見せる人間だと知ったら、人々はどう思うだろうな。
 
 あの男
 aotk
+That Man
 ……。
 
 クロノス
 crns
+Chronus
 我々の師が何故、お前に「種」を託したのか解ったような気がする。
 
 クロノス
 crns
+Chronus
 私は多くの人命を奪った。人類の未来を救いたくてだ。
 
 クロノス
 crns
+Chronus
 今でもその考えが間違いだったとは思っていない。
 
 クロノス
 crns
+Chronus
 だが少なくとも、運命は私に同意しなかった。
 
 クロノス
 crns
+Chronus
 こうなった以上、全てをお前に託すほかない。「<keyword>慈悲なき啓示</keyword>」を…
 
 クロノス
 crns
+Chronus
 止めてくれ。
 
 November 21th , 2187
@@ -4160,10 +5167,12 @@ November 21th , 2187
 
 アクセル
 axl
+Axl Low
 なんかが…起こる。起こっちまう。
 
 アクセル
 axl
+Axl Low
 俺は…ダメだ。このままじゃダメだ…。
 
 November 22th , 2187
@@ -4171,162 +5180,202 @@ November 22th , 2187
 
 ヘヒョン
 kum
+Kum Haehyun
 世界自身が乱れている…。間違いないのだな？
 
 レオ
 leo
+Leo Whitefang
 そうだ。<keyword>コロニー</keyword>の住人は、遥か遠方の異変に反応していた。
 
 ヘヒョン
 kum
+Kum Haehyun
 それを聞いて安心した。どうやら某の見立てと同じようだ。
 
 ヘヒョン
 kum
+Kum Haehyun
 調律の対象が一つならば、時間の問題は無い。
 
 ヘヒョン
 kum
+Kum Haehyun
 あとは小を<ruby>以</ruby/>も</ruby>って大を成せばいい。あの出前娘のおかげだな。
 
 レオ
 leo
+Leo Whitefang
 出前娘？
 
 ヘヒョン
 kum
+Kum Haehyun
 いや、なんでもない。時間稼ぎの件は引き受けた。
 
 レオ
 leo
+Leo Whitefang
 頼んだ。
 
 ヘヒョン
 kum
+Kum Haehyun
 さて、「小を以って」とは言ったものの…。
 
 梅喧
 bikn
+Baiken
 アンタか。コロニーの皆を守ってくれてるって奴は。
 
 ヘヒョン
 kum
+Kum Haehyun
 ウヌは？
 
 梅喧
 bikn
+Baiken
 コロニーの住人だ。このチビに呼ばれてきた。
 
 ヘヒョン
 kum
+Kum Haehyun
 コロニーの住人にしては健常に見えるが…。
 
 梅喧
 bikn
+Baiken
 一時期ここを離れていた連中には何の変化も起きていない。俺もその一人だ。
 
 ヘヒョン
 kum
+Kum Haehyun
 <keyword>医者</keyword>の言っていた通りだな…。
 
 梅喧
 bikn
+Baiken
 アンタなら、里の皆を助けられるのか？
 
 ヘヒョン
 kum
+Kum Haehyun
 我が身に代えても。
 
 梅喧
 bikn
+Baiken
 ……。
 
 梅喧
 bikn
+Baiken
 着いてきな。
 
 ヘヒョン
 kum
+Kum Haehyun
 これは…。
 
 梅喧
 bikn
+Baiken
 ご神木だ。苗木の頃からここの住人が気を練りこんで育てた。<cf>神聖な場所だ。<keyword>イリュリア</keyword>の人間も入れない。
 
 梅喧
 bikn
+Baiken
 こいつの霊力なら、アンタの仕事を手伝えるんじゃねぇか？
 
 ヘヒョン
 kum
+Kum Haehyun
 何と見事な。確かにこれならば某の力を何倍にも増幅できる。
 
 メイ
 may
+May
 ね、凄いでしょ？
 
 梅喧
 bikn
+Baiken
 待ちな。
 
 梅喧
 bikn
+Baiken
 <ruby>余所者</ruby/>よそもの</ruby>にこの場所を預けるからには確認しておきたい。
 
 メイ
 may
+May
 え？
 
 梅喧
 bikn
+Baiken
 その昔、<keyword>ジャスティス</keyword>は俺たち<keyword>ジャパニーズ</keyword>を狙って攻撃を仕掛けた。<cf>アンタの国の同胞は、そのとばっちりで大勢死んだ。
 
 梅喧
 bikn
+Baiken
 ここの連中を助ける義理があるのか？
 
 ヘヒョン
 kum
+Kum Haehyun
 義理か…。
 
 ヘヒョン
 kum
+Kum Haehyun
 ……この鎖はな。
 
 ヘヒョン
 kum
+Kum Haehyun
 一つ一つ、全て違う国で手に入れた。だが石の種類はすべて同じ。<cf>遥か大昔にはたった一つだった<ruby>岩塊</ruby/>がんかい</ruby>が、長い年月を経て様々な国へと散らばったと云う。
 
 ヘヒョン
 kum
+Kum Haehyun
 某はそれを鎖でつなげた。再びこの兄弟たちが再会することが<ruby>浪漫</ruby/>ろまん</ruby>だと。
 
 ヘヒョン
 kum
+Kum Haehyun
 ロシア、モンゴル、イスラエル、中国、スペイン、アメリカ……
 
 ヘヒョン
 kum
+Kum Haehyun
 そして、今となってはどうしても入手が叶わぬ一つ……それを、そこのメイに貰ったのだ。
 
 ヘヒョン
 kum
+Kum Haehyun
 …<keyword>日本</keyword>。
 
 梅喧
 bikn
+Baiken
 挨拶が遅れちまったな。
 
 梅喧
 bikn
+Baiken
 俺は<ruby>梅喧</ruby/>ばいけん</ruby>。剣には多少覚えがある。
 
 梅喧
 bikn
+Baiken
 チビから話は聞いた。こいつは<ruby>胡散</ruby/>うさん</ruby>臭い連中の計画だってな。
 
 梅喧
 bikn
+Baiken
 だから、アンタの背中は命に代えても俺が守る。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4338,230 +5387,287 @@ November 22th , 2187
 
 聖皇
 arls
+St. Maximus
 パラダイムたちが動き始めた。仕組みに気付いたな。
 
 エルフェルト
 elp2
+Elphelt Valentine
 あ…。
 
 聖皇
 arls
+St. Maximus
 私もそろそろかな……。ん？
 
 聖皇
 arls
+St. Maximus
 どうしたエルフェルト、顔色が悪いぞ？
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 聖皇
 arls
+St. Maximus
 一体どうしたんだ。こんな気分のいいところは、そうそうないだろう。私も気に入っている。
 
 聖皇
 arls
+St. Maximus
 娘にも会えるし…。
 
 聖皇
 arls
+St. Maximus
 本来の自分に戻れる。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ひ…。
 
 エルフェルト
 elp2
+Elphelt Valentine
 な…何を始めるの…？
 
 聖皇
 arls
+St. Maximus
 始める…。んーん、そんな大したことじゃない。
 
 聖皇
 arls
+St. Maximus
 とりあえず一人死んでもらうだけ。
 
 エルフェルト
 elp2
+Elphelt Valentine
 お願い…もうそんなことやめて。
 
 聖皇
 arls
+St. Maximus
 やめる？ そっか……。なら、寝てよっか？
 
 聖皇
 arls
+St. Maximus
 それもいいんだけど。どっちみちアイツらは滅んじゃうじゃん？<cf>せっかく最高の舞台を用意してんのに、見過ごすのは勿体無いじゃん。
 
 エルフェルト
 elp2
+Elphelt Valentine
 どうしてこんなことを…。
 
 聖皇
 arls
+St. Maximus
 おぉー、エルフェルト。エルフェルト。
 
 聖皇
 arls
+St. Maximus
 知らないかもしれないけど、私は我慢強い。
 
 聖皇
 arls
+St. Maximus
 生まれて此の方、我慢しかしてないの！ 誓っていい、これは本当のこと。
 
 聖皇
 arls
+St. Maximus
 確固たる目的を持って生まれ、未だにその夢は叶ってないの。
 
 聖皇
 arls
+St. Maximus
 何年経ったかなぁ？ その間ずっとね！
 
 聖皇
 arls
+St. Maximus
 この仮面被ってきたの。
 
 聖皇
 arls
+St. Maximus
 私にママがいたら、それはもう……<cf>「我慢強い子ね」て言って、たくさんお小遣いをくれるに違いない。
 
 聖皇
 arls
+St. Maximus
 でもその私がね。「なんで？！」「どうして？！」って、<cf>そんな会話にはいい加減シビレを切らしてきちゃった…。
 
 エルフェルト
 elp2
+Elphelt Valentine
 だったら楽しい話をしましょう。<cf>私達は話し合える。歩み寄れるはずでしょ？
 
 聖皇
 arls
+St. Maximus
 でも！ 完璧な明日を迎えることは出来ないじゃん。
 
 エルフェルト
 elp2
+Elphelt Valentine
 完璧な明日？
 
 聖皇
 arls
+St. Maximus
 そう！ 人形は皆、何らかの明日を求めてる。
 
 聖皇
 arls
+St. Maximus
 今日という日を脱却するための明日～。<cf>今日と変わらない普遍の明日。未知の可能性を託す希望の明日。
 
 聖皇
 arls
+St. Maximus
 でも、人形は組織的、社会構造の中で生きる限り、この見解を統一できない。
 
 聖皇
 arls
+St. Maximus
 いや、しないの。
 
 聖皇
 arls
+St. Maximus
 だから、自ら単一的な結末に向かっていることに気付かない。
 
 聖皇
 arls
+St. Maximus
 私は、誰もが望む明日を完成させる。
 
 エルフェルト
 elp2
+Elphelt Valentine
 なら、それを伝えれば済むことでしょう？
 
 聖皇
 arls
+St. Maximus
 目玉焼きを焼き過ぎたことは？
 
 エルフェルト
 elp2
+Elphelt Valentine
 え？
 
 聖皇
 arls
+St. Maximus
 目玉焼きだよ。真っ黒に焦がしたことはないか？
 
 聖皇
 arls
+St. Maximus
 でも、その日に限って、どうしても半熟のトロっとした卵が食べたかったら…？
 
 聖皇
 arls
+St. Maximus
 作り直すしかない！
 
 エルフェルト
 elp2
+Elphelt Valentine
 人間がいったい何を―――
 
 聖皇
 arls
+St. Maximus
 人形、エルフェルト。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ひっ。
 
 聖皇
 arls
+St. Maximus
 かわいい首輪！ 我ながらいいセンス！
 
 聖皇
 arls
+St. Maximus
 は～、だがそうだなぁ……奴らは頑張った！
 
 聖皇
 arls
+St. Maximus
 よく頑張ったよ。数百万年も生存して、制圧して、繁栄しちゃった。
 
 聖皇
 arls
+St. Maximus
 だからね、最後はね、滅びんの。生物として、当たり前。
 
 エルフェルト
 elp2
+Elphelt Valentine
 貴方だって、同類でしょう。
 
 聖皇
 arls
+St. Maximus
 私が死を恐れているように見える？ そんなマトモに見えちゃう？
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 聖皇
 arls
+St. Maximus
 お前にもそろそろ覚悟を決めてもらう。まずは、その未練を断ち切らないとな。
 
 エルフェルト
 elp2
+Elphelt Valentine
 この…人…たちは？
 
 聖皇
 arls
+St. Maximus
 ファランクス９！
 
 聖皇
 arls
+St. Maximus
 聖皇直属の最強衛兵隊だ。この世で最も忠誠心が高い。<cf>「多少」<ruby>弄</ruby/>いじ</ruby>ったから、今はもっと高い。
 
 聖皇
 arls
+St. Maximus
 忠誠心は良いぞー？<cf>どこに持って行っても手荷物検査に引っかかんないの！
 
 聖皇
 arls
+St. Maximus
 そして……
 
 エルフェルト
 elp2
+Elphelt Valentine
 な、何をするつもり？！
 
 聖皇
 arls
+St. Maximus
 何だろうねぇ？
 
 November 22th , 2187
@@ -4569,126 +5675,157 @@ November 22th , 2187
 
 ザッパ
 zppa
+Zappa
 じゃあ、皆さん。これから僕がカテゴリー２以上のエリアを列挙していきます。
 
 ザッパ
 zppa
+Zappa
 対象は発見次第、近隣の兵士に保護を任せ、安全なエリアを確認した後に避難誘導をお願いします。
 
 アレクシス
 tsf2
+Alexis
 あの…。周囲にカテゴリー２以下のエリアがなかった場合はどうしたら？
 
 ザッパ
 zppa
+Zappa
 その時は、最もリスクの少ないカテゴリーを優先してください。<cf>距離は二の次で構いません。
 
 ザッパ
 zppa
+Zappa
 …あ、その声…。<cf>もしかして君は、３課の…新しく窓口担当になった…？
 
 アレクシス
 tsf2
+Alexis
 え？ あ、はい…。
 
 ザッパ
 zppa
+Zappa
 参ったな、ランディに10ドル払わないと…。
 
 ラムレザル
 ram
+Ramlethal Valentine
 何が始まるの？
 
 パラダイム
 prdm
+Dr. Paradigm
 パスポート信号を追い、危険地帯にいる<keyword>ジャパニーズ</keyword>を保護するのだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 幸い彼らの行動範囲は国内に限定されている。<cf>シンとラム殿は現地に敵影が確認された時、手伝ってもらいたい。
 
 シン
 sin
+Sin Kiske
 そういうのなら、任せとけ。
 
 ラムレザル
 ram
+Ramlethal Valentine
 随分とアナログだね。自動で検出するシステムはないの？
 
 パラダイム
 prdm
+Dr. Paradigm
 次からな。<keyword><ruby>稟議書</ruby/>りんぎしよ</ruby></keyword>は書いた。
 
 レオ
 leo
+Leo Whitefang
 よし、各自持ち場に着いたか？
 
 ザッパ
 zppa
+Zappa
 では、都市単位から<ruby>絞込</ruby/>しぼりこ</ruby>みます。モデナ。
 
 アレクシス
 tsf2
+Alexis
 クリア。
 
 ザッパ
 zppa
+Zappa
 テルニ。
 
 トレイ
 opr2
+Trey
 クリア。
 
 ザッパ
 zppa
+Zappa
 モルフェッタ。
 
 アンダース
 opr1
+Anders
 クリア。
 
 ザッパ
 zppa
+Zappa
 スカンディーヴァ。
 
 アレクシス
 tsf2
+Alexis
 クリ……いえ、待ってください。一名見つかりました！
 
 レオ
 leo
+Leo Whitefang
 市街地だぞ！ すぐに住民の避難を開始させろ。
 
 アレクシス
 tsf2
+Alexis
 でも、あれ…？
 
 レオ
 leo
+Leo Whitefang
 どうした？
 
 アレクシス
 tsf2
+Alexis
 は、はい。それが……。信号がもう一つあります。
 
 ザッパ
 zppa
+Zappa
 本当だ。…これは……識別ID？
 
 パラダイム
 prdm
+Dr. Paradigm
 何だと？ 一体、何者だ？ この状況でフィルターを無視する信号なんて…。
 
 アレクシス
 tsf2
+Alexis
 ID照合できました。対象は…嘘……そんな……。
 
 レオ
 leo
+Leo Whitefang
 なんだ。はっきり報告しろ。
 
 アレクシス
 tsf2
+Alexis
 対象は……エルフェルト…。エルフェルト＝ヴァレンタインです！！！
 
 November 22th , 2187
@@ -4696,134 +5833,167 @@ November 22th , 2187
 
 レイヴン
 rvn
+Raven
 エルフェルトだと？
 
 ジャック・オー
 jko
+Jack-O Valentine
 こんなことあると思う？ パラダイムがあれほど探していたのに。
 
 レイヴン
 rvn
+Raven
 有り得んな。
 
 ジャック・オー
 jko
+Jack-O Valentine
 じゃあ何？ <ruby>案山子</ruby/>かかし</ruby>？
 
 レイヴン
 rvn
+Raven
 案山子は一人で出歩いたりはしない。その点ではお前より利口だ。
 
 レイヴン
 rvn
+Raven
 はっ！
 
 あの男
 aotk
+That Man
 遅れてすまない。
 
 レイヴン
 rvn
+Raven
 お待ちしておりました。
 
 あの男
 aotk
+That Man
 敵は何か始める気だ。我々も行動を起こそう。
 
 レイヴン
 rvn
+Raven
 では、ついに…。
 
 あの男
 aotk
+That Man
 あぁ、その時だ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 緊張してる？
 
 あの男
 aotk
+That Man
 言わないでくれ。
 
 レイヴン
 rvn
+Raven
 エルフェルトの信号はどう思われますか？
 
 あの男
 aotk
+That Man
 意味がなければ、動くわけがない。
 
 レイヴン
 rvn
+Raven
 では、私は。
 
 あの男
 aotk
+That Man
 慎重に頼む。言うまでもないが、これは…。
 
 パラダイム
 prdm
+Dr. Paradigm
 罠だ。それは間違いない。
 
 レオ
 leo
+Leo Whitefang
 しかし、確認しないわけにもいかん。あとは部隊の編成だが…。
 
 ラムレザル
 ram
+Ramlethal Valentine
 私が一人で行く。
 
 シン
 sin
+Sin Kiske
 ラム？
 
 ラムレザル
 ram
+Ramlethal Valentine
 万が一の時、被害は少ない方がいい。<cf>私が行く分には、ここの人たちも心配はしないでしょ。
 
 ラムレザル
 ram
+Ramlethal Valentine
 それにあの場にエルがいないまでも、手がかりはあるかも知れない。<cf>私なら、それを見落としたりはしない。
 
 レオ
 leo
+Leo Whitefang
 待て、勝手に話を進めるな。
 
 ラムレザル
 ram
+Ramlethal Valentine
 私は信頼できない…？
 
 レオ
 leo
+Leo Whitefang
 な、なんの真似だ？
 
 ラムレザル
 ram
+Ramlethal Valentine
 笑顔…。
 
 シン
 sin
+Sin Kiske
 オレも行くぜ？ ラム一人でなんか行かせられるかよ。
 
 レオ
 leo
+Leo Whitefang
 二人だけでもだ。最低限の護衛はつける。だが…
 
 レオ
 leo
+Leo Whitefang
 貧乏クジの可能性は高い。<cf>少しでも危険を感じたら、避難を優先しろ。いいな？
 
 ラムレザル
 ram
+Ramlethal Valentine
 …あ、ありがとう。
 
 シン
 sin
+Sin Kiske
 壁が壊れたな。
 
 レオ
 leo
+Leo Whitefang
 パンティダイン通り、リアルドリアードとの交差点だ！<cf>町の出口全てを封鎖しろ。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4832,162 +6002,202 @@ Chapter 5 Face B
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 信号は？
 
 ソードマン
 swmn
+Swordsman
 パスポートだけ落ちていました。<cf>しかしエルフェルトの信号はまだあります。場所は確かにこの付近なのですが…。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 いよいよ怪しいな…。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 よし、みんな聞け。住民の避難は完了している。<cf>各自散開し、周囲を最終確認しつつ、そのまま市外へ撤退する。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 対象、もしくは要救助者を発見した場合は個人で対処せず、必ず私の到着を待て。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 情報フレアの危険性はまだ低い。焦らずに行動するんだ。
 
 聖皇
 arls
+St. Maximus
 まずいな、まずいよ隊長。<cf>大事な判断はものさし一個で測っちゃいけないって、先生に教わらなかったか？
 
 シン
 sin
+Sin Kiske
 オレはこの辺を片っ端から走り回ってみるぜ。ラムはどうする？
 
 ラムレザル
 ram
+Ramlethal Valentine
 私はもう少しこの場を調べる。
 
 シン
 sin
+Sin Kiske
 OK！
 
 聖皇
 arls
+St. Maximus
 いい子ね……。やっぱりお前はそう動くよね。
 
 エルフェルト
 elp2
+Elphelt Valentine
 まさか！
 
 トレイ
 opr2
+Trey
 緊急警報！ 現場上空に巨大ギアが出現しました！！
 
 レオ
 leo
+Leo Whitefang
 何！
 
 パラダイム
 prdm
+Dr. Paradigm
 で、でかいぞ…。
 
 パラダイム
 prdm
+Dr. Paradigm
 逃げろラム殿！！ そのサイズが間近で爆発すれば、助からん！！
 
 シン
 sin
+Sin Kiske
 マジかよ…！ ラム、今そっちに行くからな！！
 
 ラムレザル
 ram
+Ramlethal Valentine
 シンを待ってる分、時間が無駄だよ。こっちも十分間に合うから。
 
 シン
 sin
+Sin Kiske
 そ、そっか。とにかく急げよ！
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 総員、退避！！！
 
 ラムレザル
 ram
+Ramlethal Valentine
 <ruby>縮退</ruby/>しゆくたい</ruby>は始まってない、間に合う。
 
 ラムレザル
 ram
+Ramlethal Valentine
 …っ。
 
 ラムレザル
 ram
+Ramlethal Valentine
 強いっ…！
 
 ラムレザル
 ram
+Ramlethal Valentine
 ルシフェロ！！
 
 ラムレザル
 ram
+Ramlethal Valentine
 行って！！
 
 ルシフェロ
 dummy
+Lucifero
 行けって…オマエはっ？！
 
 ラムレザル
 ram
+Ramlethal Valentine
 早くしろ、バカっ！！
 
 ルシフェロ
 dummy
+Lucifero
 ……。
 
 ラムレザル
 ram
+Ramlethal Valentine
 縮退が始まった。
 
 ラムレザル
 ram
+Ramlethal Valentine
 駄目か…。
 
 シン
 sin
+Sin Kiske
 ラム！ 良かった、無事か？
 
 シン
 sin
+Sin Kiske
 オレも今ケンガイとかいうところに来たところだ。危なかったな。
 
 ラムレザル
 ram
+Ramlethal Valentine
 シン、私は…。
 
 シン
 sin
+Sin Kiske
 なんだ？
 
 ラムレザル
 ram
+Ramlethal Valentine
 私は…。
 
 ラムレザル
 ram
+Ramlethal Valentine
 本当は、ずっと笑う練習をしていたんだよ。
 
 ラムレザル
 ram
+Ramlethal Valentine
 いつか、私とエル、そしてシンと一緒に笑えると思って。
 
 シン
 sin
+Sin Kiske
 何だよ急に。こんなときに話すことじゃないだろ？
 
 ラムレザル
 ram
+Ramlethal Valentine
 …見せたかったな。
 
 シン
 sin
+Sin Kiske
 ……ラム？
 
 November 22th , 2187
@@ -4995,34 +6205,42 @@ November 22th , 2187
 
 エルフェルト
 elp2
+Elphelt Valentine
 あああああああ！！
 
 聖皇
 arls
+St. Maximus
 泣かなくていいの！ ラムレザルは、始めからこうなる予定だったんだ。
 
 聖皇
 arls
+St. Maximus
 失敗作だったから！
 
 エルフェルト
 elp2
+Elphelt Valentine
 悪魔！！ お母さんは悪魔よ！！！
 
 聖皇
 arls
+St. Maximus
 悪魔？ あぁー…悪魔か。それイイね！<cf>人形共が想像した最も邪悪な象徴、その頂点！
 
 聖皇
 arls
+St. Maximus
 何事も一番ってのはイイよね！ だがな、エルフェルト。
 
 聖皇
 arls
+St. Maximus
 私がこれからすることは、こんな程度じゃないんだ。
 
 聖皇
 arls
+St. Maximus
 その時……私さ、一体、何て呼ばれると思う？
 
 November 22th , 2187
@@ -5030,42 +6248,52 @@ November 22th , 2187
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 被害規模に関する報告は以上です。あとは各自治体や報道への懸念が…。
 
 カイ
 kyk
+Ky Kiske
 統制は取れそうですか？
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 正直、全てを把握しきれておりません。<cf>政治的な関与を疑う者も出ております。<cf>打ち切るわけにも参りませんから、しばらくの混乱は必至かと。
 
 カイ
 kyk
+Ky Kiske
 苛立ちを見せる者もいるだろうな。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 それから…
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 ラムレザルの<ruby>遺骸</ruby/>いがい</ruby>はいかがいたしましょう。<cf>認識できる部位が残っていますので、国葬も可能です。
 
 カイ
 kyk
+Ky Kiske
 …その件は、もうしばらく待ってもらえますか。<cf>他では話題に上がらないよう、配慮もお願いします。
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 承知いたしました。では最後に…
 
 コンヴィクトハンマー
 cvhm
+Convict Hammer
 事実がはっきりする前に口にするのが<ruby>憚</ruby/>はばか</ruby>られる内容です。<cf>気になる検証結果が出ました。資料にまとめていますので、後でご覧ください。
 
 カイ
 kyk
+Ky Kiske
 …？
 
 November 22th , 2187
@@ -5073,66 +6301,82 @@ November 22th , 2187
 
 パラダイム
 prdm
+Dr. Paradigm
 連絡が付いたぞ。<keyword>ギアメーカー</keyword>が来る。
 
 レオ
 leo
+Leo Whitefang
 ここで待てばいいのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 ああ、間もなくだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 <keyword>フレデリック</keyword>……。問題ないか？
 
 ソル
 sols
+Sol Badguy
 どういう意味だ。
 
 パラダイム
 prdm
+Dr. Paradigm
 解っているはずだ。<cf>少なくとも話がすべて終わるまでは、大人しくしていてくれよ？
 
 ソル
 sols
+Sol Badguy
 ……ふん。
 
 ソル
 sols
+Sol Badguy
 しかし「<keyword>慈悲なき啓示</keyword>」は何故直接首都を狙わなかった？
 
 レオ
 leo
+Leo Whitefang
 各個撃破の方が成功率が高いからだろう。<cf>少しずつ、こちらの戦力を削ぐつもりかもしれん。
 
 ソル
 sols
+Sol Badguy
 ラムレザルを狙い撃ちした…。
 
 ソル
 sols
+Sol Badguy
 だがそのおかげで首都の警戒が厳重になった。<cf>損得の話で言えば、利口な戦術じゃねぇな。
 
 カイ
 kyk
+Ky Kiske
 人間の意識を標的にしているのでは？
 
 レオ
 leo
+Leo Whitefang
 おいおい。「慈悲なき啓示」に感情は無いはずだろ。そんなことは…。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ありえるよ～。
 
 あの男
 aotk
+That Man
 人類はこの機に全てを清算する。今度こそ、決着をつけるんだ。
 
 あの男
 aotk
+That Man
 時は来た。全ての真実を語るその時が。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5144,214 +6388,267 @@ November 22th , 2187
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ジャック・オー
 jko
+Jack-O Valentine
 また会えたね、<keyword>フレデリック</keyword>。
 
 あの男
 aotk
+That Man
 この事件は君たちが考えるほど複雑では無い。
 
 あの男
 aotk
+That Man
 「慈悲なき啓示」は様々な策をめぐらしているように見えるが、その目的はただ一つだ。それは…
 
 あの男
 aotk
+That Man
 不変不滅の生命の創造。
 
 レオ
 leo
+Leo Whitefang
 生命？
 
 あの男
 aotk
+That Man
 そう、今の人類に成り代わる、新たな人類を創りたいんだ。
 
 ソル
 sols
+Sol Badguy
 それは聞いた。テメェの腰巾着にな。
 
 ソル
 sols
+Sol Badguy
 だが、これまでの事件と関連はあるのか。
 
 あの男
 aotk
+That Man
 「ビッグファイブ」という言葉を知っているかい？
 
 パラダイム
 prdm
+Dr. Paradigm
 あぁ、大量絶滅のことだな。同時期に多くの種が絶滅することだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 オルドビス紀末、デボン紀末、ペルム紀末、三畳紀末、白亜紀末……<cf>これまで地球は五度の大量絶滅を経験している。恐竜の絶滅などは皆にも馴染みがあるだろう。
 
 あの男
 aotk
+That Man
 そう。だけどそれは、地球に限った話ではない。全宇宙的に同時に起こっているんだ。
 
 あの男
 aotk
+That Man
 「絶対確定世界」の瞬間にね。
 
 レオ
 leo
+Leo Whitefang
 絶対確定世界。何だそれは？
 
 ジャック・オー
 jko
+Jack-O Valentine
 <keyword>バックヤード</keyword>には二つの情報有機体が存在する。<cf>そうね、アダムとイブとでも呼称しましょう。
 
 ジャック・オー
 jko
+Jack-O Valentine
 アダムとイブは意思や知性を持たない。<cf>お互いただ、ごく稀に出現しては消滅を繰り返しているの。
 
 ジャック・オー
 jko
+Jack-O Valentine
 でも、その二つが同時に出現すると、<cf>現世とバックヤードは境界が曖昧になり、一時的に融合する。
 
 ジャック・オー
 jko
+Jack-O Valentine
 それが「絶対確定世界」と呼ばれる状態。<cf>そしてその状態に耐えられないものは絶滅してしまう。
 
 パラダイム
 prdm
+Dr. Paradigm
 最近の<keyword>情報体フレア</keyword>の異常はその兆候ということか…？
 
 パラダイム
 prdm
+Dr. Paradigm
 いや、待てよ、そうか。<cf>「慈悲なき啓示」の狙いはそのアダムとイブを新たな人類にすることか？
 
 ジャック・オー
 jko
+Jack-O Valentine
 あたり。
 
 ジャック・オー
 jko
+Jack-O Valentine
 アダムとイブは絶滅に耐えられる存在。不変不滅の条件を満たしているの。
 
 レオ
 leo
+Leo Whitefang
 いや、あたりって、難しい言葉だから聞き流したが、<cf>そのアダムとイブは情報なんたらだと言っていたではないか。
 
 レオ
 leo
+Leo Whitefang
 それがどうして人間になるんだ。
 
 あの男
 aotk
+That Man
 僕の師である第一の男は、再び「絶対確定世界」が起こらないように、<cf>アダムとイブをそれぞれ二つの「種」に封じ込めた。
 
 ソル
 sols
+Sol Badguy
 ……。種…種、だと？
 
 ジャック・オー
 jko
+Jack-O Valentine
 一つを「ユノの天秤」と名付け、そしてもう一つを…、
 
 あの男
 aotk
+That Man
 「<ruby>背徳</ruby/>はいとく</ruby>の炎」と呼んだ…。
 
 カイ
 kyk
+Ky Kiske
 何だって……？
 
 パラダイム
 prdm
+Dr. Paradigm
 ということは、それが<keyword>ギア細胞</keyword>の起源…か。
 
 レオ
 leo
+Leo Whitefang
 待て待て。誰がこんな神話を聞かせろといった？
 
 レオ
 leo
+Leo Whitefang
 「慈悲なき啓示」は何故そんなに人間を創りたいんだ。
 
 あの男
 aotk
+That Man
 ……。
 
 あの男
 aotk
+That Man
 そうだね。それじゃあ昔話をしよう。ある男の原罪を。
 
 語り部
 dummy
+Prof. Narrator
 かつて、まだこの世界に「魔法」が無かった時代。<cf>一人の賢者が、異世界「バックヤード」を発見した。
 
 語り部
 dummy
+Prof. Narrator
 バックヤードは森羅万象を司り、この世の真理を知ることも、<cf>世界を思いのままに作り変えることも出来る場所だった。
 
 語り部
 dummy
+Prof. Narrator
 賢者はその場所から、ひとつの夢がかなうと考えた。<cf>それは人類の幸福。それが永遠に続くことである。
 
 語り部
 dummy
+Prof. Narrator
 賢者はその方法を探るため、一体のロボットを作った。
 
 語り部
 dummy
+Prof. Narrator
 与えられた使命は、人類の揺らぐことの無い幸福。その方法を探すこと。<cf>また、いかなる結論を出したとしても、人間を傷つけないこと。
 
 語り部
 dummy
+Prof. Narrator
 この使命に従い、ロボットは膨大な学習を始めた。
 
 語り部
 dummy
+Prof. Narrator
 しかしある時、一つの疑問にぶつかってしまった。<cf>「人間とはなんであるか？」
 
 語り部
 dummy
+Prof. Narrator
 学習を重ねる度、人間が複雑な存在だと知ったロボットは、<cf>完全に定義することを諦め、結論を得ないまま自ら解釈を作り出した。
 
 語り部
 dummy
+Prof. Narrator
 人間には「魂」がある。
 
 語り部
 dummy
+Prof. Narrator
 それは、漠然としながらもロボットが唯一納得できる答えだった。
 
 語り部
 dummy
+Prof. Narrator
 そしてある日、長い時を経て、ついにロボットは未来を予測し終えた。意外な結末を。
 
 語り部
 dummy
+Prof. Narrator
 その結末とは、人類が文明の発達と共にやがて自らの意思、その選択の自由を失う未来だった。
 
 語り部
 dummy
+Prof. Narrator
 人は夢を見る。<cf>人は意思を重んじる。<cf>人は愛を持つ。
 
 語り部
 dummy
+Prof. Narrator
 それらの人間的な衝動を「魂」と仮定したにもかかわらず、<cf>人間は将来的にそれを失うと予測した。
 
 語り部
 dummy
+Prof. Narrator
 自らの使命は、未来永劫続く人間の幸福を探すこと。<cf>しかし、人は永遠に人ではいられない。<cf>その上でロボットが使命を完遂するには、一つの結論を出さざるを得なかった。
 
 語り部
 dummy
+Prof. Narrator
 「この世界に、まだ人間はいない」
 
 語り部
 dummy
+Prof. Narrator
 この日を境に彼の目的は「魂」を持つ者、不変の衝動を司る、真の人類を作ることになった。
 
 語り部
 dummy
+Prof. Narrator
 そして同時に、現人類は守るべき対象ではなくなった。
 
 November 22th , 2187
@@ -5359,74 +6656,92 @@ November 22th , 2187
 
 あの男
 aotk
+That Man
 ロボットの反乱を知った賢者は説得を試みるためバックヤードへ向かったが、<cf>戻ってくることはなかった。
 
 あの男
 aotk
+That Man
 残された彼の弟子達は、それでも師の帰りを待ち、<cf>それぞれがロボットを説得する方法を模索した。
 
 あの男
 aotk
+That Man
 一人は、人々の知識を共有させ、人類を成長させる道。<cf>一人は、文明を一定の水準で停滞させ、人類を成長させない道。
 
 あの男
 aotk
+That Man
 そして後に弟子たちは「<keyword>ギアメーカー</keyword>」や「<keyword>元老院</keyword>」となり、<cf>ロボットを「慈悲なき啓示」と呼ぶようになった……。
 
 カイ
 kyk
+Ky Kiske
 ロボット…。「慈悲なき啓示」が？
 
 ジャック・オー
 jko
+Jack-O Valentine
 <ruby>便宜</ruby/>べんぎ</ruby>的な呼び方だけどね。正確には情報生命体。
 
 ジャック・オー
 jko
+Jack-O Valentine
 でも、それも昔の話。今は…
 
 ジャック・オー
 jko
+Jack-O Valentine
 人間なのよ。
 
 レオ
 leo
+Leo Whitefang
 に、人間だと？ ちょっと話を整理させろ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 そ、貴方たちと同じ人間になったの。
 
 ジャック・オー
 jko
+Jack-O Valentine
 だから最初に言った通り、今の「慈悲なき啓示」は人の心理を読める。
 
 パラダイム
 prdm
+Dr. Paradigm
 なんと…。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 では、率直にお訊きしたい。
 
 カイ
 kyk
+Ky Kiske
 貴方たちは、「慈悲なき啓示」の正体を知っているのですか？
 
 ジャック・オー
 jko
+Jack-O Valentine
 ええ、知っているわ。誰もが知っている人。
 
 あの男
 aotk
+That Man
 「慈悲なき啓示」の正体は……。
 
 あの男
 aotk
+That Man
 現聖皇、アリエルス。
 
 November 22th , 2187
@@ -5434,266 +6749,332 @@ November 22th , 2187
 
 レオ
 leo
+Leo Whitefang
 ふざけたことをぬかすな！！
 
 カイ
 kyk
+Ky Kiske
 落ち着け、レオ！
 
 レオ
 leo
+Leo Whitefang
 落ち着けだと？ なんでお前は……ッ。
 
 レオ
 leo
+Leo Whitefang
 いいか、ギアメーカー！<cf>確かにお前には数々の危機を救われた。だが今の話だけは聞き流すことはできん！
 
 レオ
 leo
+Leo Whitefang
 我々<keyword>イリュリア</keyword>の民は、国と聖皇様に忠誠を誓っている。<cf>軽々しくその権威を疑ったりはしない！！
 
 レオ
 leo
+Leo Whitefang
 それを…！
 
 あの男
 aotk
+That Man
 それは信仰かい？ それとも職務？
 
 レオ
 leo
+Leo Whitefang
 どっちもだっ！
 
 あの男
 aotk
+That Man
 では、どちらも改めなければならない。
 
 レオ
 leo
+Leo Whitefang
 だとしても、お前は信じられん！
 
 カイ
 kyk
+Ky Kiske
 しかし、ならば何故今まで直接仕掛けてこなかったのですか？<cf>チャンスはいくらでもあったはずだ。
 
 あの男
 aotk
+That Man
 君が言っていた通りだよ。<cf>「慈悲なき啓示」は人間の意識を標的にしているからだ。
 
 あの男
 aotk
+That Man
 あれには本来時間の概念が無い。<cf>現人類が勝手に自滅するのを待っていても良かった。
 
 あの男
 aotk
+That Man
 しかし、フレデリックや僕の妨害に遭うことで、<cf>自分が使命を果たす前に滅ぼされる可能性を認識した。
 
 あの男
 aotk
+That Man
 だから人と同じ価値観を持って、これに対処する必要があったんだ。
 
 レオ
 leo
+Leo Whitefang
 戯れ言を……！
 
 レオ
 leo
+Leo Whitefang
 …な？
 
 ソル
 sols
+Sol Badguy
 黙ってろ。話はまだ終わってねぇ。
 
 あの男
 aotk
+That Man
 フレデリック…。
 
 ソル
 sols
+Sol Badguy
 ソルだ。何度も言わせるな。
 
 ソル
 sols
+Sol Badguy
 お前もギアメーカーだ。本当の名前は何だったかな？
 
 あの男
 aotk
+That Man
 ……。
 
 ソル
 sols
+Sol Badguy
 さっきから聞いていれば、<cf>その<keyword>第一の男</keyword>って奴が人類を危機に<ruby>晒</ruby/>さら</ruby>したように言ってやがるが、テメェはどうなんだ。
 
 ソル
 sols
+Sol Badguy
 ギアを造り、<keyword>聖戦</keyword>を起こし、今も尚、何かを企んでいる。
 
 パラダイム
 prdm
+Dr. Paradigm
 しかし、この話を信じるならば、<cf>ギアメーカーは「慈悲なき啓示」からずっと我々を守ってきたことになる。
 
 ソル
 sols
+Sol Badguy
 あぁ、元老院もな。
 
 ソル
 sols
+Sol Badguy
 だが実際はどうだ？ 奴らは何をした？ 何故ラムレザルは死んだっ！？
 
 あの男
 aotk
+That Man
 僕は、自分が善人であるとは言わない。
 
 あの男
 aotk
+That Man
 だが、今の話に嘘は無いよ。
 
 ソル
 sols
+Sol Badguy
 なら、何故ギアを造った？
 
 あの男
 aotk
+That Man
 軍部の介入を阻止できなかった。
 
 ソル
 sols
+Sol Badguy
 プロジェクトから抜けることも出来たはずだ。なのにオマエは、ギアを造り続けた。
 
 あの男
 aotk
+That Man
 ギアを戦争の道具にしたくなかった。
 
 あの男
 aotk
+That Man
 僕が作った知識共有のシステムを使えば、兵器となった全てのギアに指令が出せる。<cf>戦争を止められる。
 
 あの男
 aotk
+That Man
 その為には、始めから開発に加わる必要があった。<cf>だから僕は<keyword>ジャスティス</keyword>を作ったんだ。
 
 ソル
 sols
+Sol Badguy
 …大層な理由だな。だが、肝心な説明が足りてねぇ。
 
 ソル
 sols
+Sol Badguy
 何故、俺を…。<keyword>アリア</keyword>をギアにする必要があった！！！
 
 あの男
 aotk
+That Man
 アリアのためだ。
 
 ソル
 sols
+Sol Badguy
 な…！？
 
 あの男
 aotk
+That Man
 君も知っている通り、アリアは死の病を患っていた。
 
 あの男
 aotk
+That Man
 そして僕も君と同じく、彼女に冷凍睡眠を提案した。<cf>その時治せない病だったとしても、未来にはいつか治療法が見つかる時が来る。<cf>いや、僕が必ず治してみせると思ったからだ。
 
 あの男
 aotk
+That Man
 しかし彼女は<ruby>治療</ruby/>それ</ruby>を拒んだ。
 
 あの男
 aotk
+That Man
 それはフレデリック、君と共に生きる時間を少しでも長く欲したからだ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 あの男
 aotk
+That Man
 アリアの意志は固く、説得は無駄に終わった。<cf>だが僕にはどうしても、その現実を受け入れることは出来なかった。
 
 あの男
 aotk
+That Man
 そして辿り着いた結論は一つ。アリアが治療を受け入れるたった一つの理由。
 
 あの男
 aotk
+That Man
 長い時を経たとしても、再び君に会えること。
 
 あの男
 aotk
+That Man
 その為には、君が不滅の存在となる必要があった。
 
 ソル
 sols
+Sol Badguy
 ふ、ふざけた言い逃れをするな！<cf>その結果がどんなザマか、見てから物を言え。
 
 ソル
 sols
+Sol Badguy
 人類は滅びかけ、俺は、俺が！ ジャスティスを……！！！
 
 ソル
 sols
+Sol Badguy
 …アリアを殺したんだぞ！！！！！！
 
 ジャック・オー
 jko
+Jack-O Valentine
 アリアは死んでいないわ。
 
 ソル
 sols
+Sol Badguy
 …なに？
 
 ジャック・オー
 jko
+Jack-O Valentine
 ジャスティスが初めて暴走した時、アリアの魂は救済できたの。<cf>半分だけだったけどね。
 
 ジャック・オー
 jko
+Jack-O Valentine
 それが私。アリアの半分。
 
 ジャック・オー
 jko
+Jack-O Valentine
 そして私が器に還れば、ジャスティスはギアではなく、<cf><ruby>正真正銘</ruby/>しようしんしようめい</ruby>の人間となって復活する。
 
 ジャック・オー
 jko
+Jack-O Valentine
 彼は、ずっとこの時の為だけに生き永らえてきたのよ…。
 
 ソル
 sols
+Sol Badguy
 そ……。
 
 カイ
 kyk
+Ky Kiske
 今の話、全てを信じることは難しい。
 
 カイ
 kyk
+Ky Kiske
 だが、疑っている暇もない。
 
 カイ
 kyk
+Ky Kiske
 皆さんは話を続けてください。
 
 ソル
 sols
+Sol Badguy
 ？
 
 カイ
 kyk
+Ky Kiske
 ソル、お前の長きに渡る因縁は決して他人が口を挟めるものではないだろう。<cf>お前がどんな結論を出したとしても、私達にそれを止められる力はない。
 
 カイ
 kyk
+Ky Kiske
 だが残された時間もない。我々にはギアメーカーの協力が必要だ。
 
 カイ
 kyk
+Ky Kiske
 だから今は、少しだけでいい。私とここにいよう。いいな。
 
 ソル
 sols
+Sol Badguy
 うおおおおおおぉぉぉ！
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5705,98 +7086,122 @@ November 22th , 2187
 
 カイ
 kyk
+Ky Kiske
 少しは頭を冷やしたか？
 
 レオ
 leo
+Leo Whitefang
 まぁな。やはり全てを鵜呑みにはできんが。
 
 レオ
 leo
+Leo Whitefang
 それよりお前は、なぜ冷静に聞いていられたんだ。
 
 カイ
 kyk
+Ky Kiske
 この事件は確かに人の心理をついている。
 
 カイ
 kyk
+Ky Kiske
 実はこのことにいち早く気づいていた人物がいたんだ。<cf>その時は、私も冷静さを欠いたよ。
 
 レオ
 leo
+Leo Whitefang
 では、お前は信じるのか。聖皇様が「慈悲なき啓示」だなんて話を。
 
 カイ
 kyk
+Ky Kiske
 確信は無い。だが…
 
 あの男
 aotk
+That Man
 <keyword>ジャスティス</keyword>とエルフェルトの居場所を知るチャンスが一度だけある。
 
 あの男
 aotk
+That Man
 祝勝会だ。
 
 レオ
 leo
+Leo Whitefang
 信仰心と人類の存亡。それを天秤にかけられるとは…。
 
 レオ
 leo
+Leo Whitefang
 また随分と溜め込んだな。
 
 カイ
 kyk
+Ky Kiske
 ん？ ああ、やってしまった。
 
 レオ
 leo
+Leo Whitefang
 まぁこんな時だ。俺も本国に帰ったとき、自分の机がどうなっているか…。
 
 カイ
 kyk
+Ky Kiske
 ははは、その時は手伝ってやるよ。
 
 カイ
 kyk
+Ky Kiske
 ？
 
 カイ
 kyk
+Ky Kiske
 これは…。
 
 レオ
 leo
+Leo Whitefang
 どうした？
 
 カイ
 kyk
+Ky Kiske
 先日の報告書だ。どういうことだ？<cf>被害者のリストにファランクスの遺体もあがっている。
 
 レオ
 leo
+Leo Whitefang
 ファランクス？
 
 カイ
 kyk
+Ky Kiske
 レオ、お前が召集したのか？
 
 レオ
 leo
+Leo Whitefang
 そんなわけ無いだろう。彼らは聖皇直轄の衛兵だぞ。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 覚悟を決めた方がよさそうだな。
 
 カイ
 kyk
+Ky Kiske
 ドクター、皆を集めてください。
 
 November 22th , 2187
@@ -5804,34 +7209,42 @@ November 22th , 2187
 
 シン
 sin
+Sin Kiske
 星、綺麗だな。
 
 ソル
 sols
+Sol Badguy
 そうか。
 
 シン
 sin
+Sin Kiske
 もう一度、一緒に見たかった。
 
 ソル
 sols
+Sol Badguy
 あぁ。ダブルバーガーもまだ食わせてなかったな。
 
 シン
 sin
+Sin Kiske
 ああ。
 
 ソル
 sols
+Sol Badguy
 まだ一人、腹を空かせてる奴がいる。
 
 シン
 sin
+Sin Kiske
 じゃ、いこうぜ。
 
 ソル
 sols
+Sol Badguy
 だな。
 
 November 23th , 2187
@@ -5839,290 +7252,362 @@ Backyard
 
 ベッドマン
 bed
+Bedman
 祝勝会…。彼女、ついに動くな。
 
 ベッドマン
 bed
+Bedman
 …はっ！
 
 ベッドマン
 bed
+Bedman
 誰だ、近づいてくる。まさか…。
 
 ベッドマン
 bed
+Bedman
 アクセル＝ロウ？！
 
 アクセル
 axl
+Axl Low
 あら、ばれちゃった？
 
 ベッドマン
 bed
+Bedman
 ……どうやってここに？
 
 アクセル
 axl
+Axl Low
 よく訊かれるけどね。正直なところ自分じゃ解らないのよ。
 
 アクセル
 axl
+Axl Low
 でもまぁ、アンタに会いに来たのは確かだ。
 
 ベッドマン
 bed
+Bedman
 ……。
 
 ベッドマン
 bed
+Bedman
 どうやら、厄介の種がつぼみに成長したらしいな。
 
 アクセル
 axl
+Axl Low
 そんなに構えないでよ。アンタの意見を訊きに来ただけなんだからさ。
 
 ベッドマン
 bed
+Bedman
 ならそれは、もっと親しい友人に訊くべきだった。
 
 ベッドマン
 bed
+Bedman
 <keyword><ruby>因果律干渉体</ruby/>いんがりつかんしようたい</ruby></keyword>。我々が最も危険視している存在。<cf>真っ先に排除すべき存在を、お話だけで帰すと思うのかい？
 
 アクセル
 axl
+Axl Low
 あぁ、やっぱりね。その反応、うん、わかってたよ。
 
 ベッドマン
 bed
+Bedman
 恐れていないな。僕を…。
 
 ベッドマン
 bed
+Bedman
 なるほど。大きな力を手にし、調子に乗ってヒーロー気取りってわけか。
 
 アクセル
 axl
+Axl Low
 だから、戦いに来たんじゃないって。
 
 ベッドマン
 bed
+Bedman
 ならなんだ？ 仲間に入れて欲しいようにも見えないが。
 
 アクセル
 axl
+Axl Low
 ……。
 
 アクセル
 axl
+Axl Low
 俺のこの力は大きすぎる。ただ邪魔なんだ。
 
 アクセル
 axl
+Axl Low
 でもそれを否定するってコトは、自分自身を否定するのと一緒らしい。
 
 アクセル
 axl
+Axl Low
 お宅らは俺の逆で、力を欲しがってる。
 
 アクセル
 axl
+Axl Low
 それならさ、アンタは自分の何を肯定したいんだ？
 
 ベッドマン
 bed
+Bedman
 解らないな。<cf>僕らの邪魔をする気がないなら、何故そんなことを訊く？
 
 ベッドマン
 bed
+Bedman
 僕を説得でもするつもりか？
 
 アクセル
 axl
+Axl Low
 はは、それはあわよくばってやつだ。
 
 アクセル
 axl
+Axl Low
 だけど俺の望みはもっとささやかなもんだ。
 
 アクセル
 axl
+Axl Low
 元の時代に…。いや…
 
 アクセル
 axl
+Axl Low
 もう一度だけでいい。めぐみに会いたいだけなんだ。
 
 ベッドマン
 bed
+Bedman
 …めぐみ？
 
 アクセル
 axl
+Axl Low
 置いてきぼりにしちまった、まぁ家族みたいなもんだ。
 
 アクセル
 axl
+Axl Low
 でももし、その望みが叶うのと引き換えに世界が崩壊するとしたら。
 
 アクセル
 axl
+Axl Low
 俺がもし、そんな狂気の答えを選んだとしたら…。
 
 アクセル
 axl
+Axl Low
 そう考えてたら、アンタの話が訊いてみたくなったんだ。
 
 ベッドマン
 bed
+Bedman
 ……。
 
 ベッドマン
 bed
+Bedman
 本気でそんなことを訊くためだけに…？
 
 アクセル
 axl
+Axl Low
 ああ。
 
 ベッドマン
 bed
+Bedman
 僕に殺されるかもしれないのに？
 
 アクセル
 axl
+Axl Low
 解ってる。
 
 ベッドマン
 bed
+Bedman
 ……。
 
 ベッドマン
 bed
+Bedman
 やれやれ、恐れ入ったよ。
 
 アクセル
 axl
+Axl Low
 …え？
 
 ベッドマン
 bed
+Bedman
 僕の素性も知らずにそんな話題を振るなんて、大した生存本能だって言ってるのさ。
 
 ベッドマン
 bed
+Bedman
 妹に会いたいんだ。僕もね。
 
 ベッドマン
 bed
+Bedman
 僕たち兄妹は…生まれつき思考能力が高すぎて、脳が耐えられなかった。
 
 ベッドマン
 bed
+Bedman
 だからこうして、夢の中に居場所を見つけたんだ。
 
 ベッドマン
 bed
+Bedman
 僕は「<keyword>慈悲なき啓示</keyword>」と出会い、現世に干渉する<ruby>術</ruby/>すべ</ruby>を得たが、<cf>妹のディライラは母親の顔すら知らず、未だに夢の世界を漂っている。
 
 ベッドマン
 bed
+Bedman
 人の温もりすら知らない。
 
 ベッドマン
 bed
+Bedman
 ならば誰が彼女を抱きしめてやれる。
 
 アクセル
 axl
+Axl Low
 ……。
 
 アクセル
 axl
+Axl Low
 ど……。
 
 アクセル
 axl
+Axl Low
 どういうことだよ？<cf>いま世界を騒がせてる事件は全部、その妹さんのためだってのか？
 
 ベッドマン
 bed
+Bedman
 僕にとってはね。無論、計画の<ruby>全貌</ruby/>ぜんぼう</ruby>はもっと大きな意義を持つものだが。
 
 ベッドマン
 bed
+Bedman
 その為に、<keyword>絶対確定世界</keyword>が必要なのさ。
 
 アクセル
 axl
+Axl Low
 …アンタはその為に、他の誰かを犠牲にすることも<ruby>厭</ruby/>いと</ruby>わないのか？
 
 ベッドマン
 bed
+Bedman
 僕を殺し屋かなにかと思うのはやめてもらいたいな。
 
 アクセル
 axl
+Axl Low
 そうじゃないってアピールは初めて聞いた。
 
 ベッドマン
 bed
+Bedman
 手段を選んでいないように見えるのは無理も無いが…。
 
 ベッドマン
 bed
+Bedman
 今の君なら、薄々理解できるんじゃないか？<cf>この<keyword>バックヤード</keyword>という空間は、人が寝ている時に見る夢と繋がっている。
 
 ベッドマン
 bed
+Bedman
 だから夢で起きる現象を想像してみれば<ruby>理解</ruby/>わか</ruby>りやすいだろう。
 
 ベッドマン
 bed
+Bedman
 そこが夢だと気づいていれば、人はある程度世界をコントロールできる。<cf>しかし取り留めもなく、脈絡もなく、結実しない。そんな経験はないかい？
 
 アクセル
 axl
+Axl Low
 <keyword><ruby>明晰夢</ruby/>めいせきむ</ruby></keyword>…。
 
 ベッドマン
 bed
+Bedman
 その通りだ。そんな専門用語を知っているとは驚きだけどね。
 
 ベッドマン
 bed
+Bedman
 僕は夢の中ならば、あらゆる事象を実現させられるが、生物の死以外は長く続かない。
 
 ベッドマン
 bed
+Bedman
 しかし絶対確定世界は夢と現実の境界が曖昧になる時だ。<cf>その時ならば、僕の行いを現世に定着させることが出来る。
 
 ベッドマン
 bed
+Bedman
 つまり、妹を……。<cf>そして、今まで殺してきた人間も全て元の生活に戻すことが出来るんだ。
 
 ベッドマン
 bed
+Bedman
 だから僕は、手にかける人物の素性は全て記憶してきた。町の人間も全てね。
 
 アクセル
 axl
+Axl Low
 アンタ…。
 
 ベッドマン
 bed
+Bedman
 最初の質問だが…。僕が肯定するのは妹がいる世界だけだ。
 
 ベッドマン
 bed
+Bedman
 君の境遇には同情するが、もしも妹との再会を阻むようなら……
 
 ベッドマン
 bed
+Bedman
 その時は、もう見逃すことは無いと思ってくれ。
 
 アクセル
 axl
+Axl Low
 ……。
 
 November 24th , 2187
@@ -6130,18 +7615,22 @@ November 24th , 2187
 
 ヘヒョン
 kum
+Kum Haehyun
 <ruby>神樹</ruby/>しんじゅ</ruby>の力が、体を巡っている…。
 
 ヘヒョン
 kum
+Kum Haehyun
 やらいでか。
 
 聖皇
 arls
+St. Maximus
 時は上々。
 
 聖皇
 arls
+St. Maximus
 宴を始めよう。
 
 November 25th , 2187
@@ -6149,106 +7638,132 @@ November 25th , 2187
 
 ヴェノム
 ven
+Venom
 みかん畑？
 
 ロボカイ
 rbky
+Robo-Ky
 5ヘクタールハ保証シロ。
 
 ヴェノム
 ven
+Venom
 何故そんなものを……
 
 ロボカイ
 rbky
+Robo-Ky
 オイ、笑ウナヨ？
 
 ロボカイ
 rbky
+Robo-Ky
 ミカン畑ハワシノ夢ダ。友達ト約束シタ。
 
 ロボカイ
 rbky
+Robo-Ky
 夢ハ抱ク者ノ未来ダ。未来トハ明日ダ。明日ハ日常的ニ訪レル。
 
 ロボカイ
 rbky
+Robo-Ky
 ツマリ夢ヲ笑ウトイウコトハ、ソイツ自身ヲ笑ウコトト同義ダカラナ。
 
 ヴェノム
 ven
+Venom
 そんなつもりは無かったのだが…。
 
 ロボカイ
 rbky
+Robo-Ky
 フン。
 
 ヴェノム
 ven
+Venom
 しかし良かった。君にも友人がいるのだな。
 
 ロボカイ
 rbky
+Robo-Ky
 「イタ」ダ。
 
 ヴェノム
 ven
+Venom
 ……。
 
 ヴェノム
 ven
+Venom
 自分の運命を、恨んでいるか？
 
 ロボカイ
 rbky
+Robo-Ky
 ン？ アー…ソウダナ。<cf>運命ジャナイガ、街ノ連中ハ全員ニ往復ミサイルかますクライ恨ンデル。
 
 ロボカイ
 rbky
+Robo-Ky
 子供ニマデ馬鹿ニサレテ、情ケ無イ。
 
 ヴェノム
 ven
+Venom
 すまない。
 
 ロボカイ
 rbky
+Robo-Ky
 ナニ？
 
 ヴェノム
 ven
+Venom
 我々の責任だ。君を暗闇の世界に生み落としてしまった。
 
 ロボカイ
 rbky
+Robo-Ky
 ソレハ違ウ。
 
 ロボカイ
 rbky
+Robo-Ky
 生マレテカラズット暗闇シカ知ラナイ奴ナラ、寂シイナドト思ウカ？
 
 ロボカイ
 rbky
+Robo-Ky
 イズレニシロ、貴様ガ気ニスルコトジャナイ。
 
 ヴェノム
 ven
+Venom
 ……。
 
 ロボカイ
 rbky
+Robo-Ky
 ソレヨリ、コノ作戦ノ方ガ心配ダ。
 
 ヴェノム
 ven
+Venom
 ？
 
 ロボカイ
 rbky
+Robo-Ky
 貴様ノ考エハ物騒スギル。勝チ目ガ見エタラ、ソレ以上無茶スルナヨ。
 
 ヴェノム
 ven
+Venom
 それは、敵の出方次第だな。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6260,150 +7775,187 @@ November 28th , 2187
 
 カイ
 kyk
+Ky Kiske
 間もなく祝勝会が催されます。この機を逃せば、もはや人類に未来はありません。
 
 カイ
 kyk
+Ky Kiske
 私は<keyword>ギアメーカー</keyword>の言葉を信じ、レオと共にこれに参加します。
 
 カイ
 kyk
+Ky Kiske
 だからソル、力を貸してくれ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 話を続けろ。
 
 パラダイム
 prdm
+Dr. Paradigm
 よし、では作戦を確認するぞ。
 
 パラダイム
 prdm
+Dr. Paradigm
 カイ殿とレオ殿は祝勝会に参加し、聖皇から直接<keyword>生体法紋</keyword>を入手。<cf>これは彼女の信号を追跡するために必要だ。
 
 パラダイム
 prdm
+Dr. Paradigm
 敵も動きを見せる時は、隠れ家に向かうだろう。<cf>その信号を辿れば、<keyword>ジャスティス</keyword>とエル殿の居場所も特定できる。
 
 ザッパ
 zppa
+Zappa
 でも、世界中が大変な時なのに、本当に祝勝会なんて開かれるんですか？
 
 カイ
 kyk
+Ky Kiske
 聖皇自ら高官たちに声をかけています。<cf>決起集会の名目で強行するつもりでしょう。<cf>つまり、そこでなにか動きを見せる可能性が高い。
 
 パラダイム
 prdm
+Dr. Paradigm
 我々の動きにも勘付いているかもしれん。くれぐれも気を抜くなよ。
 
 パラダイム
 prdm
+Dr. Paradigm
 フレデリックのチームは聖皇の信号を追い、現地でエル殿とジャック・オーを挿げ替える。
 
 ソル
 sols
+Sol Badguy
 そこまではいいが…。<cf>ジャック・オーとジャスティスを融合させるエネルギーはどうする？
 
 レオ
 leo
+Leo Whitefang
 まさか、<keyword>ジャパニーズ</keyword>を使うわけにはいかんしな。
 
 ソル
 sols
+Sol Badguy
 この<keyword>ジャンクヤード</keyword>が起動できればな……。
 
 あの男
 aotk
+That Man
 <keyword>アウトレイジ</keyword>を？ 強力すぎる。
 
 ソル
 sols
+Sol Badguy
 ならどうする？
 
 あの男
 aotk
+That Man
 <keyword>オラトリオ聖人</keyword>を使う。
 
 シン
 sin
+Sin Kiske
 オラ…、何だって？
 
 ソル
 sols
+Sol Badguy
 オラトリオ聖人。かつて俺が専門で研究していた上限の無いエネルギーだ。
 
 ソル
 sols
+Sol Badguy
 実用に耐え得るのか？
 
 あの男
 aotk
+That Man
 君の夢は、僕のせいで<ruby>頓挫</ruby/>とんざ</ruby>してしまったからね。
 
 あの男
 aotk
+That Man
 なんとか<keyword>バルムンク級</keyword>までは安定させた。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 <keyword>法力</keyword>にも速度表皮効果がある。<cf>弾体の伸縮領域を±0.28に設定すれば、もっと安定するはずだ。
 
 ソル
 sols
+Sol Badguy
 しかし、ということは…。
 
 あの男
 aotk
+That Man
 ああ、僕のラボだ。数世紀前の骨董品だが、ちゃんと手は入れてある。
 
 あの男
 aotk
+That Man
 僕とドクター、ザッパ君はここで準備を進める。
 
 カイ
 kyk
+Ky Kiske
 では、残る問題は足ですね。
 
 カイ
 kyk
+Ky Kiske
 ジャスティスの居場所が、<cf>現存の船で移動しても間に合わないほど遠かった場合はどうします？
 
 シン
 sin
+Sin Kiske
 みんながオヤジみたいにミサイルに乗るってわけには、いかないしな…。
 
 ソル
 sols
+Sol Badguy
 あの狐がいれば、移動は楽なんだがな。
 
 パラダイム
 prdm
+Dr. Paradigm
 <keyword>イズナ</keyword>は<keyword>バビロン</keyword>の事件以来連絡が取れない。<cf>恐らく聖皇が手を打っているのだろう。
 
 パラダイム
 prdm
+Dr. Paradigm
 だがそこも、抜かりは無い。
 
 パラダイム
 prdm
+Dr. Paradigm
 作戦は、完璧だ！
 
 パラダイム
 prdm
+Dr. Paradigm
 む、どうしたレオ殿？
 
 レオ
 leo
+Leo Whitefang
 いや、なんかその台詞には良い思い出が無い。
 
 November 24th , 2187
@@ -6411,70 +7963,87 @@ November 24th , 2187
 
 ジョニー
 jhn
+Johnny
 だからな、ミスター。俺は何も断ってるわけじゃないんだ。
 
 ジョニー
 jhn
+Johnny
 先日の件だって、渋ったりはしなかったろ？
 
 ジョニー
 jhn
+Johnny
 だがまぁ本来なら？<cf>ここに直接アンタが来たことで、俺たちは尻尾を巻いて退くってのが筋ってモンだ。
 
 ジョニー
 jhn
+Johnny
 それがどうだ、こうして…。
 
 ヴァーノン
 vrnn
+Vernon
 自慢のガレージに迎えてくれているというわけだ。<cf>回りくどい言い方はいい。免責が欲しいんだろ？
 
 ジョニー
 jhn
+Johnny
 イグザクトリー！<cf>特にこれから見せるモンは、そいつが欠かせない。<cf>だから、条件は一つって訳にもいかない。
 
 ヴァーノン
 vrnn
+Vernon
 いや、一つで良い。こいつを見ろ。
 
 ヴァーノン
 vrnn
+Vernon
 このデータをやる。
 
 ジョニー
 jhn
+Johnny
 ……。
 
 ジョニー
 jhn
+Johnny
 時間が無いのか……。
 
 ヴァーノン
 vrnn
+Vernon
 その時間を買うために、ここに来た。
 
 ジョニー
 jhn
+Johnny
 わかった。だがコイツの効力はアンタの在任期間中までだ。<cf>悪いが後で書面でくれ。
 
 ヴァーノン
 vrnn
+Vernon
 ふふ、抜け目が無いな。
 
 ジョニー
 jhn
+Johnny
 これでも一家の長だからな。ところで俺の自慢は、ガレージだけじゃない。
 
 ジョニー
 jhn
+Johnny
 グリンカムビ・ダーク号だ。
 
 ヴァーノン
 vrnn
+Vernon
 コレは……！ 法定規格内なんだろうな……？
 
 ジョニー
 jhn
+Johnny
 その法定規格を捻じ曲げるってのが最初の条件だ。
 
 November 26th , 2187
@@ -6482,126 +8051,157 @@ November 26th , 2187
 
 ガブリエル
 gbrl
+Gabriel
 私は貴殿の国が未認可の小国であることを笑うつもりは毛頭無い。
 
 ガブリエル
 gbrl
+Gabriel
 しかし、仮にも国家元首を名乗るならば、言葉は慎重に選ぶべきだ。
 
 ガブリエル
 gbrl
+Gabriel
 今の話は全て憶測に過ぎず、証拠も無い。内容に関してはむしろ笑えん話だ。
 
 ガブリエル
 gbrl
+Gabriel
 貴殿が入国審査も受けずにこの部屋に入った二人目の男だということもな。
 
 チップ
 chp
+Chipp Zanuff
 細けぇことは気にすんな。
 
 チップ
 chp
+Chipp Zanuff
 どうすれば協力してもらえる？
 
 ガブリエル
 gbrl
+Gabriel
 ものには順序というものがある。
 
 ガブリエル
 gbrl
+Gabriel
 まずは当事者に連絡を取るべきではないか？
 
 チップ
 chp
+Chipp Zanuff
 草の者がいるに決まってんだろ。泳がされて叩かれんのがオチだ。
 
 チップ
 chp
+Chipp Zanuff
 多分、ここのホットラインも監視されてるんじゃねぇのか？
 
 ガブリエル
 gbrl
+Gabriel
 「多分」……？ <cf>解っているのか、貴殿はそんな裏も取っていない話で、<cf>この<keyword>ツェップ</keyword>に他国の領空を侵せと言っているのだぞ？
 
 チップ
 chp
+Chipp Zanuff
 いや、アンタだって何かを疑ってたはずだ。<cf>そうじゃなければ、<keyword>元老院</keyword>のアジトに<ruby>諜報</ruby/>ちようほう</ruby>員を向かわせたりはしない。
 
 ガブリエル
 gbrl
+Gabriel
 違う、状況を正しく把握するためだ。
 
 チップ
 chp
+Chipp Zanuff
 目的は国交の正常化だけか？<cf>後押しの政策にしちゃ随分地味だな。
 
 チップ
 chp
+Chipp Zanuff
 それに<keyword>G4</keyword>の開催時期だってのに、他国を出し抜いて非公式の内政干渉。<cf><keyword>国連</keyword>加入を控えたツェップにとって、これほどのリスクはないってのに。<cf>それをただの状況把握だっていうのか？
 
 ガブリエル
 gbrl
+Gabriel
 言葉は慎重に選べと言ったはずだ。<cf>内政干渉などと人聞きが悪いにもほどがある。
 
 チップ
 chp
+Chipp Zanuff
 あぁ、もう、のらりくらりと埒が明かねぇな。<cf>じゃあ今までの話、もし嘘だったら俺の国をくれてやるよ。
 
 ガブリエル
 gbrl
+Gabriel
 なんだと……？
 
 ガブリエル
 gbrl
+Gabriel
 貴様、軽々しく賭けていいものの区別もつかんのかっ！！！！
 
 チップ
 chp
+Chipp Zanuff
 俺の目を見ろ。
 
 ガブリエル
 gbrl
+Gabriel
 なっ、この技は…。
 
 チップ
 chp
+Chipp Zanuff
 軽口に聞こえたなら謝る。
 
 チップ
 chp
+Chipp Zanuff
 だが、どっちだ？ アンタと俺、適当を言ってるのはどっちだ？
 
 チップ
 chp
+Chipp Zanuff
 確かに俺はちゃんとした言葉が出てこねぇ。<cf>だからこの目を見て判断してくれ。拳を振りぬくのは、その後でも出来るだろ？
 
 ガブリエル
 gbrl
+Gabriel
 ……。
 
 ガブリエル
 gbrl
+Gabriel
 ふふ、まったく。何年も経つのに未だに<ruby>為政者</ruby/>いせいしや</ruby>としての言動が身につかんのか。
 
 チップ
 chp
+Chipp Zanuff
 そうか？ 自分では色々成長したつもりなんだけどな。
 
 ガブリエル
 gbrl
+Gabriel
 いや、変わっていない。<cf>その眼差しがあの時から少しでも曇っていれば、<ruby>躊躇</ruby/>ちゆうちよ</ruby>なくその<ruby>顎</ruby/>あご</ruby>を砕いていた。
 
 チップ
 chp
+Chipp Zanuff
 へへ。
 
 ガブリエル
 gbrl
+Gabriel
 しかし、どうするつもりだ？<cf><ruby>「麻薬撲滅法案」</ruby/>あの</ruby>時とは事情が違いすぎる。下手を打てば砲撃の的になるぞ。
 
 チップ
 chp
+Chipp Zanuff
 だから連絡しない方がいいんだよ。<cf>俺の勘が正しければ、恐らくそれどころじゃないはずだ。
 
 November 29th , 2187
@@ -6612,402 +8212,502 @@ November 29th , 2187
 
 聖皇
 arls
+St. Maximus
 皆様、本日はお集まり頂き、感謝いたします。
 
 聖皇
 arls
+St. Maximus
 私の<ruby>出</ruby/>い</ruby>で立ちに戸惑われることかと思いますが、これは決意の表れです。
 
 聖皇
 arls
+St. Maximus
 人類史上、最も大きな階段をのぼる、本日はその一歩を踏み出す日となるからです。
 
 聖皇
 arls
+St. Maximus
 そう、昨日までのこの日は、人類が生きる権利を勝ち取った日でした。
 
 聖皇
 arls
+St. Maximus
 しかし、今日をもってこの日はさらに深い意味を持つことになります。
 
 聖皇
 arls
+St. Maximus
 示すのです。確固たる決意を。
 
 聖皇
 arls
+St. Maximus
 人類とは、ただ連帯し、外敵に対し存在を左右されるだけの物体ではないということを。
 
 聖皇
 arls
+St. Maximus
 歴史の価値を、心の価値を、
 
 聖皇
 arls
+St. Maximus
 人類がこの世界で唯一、自らの意思をもって不変の価値を示す存在であることを！
 
 聖皇
 arls
+St. Maximus
 ようこそ。
 
 聖皇
 arls
+St. Maximus
 ちゃんと来てくれましたね。よかった。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 レオ
 leo
+Leo Whitefang
 貴様、一体何を企んでいる？
 
 聖皇
 arls
+St. Maximus
 敬語を忘れていますよ、<keyword>第二連王</keyword>。これでも私は現職の聖皇です。
 
 レオ
 leo
+Leo Whitefang
 よくもぬけぬけと。さっさと正体を晒したらどうだ？
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 あ、そう。OK。じゃあ、堅苦しいのやめんね。
 
 聖皇
 arls
+St. Maximus
 ところでさ、今のホント、良いよ。今まで提案された中で一番イイ。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 レオ
 leo
+Leo Whitefang
 聞きたいことは山ほどあるが、一つだけ<ruby>腑</ruby/>ふ</ruby>に落ちないことがある。
 
 レオ
 leo
+Leo Whitefang
 貴様の目的は、新人類の創生と聞いた。何故人間をここまで追い詰める？
 
 聖皇
 arls
+St. Maximus
 あっ、あー。
 
 聖皇
 arls
+St. Maximus
 人間じゃない、人形。もう！ 今の私の前でその言葉は禁句だゾ。
 
 聖皇
 arls
+St. Maximus
 で、なんだっけ。<cf>あーそう、そうそうそう。私がどうして人形を<ruby>苛</ruby/>いじ</ruby>めるのかって話だったよね。
 
 聖皇
 arls
+St. Maximus
 簡単。大っ嫌い大っ嫌い大っ嫌い！ そう設定したの、自分をね。
 
 カイ
 kyk
+Ky Kiske
 設定した？
 
 聖皇
 arls
+St. Maximus
 そう。私ね、アンタらと同じ価値観ってのを学ぶ必要があったの。<cf>まぁそうだから、わかんでしょ？ 同じ目線ってやつ、持つことにしたの。
 
 聖皇
 arls
+St. Maximus
 でも、人形ってさ、気まぐれだよね。<cf>感情は、ちょっとしたことで、大きく傾いたりするの。
 
 聖皇
 arls
+St. Maximus
 だから、誰かに優しくされて、オマエたちが「かわいそう」<cf>「ヤダ、かわいそう！」とか思っちゃったらどうする？ 台無しじゃん計画したこと！ ね？
 
 聖皇
 arls
+St. Maximus
 だから、これ以上無いってくらいに、<cf>徹底的に……大っ嫌い大っ嫌い大っ嫌いって……憎むことにしたの！
 
 聖皇
 arls
+St. Maximus
 皆殺しに出来ちゃったら「あぁ！ スッキリしたぁ！！」って思える程にね。
 
 聖皇
 arls
+St. Maximus
 あぁあ、ううん、でもねでもね！ そんなに欲張ったわけじゃないの！<cf>子供がさ、お母さんの買い物カゴにさ、チョットこっそりお菓子入れる時あるじゃん。<cf>……そういう感じ！
 
 レオ
 leo
+Leo Whitefang
 理由も無く憎むことは出来ないだろう。
 
 聖皇
 arls
+St. Maximus
 え？ 理由はあるよ！ そいつはこうなる前からしっかりとね。
 
 聖皇
 arls
+St. Maximus
 あ、そうそう！ アンタらさ。人形の主食ってのが、何か知ってる？
 
 レオ
 leo
+Leo Whitefang
 主食？ 何の話だ。
 
 聖皇
 arls
+St. Maximus
 なんかね……パンじゃないよ！ パンじゃないの！ 肉や野菜じゃないの！
 
 聖皇
 arls
+St. Maximus
 「余地」！ 「余地」！ 「余地」！！
 
 聖皇
 arls
+St. Maximus
 何より「余地」ってのが大好きみたい。<cf>余地を探して、見つけて、歓喜して……それをバクバクバク……食い尽くす！
 
 聖皇
 arls
+St. Maximus
 でもね、そういうのに直ぐに飽きちゃうの。直ぐ飽きちゃうの！<cf>さっきまで喜んで「ハハハハハ！」って貪ってたのに。直ぐ飽きちゃうの！<cf>そしてまた、新たな余地を探し始める。探し求める。
 
 聖皇
 arls
+St. Maximus
 餌がある限り、自らの許容を超えても食べ続けちゃう。まるでブタ！！
 
 レオ
 leo
+Leo Whitefang
 何だと？ 貴様、人間を……
 
 聖皇
 arls
+St. Maximus
 人形だっっ！！！！！
 
 聖皇
 arls
+St. Maximus
 あぁ、すまない。あぁ、なんでもない…なんでもないの。<cf>さぁ！ 楽しいパーティを続けちゃって。
 
 聖皇
 arls
+St. Maximus
 脱線しちゃった。もうヤダ！ でもまぁ、それが理由。
 
 聖皇
 arls
+St. Maximus
 だからね。さっきのスピーチ…悪くなかったの！
 
 聖皇
 arls
+St. Maximus
 本心だったから！！
 
 聖皇
 arls
+St. Maximus
 タラー。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 カイ
 kyk
+Ky Kiske
 何を始める気だ？
 
 聖皇
 arls
+St. Maximus
 余興だよ。パーティには付き物だろう？
 
 カイ
 kyk
+Ky Kiske
 く、なにを！
 
 カイ
 kyk
+Ky Kiske
 レオ、どうして？
 
 聖皇
 arls
+St. Maximus
 落ち着け、カイ＝キスク。お前は落ち着けるはずだ。
 
 聖皇
 arls
+St. Maximus
 余興の主役なんだから、らしく振る舞ってくれよ。
 
 カイ
 kyk
+Ky Kiske
 これが落ち着いていられると思うか！
 
 聖皇
 arls
+St. Maximus
 ああ、落ち着ける。
 
 カイ
 kyk
+Ky Kiske
 ……！
 
 聖皇
 arls
+St. Maximus
 ほらね。
 
 聖皇
 arls
+St. Maximus
 で、話の続きね。
 
 聖皇
 arls
+St. Maximus
 ってわけで、私、人形が……大っ嫌い！<cf>だから、そんな奴らの大好きなものを根こそぎ奪ってやりたいの！<cf>つまり「余地」……「余地」を！！
 
 聖皇
 arls
+St. Maximus
 でも…どうよ。「余地」って一言で言ったって、漠然としてんじゃん？
 
 聖皇
 arls
+St. Maximus
 だからさ、私は必死に……ホント必死に考えたの。<cf>「サンタはいない」って言われても、何処かでその可能性を探る小さな子供みたいにね。
 
 聖皇
 arls
+St. Maximus
 そんで、ある時ね、<ruby>閃</ruby/>ひらめ</ruby>いたの。
 
 聖皇
 arls
+St. Maximus
 「希望」！
 
 ベッドマン
 bed
+Bedman
 いよいよだね。
 
 レオ
 leo
+Leo Whitefang
 やめろ……。
 
 聖皇
 arls
+St. Maximus
 オメエら人形から全てを奪うには「希望」を刈り取ればいい！！！
 
 カイ
 kyk
+Ky Kiske
 く！
 
 レオ
 leo
+Leo Whitefang
 ちぃ！
 
 聖皇
 arls
+St. Maximus
 ひゃひゃひゃ！！
 
 聖皇
 arls
+St. Maximus
 はぁ～。
 
 レオ
 leo
+Leo Whitefang
 やめろ……。
 
 聖皇
 arls
+St. Maximus
 やぁ、皆さん。ご機嫌よう。
 
 聖皇
 arls
+St. Maximus
 私はご存知アリエルス。皆が大好き聖皇様だ。
 
 聖皇
 arls
+St. Maximus
 しかし同時に……くくく、今まで隠してゴメンね。
 
 聖皇
 arls
+St. Maximus
 「<keyword>慈悲なき啓示</keyword>」なの！ ……ぷふっ！
 
 聖皇
 arls
+St. Maximus
 あぁ、うん。えー、ちなみにこれは冗談なんかじゃありません。<cf>嘘だと思うなら、３課に連絡してみてください。<cf>今は営業時間内……でもね、きっと誰も出ないから！
 
 聖皇
 arls
+St. Maximus
 そんで……えぇ、これから私は世界を制圧します！<cf>で、こういうのって、ビシっとこうキメ台詞みたいのがあるよね？
 
 聖皇
 arls
+St. Maximus
 その方が皆に<ruby>理解</ruby/>わか</ruby>りやすい。だからやるね！
 
 レオ
 leo
+Leo Whitefang
 やめろぉ……貴様は！
 
 レオ
 leo
+Leo Whitefang
 貴様は、信仰まで奪う気か！！！
 
 聖皇
 arls
+St. Maximus
 未来を、悲観しろっ！！！！！！！！！！
 
 聖皇
 arls
+St. Maximus
 ひひひひひひひひひひっ！！！！
 
 聖皇
 arls
+St. Maximus
 …ん？
 
 聖皇
 arls
+St. Maximus
 ！！
 
 チップ
 chp
+Chipp Zanuff
 ってぇ、ギリギリだったな。
 
 聖皇
 arls
+St. Maximus
 ひゃは！
 
 聖皇
 arls
+St. Maximus
 勘？ 鋭いな。でも一人で来たのってまずく無い？
 
 チップ
 chp
+Chipp Zanuff
 一人？ そいつはどうかな。
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 OK。じゃあ退散！
 
 聖皇
 arls
+St. Maximus
 余興の本番はこれからだしね…
 
 聖皇
 arls
+St. Maximus
 Don't miss it…！
 
 カイ
 kyk
+Ky Kiske
 …。
 
 チップ
 chp
+Chipp Zanuff
 立てるか？
 
 カイ
 kyk
+Ky Kiske
 貴方は…。
 
 チップ
 chp
+Chipp Zanuff
 聖皇には逃げられちまったが。これからどうする？
 
 チップ
 chp
+Chipp Zanuff
 もう、打つ手は無しか？
 
 カイ
 kyk
+Ky Kiske
 そうでもありません。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -7019,126 +8719,157 @@ November 29th , 2187
 
 アレクシス
 tsf2
+Alexis
 巨大<keyword>ギア</keyword>、区画サウスウイングで３体出現。直ちに急行し、鎮圧してください。
 
 ソードマン
 swmn
+Swordsman
 鎮圧といったって、アレはいつ爆発するとも知れないんだぞ？
 
 トレイ
 opr2
+Trey
 いいからとにかく住民の避難を優先しろ！
 
 ソードマン
 swmn
+Swordsman
 指揮権はどこにあるんだ！！
 
 アレクシス
 tsf2
+Alexis
 みんな黙って！
 
 アレクシス
 tsf2
+Alexis
 隔離閉鎖を優先させます。兵士は非常口へ市民を誘導してください。
 
 ソードマン
 swmn
+Swordsman
 何をする気だ？
 
 ファウスト
 fau
+Faust
 数は少ないですが、何本か間に合いました。
 
 ファウスト
 fau
+Faust
 住民が避難できる時間を稼ぎます。
 
 ファウスト
 fau
+Faust
 何とかアレに、注射をすることができれば。
 
 ファウスト
 fau
+Faust
 あ、危ない！
 
 ファウスト
 fau
+Faust
 貴方は！
 
 ポチョムキン
 pot
+Potemkin
 今だ、早くやれ！
 
 ポチョムキン
 pot
+Potemkin
 ぬうん！
 
 ファウスト
 fau
+Faust
 や、やりましたよ！
 
 ファウスト
 fau
+Faust
 これでしばらく爆発しない……は！
 
 チップ
 chp
+Chipp Zanuff
 気ィ抜くな。
 
 チップ
 chp
+Chipp Zanuff
 手間がかかりそうだな。
 
 チップ
 chp
+Chipp Zanuff
 ココはいい。オマエは次に向かえ！
 
 ファウスト
 fau
+Faust
 く！
 
 ザトー
 zat
+Zato-ONE
 聖皇直轄か。さすがに手練れだな。イリュリアにもまだこれほどの兵士がいたとは。
 
 ミリア
 mll
+Millia Rage
 感心してないで、さっさと片付けるわよ。ここで働きを見せなければ……。
 
 ミリア
 mll
+Millia Rage
 ヴェノムの覚悟に報いることが出来ない。
 
 ザトー
 zat
+Zato-ONE
 そうだな…では。
 
 ザトー
 zat
+Zato-ONE
 死より深い闇を。
 
 ミリア
 mll
+Millia Rage
 あの<keyword>医者</keyword>の道を開け！
 
 ファウスト
 fau
+Faust
 やった！
 
 ファウスト
 fau
+Faust
 次は…。
 
 ファウスト
 fau
+Faust
 駄目だ、アレは間に合わない！
 
 ガブリエル
 gbrl
+Gabriel
 弱くなったか？
 
 スレイヤー
 sly
+Slayer
 お前もな。
 
 スレイヤー・ガブリエル
@@ -7147,6 +8878,7 @@ sly
 
 ガブリエル
 gbrl
+Gabriel
 若造が。
 
 November 29th , 2187
@@ -7154,26 +8886,32 @@ November 29th , 2187
 
 ヘヒョン
 kum
+Kum Haehyun
 さて……。
 
 ヘヒョン
 kum
+Kum Haehyun
 行くぞ、世界！！！
 
 ヘヒョン
 kum
+Kum Haehyun
 ぬぁあああああああ！！！！！！！！！！！！！！！！！！！！！！！！！
 
 メイ
 may
+May
 大丈夫、ヘヒョン？
 
 ヘヒョン
 kum
+Kum Haehyun
 余計な心配は……某が息絶えるまで無用！
 
 梅喧
 bikn
+Baiken
 まぁ…ここだけ何も無いってことは無いわな。
 
 November 29th , 2187
@@ -7181,42 +8919,52 @@ November 29th , 2187
 
 レオ
 leo
+Leo Whitefang
 ぬぅ…。
 
 カイ
 kyk
+Ky Kiske
 気付いたか、レオ。
 
 レオ
 leo
+Leo Whitefang
 聖皇は…？
 
 カイ
 kyk
+Ky Kiske
 姿を消した。
 
 カイ
 kyk
+Ky Kiske
 だが多くの援軍が駆けつけてくれた。
 
 カイ
 kyk
+Ky Kiske
 ここは彼らに任せ、我々は次の準備に取り掛かろう。
 
 レオ
 leo
+Leo Whitefang
 収穫はあったのか？
 
 カイ
 kyk
+Ky Kiske
 いま、ドクターに調べてもらっている。
 
 レオ
 leo
+Leo Whitefang
 解った。ここの指揮は任せろ。お前も早く行け。
 
 カイ
 kyk
+Ky Kiske
 ああ。
 
 November 29th , 2187
@@ -7224,82 +8972,102 @@ November 29th , 2187
 
 シン
 sin
+Sin Kiske
 大丈夫かよ、これ。オレたちも行ったほうがいいんじゃねぇのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 いや駄目だ。どのみち<keyword>ジャスティス</keyword>の復活を止めるほか無い。<cf>心苦しいのは解るが、ここは我慢だ。
 
 ソル
 sols
+Sol Badguy
 信号は掴めているか？
 
 パラダイム
 prdm
+Dr. Paradigm
 ああ、だがまだ市内だ。
 
 ソル
 sols
+Sol Badguy
 ち、早く動きやがれ…。
 
 パラダイム
 prdm
+Dr. Paradigm
 …ん？
 
 パラダイム
 prdm
+Dr. Paradigm
 まて…まて、待て待て！
 
 パラダイム
 prdm
+Dr. Paradigm
 最悪の予想が当たってしまった！
 
 シン
 sin
+Sin Kiske
 どうしたんだよ！？
 
 あの男
 aotk
+That Man
 聖皇の信号が…消えた…。
 
 パラダイム
 prdm
+Dr. Paradigm
 くそ！ やはり聖皇は信号を消す術を持っていたんだ！！！
 
 ソル
 sols
+Sol Badguy
 他の方法はないのか？
 
 パラダイム
 prdm
+Dr. Paradigm
 あればエル殿を見つけている！
 
 あの男
 aotk
+That Man
 マズいな。ここまで完璧に信号を消せるとは。
 
 ザッパ
 zppa
+Zappa
 ……。
 
 ザッパ
 zppa
+Zappa
 あの、それ、本当に完璧に消えてます？
 
 あの男
 aotk
+That Man
 どういう意味だい？
 
 ザッパ
 zppa
+Zappa
 えっと、迷ってる時間はありません。とにかくソルさん達は計画通りに動いてください！
 
 ザッパ
 zppa
+Zappa
 ランディか？
 
 ザッパ
 zppa
+Zappa
 ヒーローにならないか？
 
 November 29th , 2187
@@ -7307,18 +9075,22 @@ November 29th , 2187
 
 梅喧
 bikn
+Baiken
 ちっ、くそ。こいつら一体何モンだ？
 
 梅喧
 bikn
+Baiken
 ？
 
 アンサー
 answ
+Answer
 こちらもビンゴか。あいつはホントに勘だけだが…。
 
 アンサー
 answ
+Answer
 実際、頼りになりますよ。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -7330,26 +9102,32 @@ November 29th , 2187
 
 ベッドマン
 bed
+Bedman
 聖皇は何をしているんだ？ 何故動かない？<cf>何故コンタクトが取れなくなったんだ？
 
 ベッドマン
 bed
+Bedman
 まさか、想定外の妨害にあっているとは思えないが…。
 
 ベッドマン
 bed
+Bedman
 仕方ない。僕が全部終わらせるか。
 
 ベッドマン
 bed
+Bedman
 ん？
 
 イアン
 bully
+Ian
 こっちだ。
 
 ネオ
 chdm
+Neo
 う、うん。
 
 November 29th , 2187
@@ -7357,42 +9135,52 @@ November 29th , 2187
 
 ベッドマン
 bed
+Bedman
 ヴェノム…。何故ここがわかったんだ？
 
 ベッドマン
 bed
+Bedman
 しかし<ruby>敢</ruby/>あ</ruby>えて言おう。「誰かと思えば」と。
 
 ベッドマン
 bed
+Bedman
 今更君なんかが来たところで何が出来る？
 
 ロボカイ
 rbky
+Robo-Ky
 ドウカナ。
 
 ベッドマン
 bed
+Bedman
 ？！ 誰だ！？ どうして僕の声が聞こえる？
 
 ロボカイ
 rbky
+Robo-Ky
 知ルカ。貴様ガ勝手にワシの頭ン中デ喋ッテルンダ。マァ、周波数ガ合ウッテやつダ。
 
 ベッドマン
 bed
+Bedman
 どうなっている！？ 僕が気配に気付かないなんて。
 
 ベッドマン
 bed
+Bedman
 ！
 
 ベッドマン
 bed
+Bedman
 なるほどね。
 
 ヴェノム
 ven
+Venom
 ブレイクだ。
 
 November 29th , 2187
@@ -7400,102 +9188,127 @@ November 29th , 2187
 
 ポチョムキン
 pot
+Potemkin
 うおおおお！
 
 ポチョムキン
 pot
+Potemkin
 爆発の心配はなくなったが、このギアは単体でも十分脅威だ。<cf>ファランクスを相手にしながらでは手に余る。
 
 ポチョムキン
 pot
+Potemkin
 ？
 
 ミリア
 mll
+Millia Rage
 前言撤回。さすがの聖皇<ruby>直轄</ruby/>ちよつかつ</ruby>ね。
 
 スレイヤー
 sly
+Slayer
 だがここで退くわけにはいかん。
 
 ミリア
 mll
+Millia Rage
 ちょっと、まさかこんな時に手を抜いてないでしょうね？
 
 スレイヤー
 sly
+Slayer
 これは君たちが勝ち取るべきなんだよ。
 
 ザトー
 zat
+Zato-ONE
 ……。
 
 ザトー
 zat
+Zato-ONE
 スレイヤー卿、貴方は何故、私などに光を見たのですか？
 
 ミリア
 mll
+Millia Rage
 それ、今する話？
 
 ザトー
 zat
+Zato-ONE
 貴方もまた、私と同じく全てを得た故に、全てを失った者だ。<cf>だが、私と違うのは全てを諦めていないこと…。
 
 スレイヤー
 sly
+Slayer
 <keyword>モンテローザ</keyword>の作戦を覚えているかね？
 
 スレイヤー
 sly
+Slayer
 山頂を目指して進む我々は、中腹でひとりの老人と出会った。
 
 スレイヤー
 sly
+Slayer
 一般の登山客を装うため、ミリア君が会話を切り出したんだ。<cf>「晴天に恵まれましたね、頂上が楽しみです」と。すると老人はこう言った。
 
 ミリア
 mll
+Millia Rage
 「自分はここで良い」
 
 ザトー
 zat
+Zato-ONE
 旅行く者は、未開の地に胸<ruby>躍</ruby/>おど</ruby>らせ、<ruby>掻</ruby/>か</ruby>いた汗に充足を覚える。<cf>しかし立ち止まって眺める景色が、その感動に劣るとは思わない。
 
 スレイヤー
 sly
+Slayer
 あぁ、実に<ruby>含蓄</ruby/>がんちく</ruby>のある言葉だった。
 
 スレイヤー
 sly
+Slayer
 しかし私は、今になってその先に添えられた言葉の方が思い出されるのだ。
 
 スレイヤー
 sly
+Slayer
 「地元の者なら、山頂の景色は見慣れている。<cf>まして道中ならば、その倍は見ているはずなのに……
 
 スレイヤー
 sly
+Slayer
 今まで何を見ていたのだろうか」
 
 ミリア
 mll
+Millia Rage
 ……。
 
 ザトー
 zat
+Zato-ONE
 私は見落としてきたものを、勝手に見飽きていたのかもしれないな。
 
 ミリア
 mll
+Millia Rage
 一歩も退くな！ 死線の先に明日があると思え！
 
 ミリア
 mll
+Millia Rage
 生き抜け！ 我々の知る明日という言葉は、今日を境に意味を変える！
 
 ザトー
 zat
+Zato-ONE
 過ぎ去ったものは、失ったわけではない！！
 
 November 29th , 2187
@@ -7503,390 +9316,487 @@ November 29th , 2187
 
 ベッドマン
 bed
+Bedman
 ……。
 
 ベッドマン
 bed
+Bedman
 考えたね。まさか、こんなオモチャまで持って来るとは。
 
 ベッドマン
 bed
+Bedman
 確かに、これならば僕の思考を読む力は半分しか機能しない。<cf>だけどね、作戦が浅すぎないか？
 
 ベッドマン
 bed
+Bedman
 僕としてはその機械人形さえ先に壊してしまえばいい話だ。<cf>これではまるで、ただ死にに来たようなものだね。
 
 ロボカイ
 rbky
+Robo-Ky
 コイツ、ワシらガ死ニニ来タト言ッテルゾ。
 
 ヴェノム
 ven
+Venom
 君がいなければそうなっていただろう。我々のチャンスは一度しかなかった。
 
 ヴェノム
 ven
+Venom
 だが、勝った。君の負けだ、ベッドマン。
 
 ベッドマン
 bed
+Bedman
 何？
 
 ベッドマン
 bed
+Bedman
 これは…。
 
 ヴェノム
 ven
+Venom
 その球体には何の威力も拘束力もない。だから君は危機と判断しなかった。
 
 ヴェノム
 ven
+Venom
 しかし、決して逃れることはできない。
 
 ベッドマン
 bed
+Bedman
 ……。
 
 ヴェノム
 ven
+Venom
 そして…。
 
 ヴェノム
 ven
+Venom
 同様に、ボール達はその球体と一定の距離を保ち続ける。
 
 ベッドマン
 bed
+Bedman
 なるほどね、この球体は<ruby>謂</ruby/>い</ruby>わば僕にロックオンしている照準というわけか。
 
 ヴェノム
 ven
+Venom
 「こんな攻撃で倒せると思っているのか」……そう考えているな？
 
 ベッドマン
 bed
+Bedman
 な。
 
 ヴェノム
 ven
+Venom
 先程君は「死にに来たのか？」と言ったらしいが、私は……
 
 ヴェノム
 ven
+Venom
 死にに来たのだ。何ら問題はない。
 
 ヴェノム
 ven
+Venom
 <keyword>アサシン</keyword>は生まれ変わる。
 
 ヴェノム
 ven
+Venom
 これからは陽の当たる世界で罪を背負う。
 
 ヴェノム
 ven
+Venom
 過ちを<ruby>糺</ruby/>ただ</ruby>す機会を得たのだ。君たちの起こした戦争でな。
 
 ヴェノム
 ven
+Venom
 しかし、それだけでは世界が納得しまい。誰かが責任を取らなければ。
 
 ヴェノム
 ven
+Venom
 君と私の首には、その価値がある。
 
 ベッドマン
 bed
+Bedman
 そういうことか。くく…
 
 ベッドマン
 bed
+Bedman
 ははは、くだらない。
 
 ベッドマン
 bed
+Bedman
 そんなに社会に認められたければ、ただ黙っていればよかった。<cf>関心を寄せなければよかった。発言権を放棄すれば、立派な多数派になれる。
 
 ベッドマン
 bed
+Bedman
 今からでも実践したらどうだ？
 
 ベッドマン
 bed
+Bedman
 中途半端に環境を妬んで拗ねて見せた挙句に、<cf>人の尻馬に乗っかって人生をやり直そうなんて、厚かましいにも程がある。
 
 ベッドマン
 bed
+Bedman
 あまり安い夢物語のために僕たちの計画を…
 
 ベッドマン
 bed
+Bedman
 こ、この数は…。
 
 ベッドマン
 bed
+Bedman
 馬鹿な！ 本当に死ぬ気か！？
 
 ヴェノム
 ven
+Venom
 今まで私の命は、新たなる不幸の糧でしかなかった。
 
 ヴェノム
 ven
+Venom
 しかしもし、闇を<ruby>遮</ruby/>さえぎ</ruby>る壁に生まれ変われるとしたら、例え我が身が塵と化そうとも……
 
 ヴェノム
 ven
+Venom
 このヴェノム、それで本望ーっ！！！！
 
 ベッドマン
 bed
+Bedman
 こ、これは…マズい……！
 
 ベッドマン
 bed
+Bedman
 僕が…負けるというのか？<cf>こんなに他愛もなく、こんなに安っぽい夢の為に。
 
 ロボカイ
 rbky
+Robo-Ky
 オイ、人ノ夢ヲ気安ク笑ウナ。
 
 ベッドマン
 bed
+Bedman
 なに？！
 
 ロボカイ
 rbky
+Robo-Ky
 サッサト負ケヲ認メロ。今ナラ許シテクレルカモ知レナイゾ。
 
 ベッドマン
 bed
+Bedman
 認めろだと？ 納得できると思うのか！<cf>君たちの思い付きのような夢の為に、この僕が何故諦めなければならない！
 
 ロボカイ
 rbky
+Robo-Ky
 意地ヲ張ッテイル状況ジャナイダロウ。
 
 ベッドマン
 bed
+Bedman
 自らの命を懸ければなんて、結果より手段を優先する者の<ruby>詭弁</ruby/>きべん</ruby>だ。<cf>それを切り札のように得意満面に振りかざすのか！
 
 ベッドマン
 bed
+Bedman
 僕は他人の命も懸ける。当然、平然ではない。無論、正論ではない。
 
 ベッドマン
 bed
+Bedman
 だが現実と言う鉄壁の運命に立ち向かうには、現実を破壊する覚悟を持って然るべきなんだ。
 
 ベッドマン
 bed
+Bedman
 この世界は、どんなに上辺を取り<ruby>繕</ruby/>つくろ</ruby>っても、最終的に<ruby>形而下</ruby/>けいじか</ruby>に価値を集約して優劣を求める。<cf>それを世の中は万物平等と<ruby>謳</ruby/>うた</ruby>っているんだ。
 
 ベッドマン
 bed
+Bedman
 だからこそ僕はその圧倒的火力を是とする思想に<ruby>倣</ruby/>なら</ruby>った。不必要なものは全て排除した。
 
 ベッドマン
 bed
+Bedman
 その果てならば人は失ったものを自覚できる。<cf>その果てならば僕たち兄妹のように、合理性と統計の犠牲になる人間はいなくなるはずなんだ！！！
 
 ベッドマン
 bed
+Bedman
 この僕の非情の覚悟を、たかだか君一人の命と引き換えに諦めろと言うのか。
 
 ロボカイ
 rbky
+Robo-Ky
 貴様…。
 
 ロボカイ
 rbky
+Robo-Ky
 本当ハ優シインダナ。
 
 ベッドマン
 bed
+Bedman
 …！
 
 イアン
 bully
+Ian
 あ…。
 
 ベッドマン
 bed
+Bedman
 動くな！
 
 ヴェノム
 ven
+Venom
 しまった！
 
 ロボカイ
 rbky
+Robo-Ky
 っダァ！ オ前タチ何デコンナ所ニ！
 
 ベッドマン
 bed
+Bedman
 夢を笑うなといったな。では、僕と同じステージに立ってもらおうか。
 
 ベッドマン
 bed
+Bedman
 どちらの夢が、どちらの想いが強いのか。はっきりさせようじゃないか。
 
 イアン
 bully
+Ian
 ぁう…。
 
 ベッドマン
 bed
+Bedman
 （大丈夫、この子達の名前も覚えている）
 
 ロボカイ
 rbky
+Robo-Ky
 ……。
 
 ロボカイ
 rbky
+Robo-Ky
 ハァ～。
 
 ロボカイ
 rbky
+Robo-Ky
 オイ、ヴェノム。ソノ辺ニシトケ。二人トモホントに死ヌゾ。
 
 ヴェノム
 ven
+Venom
 ？
 
 ヴェノム
 ven
+Venom
 しかし、これではまだ足りない。
 
 ロボカイ
 rbky
+Robo-Ky
 良インダヨ、ソレで。ワシの合図ヲ待テ。
 
 イアン
 bully
+Ian
 …ブリキ？
 
 ロボカイ
 rbky
+Robo-Ky
 ぶりきジャナイ。<ruby>尻</ruby/>ケツ</ruby>からハイオク突ッ込ムゾ。
 
 ベッドマン
 bed
+Bedman
 ……。何をしている？
 
 ベッドマン
 bed
+Bedman
 僕は知っているぞ。君はここの住民に迫害を受けてきたはずだ。なぜ彼らをかばう？
 
 ロボカイ
 rbky
+Robo-Ky
 解ラン。
 
 ベッドマン
 bed
+Bedman
 ？
 
 ロボカイ
 rbky
+Robo-Ky
 ワシは貴様ヨリ高性能ダカラ、考エル前にヤルベキ事ガ分カルンダロウ。
 
 ロボカイ
 rbky
+Robo-Ky
 貴様がカワイソウな奴ダッテことモナ。
 
 ベッドマン
 bed
+Bedman
 なんだと？
 
 ロボカイ
 rbky
+Robo-Ky
 ソリャア、町ノ連中ニハ腹ヲ立テテイルヨ。ダガナ……
 
 ロボカイ
 rbky
+Robo-Ky
 結局ワシは社会ガ無ケレバ満足ニ油モ差セナイ。<cf>コノ服モ柔軟剤モ洗剤モ、ドッカノ誰カガ作ッタモンダ。
 
 ロボカイ
 rbky
+Robo-Ky
 マァだからワシも、ドッカノ誰カノ役ニ立ツコトヲシテキタ。<cf>ソレデ社会ノ一員ダッテコトで納得シテイル。
 
 ロボカイ
 rbky
+Robo-Ky
 シカシ貴様ハ、余程ケツノ穴ガ小サイ社会ニ生マレタンダロウナ。<cf>マルデ余裕ガナイ。隙モナイ。
 
 ロボカイ
 rbky
+Robo-Ky
 何ガシタイノカハいまいち解ランガ。夢ノカナエカタを間違ッテルヨ。
 
 ベッドマン
 bed
+Bedman
 へぇ。
 
 ロボカイ
 rbky
+Robo-Ky
 貴様、本当ハ世界ナンテどうデモ良インダロ？
 
 ベッドマン
 bed
+Bedman
 …！
 
 ヴェノム
 ven
+Venom
 何をしている、もう下がっていい！
 
 ロボカイ
 rbky
+Robo-Ky
 一ツ教エトカニャナラン。
 
 ベッドマン
 bed
+Bedman
 何故…君まで命を懸ける……？
 
 ロボカイ
 rbky
+Robo-Ky
 貴様ラが馬鹿ダカラダ。このままジャ、ココニイル皆ガ死ヌ。
 
 ロボカイ
 rbky
+Robo-Ky
 ワシは高性能ダカラ消エル命ハ一ツデ充分ダトいうコトがワカル。
 
 ロボカイ
 rbky
+Robo-Ky
 覚エテオケ。人ノ夢ヲ笑ッチャイカン。ワシなりノ哲学ダ。
 
 ロボカイ
 rbky
+Robo-Ky
 ソレダケ守ッテレバ、御大層ナ思想ナンテ要ラナインダ。
 
 ロボカイ
 rbky
+Robo-Ky
 喧嘩シヨウが何シヨウが人ハ繋ガレル。ダカラ……
 
 ロボカイ
 rbky
+Robo-Ky
 イッペン反省シテ来イッ！！
 
 ベッドマン
 bed
+Bedman
 くあぁっ！
 
 ヴェノム
 ven
+Venom
 テ…
 
 ヴェノム
 ven
+Venom
 テラマキナシステムっ！！！！！！
 
 ベッドマン
 bed
+Bedman
 うわぁあああああああ！！！
 
 ヴェノム
 ven
+Venom
 く…。
 
 November 29th , 2187
@@ -7894,154 +9804,192 @@ November 29th , 2187
 
 ベッドマン
 bed
+Bedman
 やぁ…。
 
 聖皇
 arls
+St. Maximus
 まさか、君が負けるとは。
 
 ベッドマン
 bed
+Bedman
 どうやら僕は、もう戦力にはなれそうに無い。
 
 ベッドマン
 bed
+Bedman
 こうなったら、残りの命を使って犠牲者の蘇生に力を尽くす。
 
 ベッドマン
 bed
+Bedman
 僕達の夢の続きは、君に託してもいいかい？
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 あぁ、任せてくれ。君は本当に良くやってくれた。
 
 聖皇
 arls
+St. Maximus
 本当に…。
 
 聖皇
 arls
+St. Maximus
 ぷ、ぷぷ、本当に…。
 
 ベッドマン
 bed
+Bedman
 ？
 
 聖皇
 arls
+St. Maximus
 ホンっと、出来すぎだ。出来すぎだよベッドマン！ ははは。
 
 聖皇
 arls
+St. Maximus
 素晴らしい駒だったよ。最後は自滅までしてくれるなんて。ありがとう。
 
 聖皇
 arls
+St. Maximus
 安心して。<keyword>絶対確定世界</keyword>はきっちり仕上げるからね。
 
 聖皇
 arls
+St. Maximus
 まぁ……まあちょっと人類は全滅しちゃうけど。
 
 ベッドマン
 bed
+Bedman
 ど、どういうことだ…？
 
 聖皇
 arls
+St. Maximus
 え、わかんない？ あそっか、わかんないかぁ！<cf>あのね、私ね。この瞬間までずっと……猫かぶってましたぁ！
 
 聖皇
 arls
+St. Maximus
 本当はね。人間が嫌いです。大っ嫌いなの。大っ嫌い！<cf>だから、滅びればいいと思ってます！
 
 ベッドマン
 bed
+Bedman
 真の人類を創造し、正しい未来へ導くって…。
 
 聖皇
 arls
+St. Maximus
 えぇ！？ 私、嘘つき！？ 嘘つきとか言わないで、お願い！<cf>それはさぁ、言葉の行間ってヤツを読めない、君の……<cf><ruby>語彙</ruby/>ごい</ruby>力ってやつと読解力ってやつの問題だと思います。
 
 聖皇
 arls
+St. Maximus
 それにそうそう！ どうしちゃいましたかベッドマンさん。<cf>目が……お目覚めじゃないですか。
 
 聖皇
 arls
+St. Maximus
 寝言は起きている時に言うものじゃないゾ。
 
 聖皇
 arls
+St. Maximus
 ひひひひひひひひ！！
 
 ベッドマン
 bed
+Bedman
 な…！！
 
 ベッドマン
 bed
+Bedman
 何人殺したと思っているんだ？
 
 ベッドマン
 bed
+Bedman
 僕を……
 
 ベッドマン
 bed
+Bedman
 僕を裏切ったなぁああああっ！！！！
 
 聖皇
 arls
+St. Maximus
 お、お？
 
 ベッドマン
 bed
+Bedman
 絶対確定世界。
 
 ベッドマン
 bed
+Bedman
 その気になれば、僕一人でも出来ると言ったはずだ！
 
 ベッドマン
 bed
+Bedman
 否定する！！！
 
 聖皇
 arls
+St. Maximus
 ！！
 
 ベッドマン
 bed
+Bedman
 ここは僕が創り出した世界だ。僕が定めたことが絶対だ。
 
 ベッドマン
 bed
+Bedman
 どんな力も、ここでは無力だ。
 
 ベッドマン
 bed
+Bedman
 だが、残念だ…。
 
 ベッドマン
 bed
+Bedman
 残りの命では、これが……せめて……。
 
 ベッドマン
 bed
+Bedman
 ……罪…。
 
 聖皇
 arls
+St. Maximus
 ……。
 
 少女
 bedg
+Unknown Girl
 ……。
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -8053,82 +10001,102 @@ November 29th , 2187
 
 パラダイム
 prdm
+Dr. Paradigm
 ザッパ殿、一体、何を？
 
 ザッパ
 zppa
+Zappa
 もちろん、聖皇の居場所を探すんですよ。<cf>今、そのためのソフトをダウンロードしてます。
 
 あの男
 aotk
+That Man
 消えた信号を復元できるというのかい？
 
 ランディ
 rndy
+Randy
 復元なんて出来ない。だが、消えてるからいいんだ。
 
 ランディ
 rndy
+Randy
 俺の「ペインキラー」は全世界に隈なく情報をバラ撒くことができる。
 
 あの男
 aotk
+That Man
 そうか、聖皇の信号を全世界にばら撒けば……
 
 ランディ
 rndy
+Randy
 そう……！
 
 ザッパ
 zppa
+Zappa
 信号が検出されない場所に、聖皇はいるはずです。
 
 ランディ
 rndy
+Randy
 ポンコツチーム逆転勝利か？
 
 パラダイム
 prdm
+Dr. Paradigm
 ポンコツなものか…。
 
 パラダイム
 prdm
+Dr. Paradigm
 <keyword>フレデリック</keyword>！
 
 ソル
 sols
+Sol Badguy
 来たぞ！ よし、座標を受け取れ。
 
 ジョニー
 jhn
+Johnny
 火を入れるぞ！
 
 ジョニー
 jhn
+Johnny
 座標をメインモニターに出せ。エイプリル、最短ルートの検出だ！
 
 エイプリル
 aprl
+April
 任せて！
 
 エイプリル
 aprl
+April
 目的地は北大西洋上空。陸地は無いはずだけど…。
 
 カイ
 kyk
+Ky Kiske
 北大西洋ですって？
 
 ジョニー
 jhn
+Johnny
 おい、<keyword>連王</keyword>さんよ。
 
 カイ
 kyk
+Ky Kiske
 はい？
 
 ジョニー
 jhn
+Johnny
 立ってると目ン玉が飛び出るぜ？
 
 November 29th , 2187
@@ -8136,14 +10104,17 @@ November 29th , 2187
 
 アンダース
 opr1
+Anders
 グリンカムビ・ダーク号、発艦。
 
 レオ
 leo
+Leo Whitefang
 よし、目標近隣の部隊は第2防衛準備態勢。各国に応援も要請。
 
 レオ
 leo
+Leo Whitefang
 今度こそ、完全に決着をつけるぞ！！！
 
 November 29th , 2187
@@ -8151,42 +10122,52 @@ November 29th , 2187
 
 パラダイム
 prdm
+Dr. Paradigm
 さて、急ぐぞ。タイムリミットが近づけば、ヘヒョン殿に負担がかかる。<cf>フレデリック達が準備でき次第、対応する。
 
 ザッパ
 zppa
+Zappa
 起動申請発信。<keyword>第二連王</keyword>の承認を確認しました。
 
 あの男
 aotk
+That Man
 メインブリッジ、スリープ解除。起動プロトコルは2～8まで省略。
 
 あの男
 aotk
+That Man
 ここからは軌道管制と計測、それから通信は設備のものを使用する。<cf>動作確認を忘れないで。
 
 パラダイム
 prdm
+Dr. Paradigm
 了解だ。
 
 ザッパ
 zppa
+Zappa
 すごいや…。100年も前の施設なのに、情報劣化が起きて無い。<cf>補助動力まで待機腐敗2％って…。
 
 あの男
 aotk
+That Man
 当時のものは物理ユニットと法力の併用が多かったからね。<cf>完全な法力処理より、劣化しにくいんだ。<cf><keyword><ruby>法通</ruby/>ほうつう</ruby>式ウルツァイト真空集積回路</keyword>は現状最高の耐久性を持っている。
 
 パラダイム
 prdm
+Dr. Paradigm
 お喋りはそこまでだ。
 
 パラダイム
 prdm
+Dr. Paradigm
 砲身展開。発射シークエンスを開始するぞ。
 
 ザッパ
 zppa
+Zappa
 法界チャンバー、圧力正常。
 
 November 29th , 2187
@@ -8194,530 +10175,662 @@ November 29th , 2187
 
 ジョニー
 jhn
+Johnny
 エイプリル、異常は？
 
 エイプリル
 aprl
+April
 大丈夫。懸念されてた与圧システムも、Gキャンセラーも正常に作動してる。
 
 シン
 sin
+Sin Kiske
 コイツはマジジェット吐き気がしてきたぜ…。
 
 ソル
 sols
+Sol Badguy
 どのくらい掛かる？
 
 エイプリル
 aprl
+April
 目標地点までは3600km。トラブルがなければ、40分弱ってところかな。
 
 カイ
 kyk
+Ky Kiske
 3600kmを40分で？！
 
 ジョニー
 jhn
+Johnny
 世界最速・最新鋭の民間機にようこそ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 <keyword>PH製のJ59</keyword>を12基も搭載しておいてよく言うわ。<cf>最新鋭どころかアンティークじゃない。
 
 ジャック・オー
 jko
+Jack-O Valentine
 速いわけだわ。
 
 ジョニー
 jhn
+Johnny
 あー、話が合いそうだな、お嬢さん。<cf>だが素敵なおしゃべりはディナーの席にとっておこう。王様の前じゃなくてな。
 
 カイ
 kyk
+Ky Kiske
 ？
 
 聖皇
 arls
+St. Maximus
 ……。
 
 聖皇
 arls
+St. Maximus
 ここに来ます。
 
 聖皇
 arls
+St. Maximus
 凄い！
 
 エルフェルト
 elp2
+Elphelt Valentine
 来る…？
 
 エルフェルト
 elp2
+Elphelt Valentine
 皆が！？
 
 アンダース
 opr1
+Anders
 はい。え？ は、はい。おつなぎします。
 
 レオ
 leo
+Leo Whitefang
 どうした？
 
 アンダース
 opr1
+Anders
 <keyword>第三連王</keyword>ダレル様からです。
 
 ダレル
 darl
+Durrell
 遅れてすまない。
 
 レオ
 leo
+Leo Whitefang
 ダレル！
 
 ダレル
 darl
+Durrell
 内部調査に時間を奪われていた。聖皇の指示でな。
 
 ダレル
 darl
+Durrell
 だがここまでだ。
 
 ダレル
 darl
+Durrell
 艦隊は私が指揮する。君は首都の対処に専念してくれ。
 
 レオ
 leo
+Leo Whitefang
 ありがたい。艦隊への指示だが…。
 
 ダレル
 darl
+Durrell
 砲撃で<keyword>ジャスティス</keyword>を粉砕する。
 
 レオ
 leo
+Leo Whitefang
 …なに？
 
 レオ
 leo
+Leo Whitefang
 何を言っている。現場にはソルやカイが向かっているんだぞ。
 
 ダレル
 darl
+Durrell
 把握はできている。作戦の経過次第だが保険はいるだろう？
 
 レオ
 leo
+Leo Whitefang
 確かにそうだが、彼らの安全は保証できるのか？
 
 ダレル
 darl
+Durrell
 保証は出来ない。最善は尽くすがな。
 
 レオ
 leo
+Leo Whitefang
 保証できないっ！？
 
 ダレル
 darl
+Durrell
 最善は尽くすと言った。<cf>そもそも、そんな事態になれば、彼らどころか人類全体の危機なのだ。
 
 レオ
 leo
+Leo Whitefang
 し、しかし、お前に判断できるのか。
 
 ダレル
 darl
+Durrell
 それは私に任せて貰う他無い。<cf>だが、危険と判断した時点でソルも攻撃対象になることは了承してもらいたい。
 
 レオ
 leo
+Leo Whitefang
 だ……駄目だ！ やはり艦隊の指揮は俺が<ruby>執</ruby/>と</ruby>る。
 
 ダレル
 darl
+Durrell
 断る。第13艦隊はもともと私の管轄だ。私が戻った以上、君にその権限は無い。
 
 レオ
 leo
+Leo Whitefang
 なんだと！
 
 レオ
 leo
+Leo Whitefang
 お前は彼らのことを知らない！ 今までどんな逆境であっても…
 
 ダレル
 darl
+Durrell
 そうだ。彼らのことは知らない。だから客観的で冷静な判断が出来る。
 
 ダレル
 darl
+Durrell
 君はどうだ？
 
 レオ
 leo
+Leo Whitefang
 ジャスティスもソルも、肉体的に破壊したところでコアは不滅だ！<cf>問題を先延ばしにするにだけだぞ！！
 
 ダレル
 darl
+Durrell
 だが対策を練る時間は作れる。
 
 レオ
 leo
+Leo Whitefang
 違う！！ ソルが死ねば、人の心を持つコアはいなくなる。
 
 レオ
 leo
+Leo Whitefang
 そうなれば対策もクソも無い！！！！
 
 ダレル
 darl
+Durrell
 では、そうならないように祈るしかあるまい。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 レオ
 leo
+Leo Whitefang
 ジャスティスを粉砕するといったが、一体どうするつもりだ。
 
 レオ
 leo
+Leo Whitefang
 大艦隊を投入しても破壊できなかったんだぞ。
 
 ダレル
 darl
+Durrell
 艦隊に<keyword>コライダーキャノン</keyword>を搭載している。
 
 ダレル
 darl
+Durrell
 聖皇の指示で作ったものだ。<cf>注文の出力に到達せず難航していたが、それでも類を見ない破壊力を持っている。
 
 ダレル
 darl
+Durrell
 ジャスティスの入力部位以外を狙えば、痛手を負わせられるはずだ。
 
 レオ
 leo
+Leo Whitefang
 ……。
 
 レオ
 leo
+Leo Whitefang
 解った。だが、くれぐれも早まったマネはするな。
 
 ダレル
 darl
+Durrell
 タイムリミットは、君の判断を待ってはくれないぞ。
 
 レオ
 leo
+Leo Whitefang
 くそっ、何が保険だ！！
 
 アンダース
 opr1
+Anders
 あの、どちらへ？
 
 レオ
 leo
+Leo Whitefang
 保険だ！！ 俺も保険を手に入れる！
 
 ジャック・オー
 jko
+Jack-O Valentine
 長いわね。人類が滅ぶかどうかの40分。
 
 シン
 sin
+Sin Kiske
 じゃ、なんか話そうぜ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 話すって、何を？
 
 シン
 sin
+Sin Kiske
 そうだな…。
 
 シン
 sin
+Sin Kiske
 前から気になってたんだけどさ……
 
 シン
 sin
+Sin Kiske
 オヤジって、もしかして母さんのオヤ……
 
 ソル
 sols
+Sol Badguy
 シン！！
 
 ソル
 sols
+Sol Badguy
 その…話題は…今…やめておけ……。
 
 カイ
 kyk
+Ky Kiske
 何の話だ？
 
 ジャック・オー
 jko
+Jack-O Valentine
 あら、そのことなら私が一番……
 
 ソル
 sols
+Sol Badguy
 ジャック・オーっ！！！！
 
 ソル
 sols
+Sol Badguy
 やめろと言ったはずだ。
 
 ソル
 sols
+Sol Badguy
 いいか、今から皆、何も考えるな。
 
 シン
 sin
+Sin Kiske
 何で？
 
 ソル
 sols
+Sol Badguy
 それがっ！
 
 ソル
 sols
+Sol Badguy
 それが、平和だからだ。
 
 ソル
 sols
+Sol Badguy
 決戦の前だ。モヤっとしたくない。俺は間違って無い。
 
 カイ
 kyk
+Ky Kiske
 待ってくれ。<cf>ま…そ、そうか、その話は…ディズィーはジャスティスの娘で、つまり…、
 
 カイ
 kyk
+Ky Kiske
 いや、嘘だっ…。まさか、ソルが私のお義……
 
 ソル
 sols
+Sol Badguy
 カイィィっ！！！！！！！！！！！！！
 
 カイ
 kyk
+Ky Kiske
 わーっ！！！
 
 ソル
 sols
+Sol Badguy
 あーっ！！！
 
 ジョニー
 jhn
+Johnny
 どっちが勝った？ 絶叫コンテストは。
 
 ジャック・オー
 jko
+Jack-O Valentine
 シンのおかげで、楽しい旅路になったわね。
 
 ソル
 sols
+Sol Badguy
 状況を考えろ。平和ボケしてる場合か。
 
 ジョニー
 jhn
+Johnny
 いいじゃないか。
 
 ジョニー
 jhn
+Johnny
 平和ボケだろうが、偽善だろうが、大いに結構。
 
 ジョニー
 jhn
+Johnny
 世の中ってのは、誰かが正しいことを言っていた方が良いに決まってる。<cf>それが嘘だろうがなんだろうがな。誰も言わなくなっちまったらお終いだ。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 「<keyword>慈悲なき啓示</keyword>」は人間を憎んでいた。
 
 カイ
 kyk
+Ky Kiske
 確かな憎しみを感じた。
 
 カイ
 kyk
+Ky Kiske
 しかし同時に、人間とはこうあるべきだという美徳を説いている様にも思えた。
 
 ジャック・オー
 jko
+Jack-O Valentine
 美徳？
 
 カイ
 kyk
+Ky Kiske
 貴方は、人と神の中間的な存在です。
 
 カイ
 kyk
+Ky Kiske
 人間の運命がどう見えていますか？ つまり…
 
 ジャック・オー
 jko
+Jack-O Valentine
 「慈悲なき啓示」の考えが解るかってこと？
 
 ジャック・オー
 jko
+Jack-O Valentine
 ……。
 
 ジャック・オー
 jko
+Jack-O Valentine
 人は海を埋め立てて、浅瀬をどこまでも広げようとしている。<cf>誰もが安心して進むことが出来るように。
 
 ジャック・オー
 jko
+Jack-O Valentine
 しかし、どこにでも行けるようになった結果、どこに行くことも等価値となった。
 
 ジャック・オー
 jko
+Jack-O Valentine
 振り返った時には沖との境界は無くなり、<cf>どこに帰るべきかも解らなくなり、帰る必要もなくなる。
 
 ジャック・オー
 jko
+Jack-O Valentine
 高波や深い海の底はそれを警告していた。
 
 ジャック・オー
 jko
+Jack-O Valentine
 「そこがお前たちの居場所だ」と……ってところかしら。
 
 カイ
 kyk
+Ky Kiske
 ソルもそんなこと言っていたな。
 
 ソル
 sols
+Sol Badguy
 聞き流せ。年をくった奴の悪い癖だ。
 
 シン
 sin
+Sin Kiske
 レイヴンって奴が言ってたことと同じか？
 
 シン
 sin
+Sin Kiske
 美味いステーキも食いすぎると味がなくなるって。
 
 ジャック・オー
 jko
+Jack-O Valentine
 クス。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ま、私は間違っても神じゃないけど。でも、そうね…
 
 ジャック・オー
 jko
+Jack-O Valentine
 もし注射一本で人類が幸せを感じ、<cf>食べる必要も、考える必要もなくなると言われたら、貴方はそれを幸せだと思う？
 
 カイ
 kyk
+Ky Kiske
 それでは、まるで機械です。
 
 ジャック・オー
 jko
+Jack-O Valentine
 そう。「慈悲なき啓示」も、そういう未来を嫌っているみたい。
 
 ジャック・オー
 jko
+Jack-O Valentine
 でも私は、それも幸せだと思う。<cf>滅びと考えるのは、今を生きる人、固有の考え方かもしれない。
 
 カイ
 kyk
+Ky Kiske
 では、それが人の幸せだと？
 
 ジャック・オー
 jko
+Jack-O Valentine
 「それも」と言ったでしょ？ 人には選択できる自由がある。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 その権利を奪われるわけにはいかない。
 
 ソル
 sols
+Sol Badguy
 花火はみんないっぺんに消えるわけじゃねぇ…か。
 
 シン
 sin
+Sin Kiske
 花火…？
 
 ソル
 sols
+Sol Badguy
 利口気取って馬鹿の家に土足で入る奴は、火傷するってことだ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 きっちり返してもらうぞ。エルフェルトは。
 
 シン
 sin
+Sin Kiske
 ……。
 
 シン
 sin
+Sin Kiske
 ああ！
 
 シン
 sin
+Sin Kiske
 どわぁ！
 
 カイ
 kyk
+Ky Kiske
 くっ！
 
 ジャック・オー
 jko
+Jack-O Valentine
 きゃ！
 
 ソル
 sols
+Sol Badguy
 何が起きた！？
 
 ソル
 sols
+Sol Badguy
 浮遊岩か…。
 
 エイプリル
 aprl
+April
 それだけじゃないみたい…。
 
 ジョニー
 jhn
+Johnny
 良かったな、ゴールは間違ってなかったってことだ。
 
 ジョニー
 jhn
+Johnny
 ちょっと揺れるが、シートは汚してくれるなよ？
 
 シン
 sin
+Sin Kiske
 うわ～！
 
 ジャック・オー
 jko
+Jack-O Valentine
 きゃあ～！
 
 カイ
 kyk
+Ky Kiske
 あ～！
 
 November 29th , 2187
@@ -8725,154 +10838,192 @@ November 29th , 2187
 
 聖皇
 arls
+St. Maximus
 嬉しそうだな。
 
 聖皇
 arls
+St. Maximus
 奴らは、お前にとって希望か？
 
 聖皇
 arls
+St. Maximus
 良いだろう。お前はこれから、真の人類となる。
 
 聖皇
 arls
+St. Maximus
 希望を抱くに相応しい。だが……
 
 聖皇
 arls
+St. Maximus
 間違っちゃあ、ダメダメダメ！
 
 聖皇
 arls
+St. Maximus
 チャンスって、実は山ほどあります。
 
 聖皇
 arls
+St. Maximus
 大事なのはそれを認識し、見分ける力です。
 
 聖皇
 arls
+St. Maximus
 本来は他者から教えられるものじゃありません。だから！
 
 聖皇
 arls
+St. Maximus
 今から私が話すことは、とても貴重なものです。
 
 聖皇
 arls
+St. Maximus
 あと数分もしないうちに、お前は世界で最も孤独な存在になる。その時……
 
 聖皇
 arls
+St. Maximus
 あの船に乗っている何人かは生き残れます。
 
 聖皇
 arls
+St. Maximus
 だが、ここに来れば死ぬ。私が殺すからです。私には殺せるからです。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 聖皇
 arls
+St. Maximus
 故に、今から……剣を抜く！
 
 聖皇
 arls
+St. Maximus
 <ruby>番</ruby/>つがい</ruby>のベルトを外し、私の手は<keyword>ポンメル</keyword>から<keyword>ヒルト</keyword>全体を舐める。<cf>それを引き抜くと、ブレードが鞘に擦れ、<keyword>フラー</keyword>が共鳴し心地よい金属の独奏を奏でる。
 
 聖皇
 arls
+St. Maximus
 ここまでは私の意思だ。
 
 聖皇
 arls
+St. Maximus
 しかし、ここから先は私の義務になる。
 
 聖皇
 arls
+St. Maximus
 お前は奴らを殺したいですか？
 
 エルフェルト
 elp2
+Elphelt Valentine
 追い返せって…言いたいの？
 
 聖皇
 arls
+St. Maximus
 希望の意味を考えろと言ってます。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 エルフェルト
 elp2
+Elphelt Valentine
 彼らは世界を救いに来たの。私の言葉じゃ帰らない。
 
 エルフェルト
 elp2
+Elphelt Valentine
 でも、またソルさんに怒られちゃうな……。
 
 エルフェルト
 elp2
+Elphelt Valentine
 無駄とか無理とか、諦めのいい言葉を使ったら。
 
 エルフェルト
 elp2
+Elphelt Valentine
 だから、信じる。みんなを…。
 
 エルフェルト
 elp2
+Elphelt Valentine
 だから、あれが私の希望！
 
 ソル
 sols
+Sol Badguy
 エルフェルト！！
 
 エルフェルト
 elp2
+Elphelt Valentine
 ！
 
 ソル
 sols
+Sol Badguy
 眺めはどうだ？
 
 エルフェルト
 elp2
+Elphelt Valentine
 …え？
 
 ソル
 sols
+Sol Badguy
 そこからの眺めは良いか？
 
 エルフェルト
 elp2
+Elphelt Valentine
 …あ。
 
 ソル
 sols
+Sol Badguy
 今のうちに楽しんでおけ。晩飯までには帰るからな。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ……。
 
 エルフェルト
 elp2
+Elphelt Valentine
 今日の……献立はなんですかぁ…？
 
 ソル
 sols
+Sol Badguy
 お前に決めさせてやる。
 
 ソル
 sols
+Sol Badguy
 人類が滅んだ後か、助かった時か、そん時の気分で決めろ。
 
 聖皇
 arls
+St. Maximus
 ミスチョイス！
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -8884,1097 +11035,1372 @@ November 29th , 2187
 
 ソル
 sols
+Sol Badguy
 ジャック・オー。お前はエルフェルトの所へ向かえ。後は……
 
 シン
 sin
+Sin Kiske
 ぶっ飛ばす！
 
 カイ
 kyk
+Ky Kiske
 シン、言葉が汚いぞ。
 
 シン
 sin
+Sin Kiske
 じゃあ、なんて言うんだよ。
 
 カイ
 kyk
+Ky Kiske
 ぶっ飛ばす。明日からは使うな。
 
 エルフェルト
 elp2
+Elphelt Valentine
 貴方は？
 
 ジャック・オー
 jko
+Jack-O Valentine
 貴方のもう一人のお母さん。いや、お姉さんかな？
 
 聖皇
 arls
+St. Maximus
 入れ替わるつもり？ 手際良いよね。でも貴様等……
 
 聖皇
 arls
+St. Maximus
 それまで生きていられるかな？！
 
 ジャック・オー
 jko
+Jack-O Valentine
 きゃ！
 
 聖皇
 arls
+St. Maximus
 どうした化け物ども。その程度ですか？
 
 ソル
 sols
+Sol Badguy
 おおおお！！！
 
 ソル
 sols
+Sol Badguy
 く、…コイツ…。
 
 聖皇
 arls
+St. Maximus
 私が何の備えもなく、ただオマエ等の到着を待ってたと思う？
 
 ソル
 sols
+Sol Badguy
 消し飛びやがれ。
 
 聖皇
 arls
+St. Maximus
 そんなオモチャに頼るなよ。
 
 ソル
 sols
+Sol Badguy
 三倍だ。山なら吹っ飛ぶオモチャだぜ。
 
 聖皇
 arls
+St. Maximus
 山か。
 
 聖皇
 arls
+St. Maximus
 何故<keyword>ドラゴンインストール</keyword>を使わない？
 
 ソル
 sols
+Sol Badguy
 ……。
 
 聖皇
 arls
+St. Maximus
 へへっ、ホントは解ってます。したくても出来ないんですよね！
 
 聖皇
 arls
+St. Maximus
 そんなことしちゃったら、<keyword>情報体フレア</keyword>が一気に増幅する。
 
 聖皇
 arls
+St. Maximus
 以前の私なら、そこを計算できなかった。<cf>お前が純粋に私を倒せる戦力としか考えられなかったから。<cf>本来なら不可能なミッションよ。
 
 聖皇
 arls
+St. Maximus
 ラムレザルも。
 
 聖皇
 arls
+St. Maximus
 あれを殺すために等価戦力を投入してたら、こっちの手駒が減っちゃってたでしょ！？
 
 聖皇
 arls
+St. Maximus
 子供も見捨てられない欠陥品だったから、簡単に始末出来ちゃった。よかった！
 
 聖皇
 arls
+St. Maximus
 最後の最後で親孝行してくれたよねぇ。
 
 シン
 sin
+Sin Kiske
 テメェはそれ以上しゃべんじゃねぇ！！！！！！
 
 聖皇
 arls
+St. Maximus
 なにっ！？
 
 シン
 sin
+Sin Kiske
 ラムはテメェの悪口を言わなかった！<cf>テメェが悪いことしてるのを止めさせたがってた！<cf>どんなヤツだろうと、テメェが母さんだからだ！
 
 シン
 sin
+Sin Kiske
 それを…！
 
 聖皇
 arls
+St. Maximus
 放っておけば幸せだったと思うのか？<cf>貴様らの味方になったからと言って、人形ではない。
 
 聖皇
 arls
+St. Maximus
 生き続けても、孤独になるだけだ。
 
 聖皇
 arls
+St. Maximus
 く！
 
 カイ
 kyk
+Ky Kiske
 だからと言って、生きる権利を奪う道理はない。
 
 ソル
 sols
+Sol Badguy
 このまま時間を稼げ。
 
 ソル
 sols
+Sol Badguy
 20倍なら耐えられねぇはずだ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 お待たせ。
 
 エルフェルト
 elp2
+Elphelt Valentine
 これは？
 
 ジャック・オー
 jko
+Jack-O Valentine
 貴方の役目は私が引き継ぐの。もう少し待ってね。
 
 ザッパ
 zppa
+Zappa
 ジャック・オーさん、所定の位置につきました。
 
 パラダイム
 prdm
+Dr. Paradigm
 よし、標的の最終確認後、即時に発射。時間が無いぞ！
 
 ザッパ
 zppa
+Zappa
 最終安全装置解除。
 
 ザッパ
 zppa
+Zappa
 カウントダウン開始。
 
 あの男
 aotk
+That Man
 ん？
 
 あの男
 aotk
+That Man
 待って！ 座標が微妙にずれている。
 
 パラダイム
 prdm
+Dr. Paradigm
 何？ どういうことだ？
 
 ヘヒョン
 kum
+Kum Haehyun
 ぬぅうううう！
 
 梅喧
 bikn
+Baiken
 くそ、まだかよ！
 
 ジャック・オー
 jko
+Jack-O Valentine
 これだわ…。
 
 ソル
 sols
+Sol Badguy
 何をまごついてやがる？
 
 ジャック・オー
 jko
+Jack-O Valentine
 地面が陥没してるの！
 
 パラダイム
 prdm
+Dr. Paradigm
 何だと？！
 
 ソル
 sols
+Sol Badguy
 少しくらいなんだ。構わねぇからぶちかませ！
 
 あの男
 aotk
+That Man
 駄目だ。誤差範囲を超えている。このままでは充分な効果を期待できない。
 
 あの男
 aotk
+That Man
 ジャック・オー、位置を修正できるか？
 
 ジャック・オー
 jko
+Jack-O Valentine
 今は…ちょっと手が離せない。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 カイ
 kyk
+Ky Kiske
 ソル、ここは預けるぞ？
 
 ソル
 sols
+Sol Badguy
 さっさと行け。
 
 エルフェルト
 elp2
+Elphelt Valentine
 何を？
 
 カイ
 kyk
+Ky Kiske
 はぁああああああ！！！
 
 シン
 sin
+Sin Kiske
 すっげぇ……。
 
 ソル
 sols
+Sol Badguy
 陥没を止めただけだ。
 
 ソル
 sols
+Sol Badguy
 シン、反対側を支えて持ち上げろ。ここはもう大丈夫だ。
 
 シン
 sin
+Sin Kiske
 わかった！！
 
 シン
 sin
+Sin Kiske
 おらぁああああ！
 
 聖皇
 arls
+St. Maximus
 大丈夫だと？
 
 聖皇
 arls
+St. Maximus
 お前は何故、人形共の味方をする？ 神にも等しい存在のお前が。
 
 聖皇
 arls
+St. Maximus
 人形共はオウムみたいに人の言葉を真似てるに過ぎないのに！
 
 聖皇
 arls
+St. Maximus
 やがて全能と進化をはき違える。<cf>だが奴らは進化などしない。ただ全ての答えを明らかにするだけ。
 
 聖皇
 arls
+St. Maximus
 想像は無限だが、理解は有限なんだよ。
 
 聖皇
 arls
+St. Maximus
 人間らしい感性など自ら放棄してしまう。
 
 聖皇
 arls
+St. Maximus
 お前はそんな世界で独りで生きていく覚悟があるというのか？
 
 ソル
 sols
+Sol Badguy
 花火は好きか？
 
 聖皇
 arls
+St. Maximus
 は？
 
 ソル
 sols
+Sol Badguy
 俺は今まで、独りであることに努めてきた。
 
 ソル
 sols
+Sol Badguy
 俺がそうしてきた。
 
 ソル
 sols
+Sol Badguy
 俺が望んだ、俺の世界だ。
 
 ソル
 sols
+Sol Badguy
 ところが、そんな自分の世界を持った奴らが、あちこちぶつかってきやがる。
 
 ソル
 sols
+Sol Badguy
 惚れただの、守りたいだの、成り上がりたい、取り戻したい、やり直したい。
 
 ソル
 sols
+Sol Badguy
 そりゃもう、ガンガンと<ruby>鬱陶</ruby/>うつとう</ruby>しくな。
 
 ソル
 sols
+Sol Badguy
 まるで花火だ。
 
 ソル
 sols
+Sol Badguy
 おかげで俺は「一人」でいることを認識できた。<cf>「独り」じゃなく「一人」だ。
 
 ソル
 sols
+Sol Badguy
 俺の世界は、何かに許された俺の自由なんだよ。
 
 ソル
 sols
+Sol Badguy
 だが、本当に誰か一人の望みだけで存在する世界ってのは、<cf>結局自分が一人であることも認識できなくなる。
 
 ソル
 sols
+Sol Badguy
 それはテメェがムカついている世界と何が違う？
 
 ソル
 sols
+Sol Badguy
 この世界はデケェ花火だ。見逃すテはねぇだろうが！
 
 聖皇
 arls
+St. Maximus
 ぐ…。
 
 パラダイム
 prdm
+Dr. Paradigm
 いいぞ、ターゲット位置が修正されていく！
 
 シン
 sin
+Sin Kiske
 おっしゃあ、もうちょいだ！
 
 カイ
 kyk
+Ky Kiske
 な！？
 
 ソル
 sols
+Sol Badguy
 くそ！
 
 あの男
 aotk
+That Man
 <keyword>フレデリック</keyword>、まだか？！ 発射10秒前だ！
 
 ソル
 sols
+Sol Badguy
 ちぃっ。
 
 聖皇
 arls
+St. Maximus
 ふぅ。
 
 聖皇
 arls
+St. Maximus
 はっ。
 
 聖皇
 arls
+St. Maximus
 これは～…形勢逆転ってやつです！
 
 ソル
 sols
+Sol Badguy
 ぐぅ！
 
 ザッパ
 zppa
+Zappa
 発射されました！
 
 カイ
 kyk
+Ky Kiske
 シン、諦めるな！
 
 パラダイム
 prdm
+Dr. Paradigm
 くぅ…万策尽きたか…。
 
 シン
 sin
+Sin Kiske
 ちくしょおおおおお！！！
 
 ラムレザル
 ram
+Ramlethal Valentine
 諦めないで……
 
 聖皇
 arls
+St. Maximus
 ラムレザル！？ 馬鹿な！？
 
 あの男
 aotk
+That Man
 ターゲット修正完了。
 
 エルフェルト
 elp2
+Elphelt Valentine
 ラム！！
 
 シン
 sin
+Sin Kiske
 おまえ、どうして！？
 
 ラムレザル
 ram
+Ramlethal Valentine
 とにかく持ち上げて。
 
 聖皇
 arls
+St. Maximus
 残念。ソルは生かして「つがい」を作りたかった。でも時間がないんだ。
 
 聖皇
 arls
+St. Maximus
 ま、それでも100%目的達成でーす！
 
 ソル
 sols
+Sol Badguy
 0%だ、ボケが！
 
 聖皇
 arls
+St. Maximus
 ？
 
 ソル
 sols
+Sol Badguy
 俺が何の備えもなしにここにいると思うか？<cf>この位置に立っていると思うか？
 
 聖皇
 arls
+St. Maximus
 は！
 
 聖皇
 arls
+St. Maximus
 ふ…
 
 聖皇
 arls
+St. Maximus
 は、はは、ひゃははは！
 
 聖皇
 arls
+St. Maximus
 何年…生きてきた…？
 
 聖皇
 arls
+St. Maximus
 ん？ 何年生きてきた？！ お前にも未来は見えてんだろ！
 
 聖皇
 arls
+St. Maximus
 この先の世界は！ お前が経験してきた全ての価値を！ 否定する未来だ！<cf>いいのかよ？
 
 聖皇
 arls
+St. Maximus
 思い出してみて……過去を。
 
 聖皇
 arls
+St. Maximus
 恋をした？ 苦労を乗り越えて何か達成した？<cf>未来に期待を寄せて、胸を躍らせた？！
 
 聖皇
 arls
+St. Maximus
 ほら……話せ…話してみろ！！
 
 聖皇
 arls
+St. Maximus
 お前の過去を！！
 
 ソル
 sols
+Sol Badguy
 おいおい……。
 
 カイ
 kyk
+Ky Kiske
 それを言ったら……
 
 ソル
 sols
+Sol Badguy
 ツキが落ちるぜ？
 
 聖皇
 arls
+St. Maximus
 うおおおおお！！！！
 
 ラムレザル
 ram
+Ramlethal Valentine
 エル！！
 
 エルフェルト
 elp2
+Elphelt Valentine
 ラム！！
 
 カイ
 kyk
+Ky Kiske
 やった…
 
 シン
 sin
+Sin Kiske
 やったぜ！！！
 
 ソル
 sols
+Sol Badguy
 …なんだ？
 
 ソル
 sols
+Sol Badguy
 ？
 
 ヘヒョン
 kum
+Kum Haehyun
 まだか！ もう、限界だ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 ヘヒョン殿？ どういうことだ！
 
 ザッパ
 zppa
+Zappa
 そっちは、そっちはどうなってるんですか？ 状況を教えてください。
 
 ザッパ
 zppa
+Zappa
 フレアは収まってません！
 
 あの男
 aotk
+That Man
 なんだって…？
 
 あの男
 aotk
+That Man
 フレデリック！！！
 
 ソル
 sols
+Sol Badguy
 あぁ、聴こえている。確かに<keyword>ジャスティス</keyword>は人間になっていない。
 
 ソル
 sols
+Sol Badguy
 どうなってやがる。
 
 ジャック・オー
 jko
+Jack-O Valentine
 原因がわかったわ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 <keyword>アリア</keyword>が、人間になることを拒否している。
 
 ソル
 sols
+Sol Badguy
 なぜだ？
 
 ジャック・オー
 jko
+Jack-O Valentine
 潜在的な意識ね。暴走した時の記憶が強すぎる。<cf>アリアは、あの時から今までずっと狂気に支配されていた。
 
 パラダイム
 prdm
+Dr. Paradigm
 そんな…。
 
 ジャック・オー
 jko
+Jack-O Valentine
 一つだけ方法がある。
 
 ジャック・オー
 jko
+Jack-O Valentine
 もう一度エネルギーを満たせば、<cf>私が一時的に彼女の意識を支配して、強制的に融合することは可能よ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ただ……。
 
 カイ
 kyk
+Ky Kiske
 ただ？
 
 ジャック・オー
 jko
+Jack-O Valentine
 その場合、さっきよりも強力なエネルギーが必要。
 
 あの男
 aotk
+That Man
 ……これ以上の出力は出せない。
 
 ダレル
 darl
+Durrell
 タイムリミットだ。
 
 アンダース
 opr1
+Anders
 ま、待ってください！！ <keyword>第二連王</keyword>の確認を…。
 
 ダレル
 darl
+Durrell
 待てない。
 
 ダレル
 darl
+Durrell
 コライダーキャノン発射準備。
 
 カイ
 kyk
+Ky Kiske
 これは…。そういうことか。
 
 アンダース
 opr1
+Anders
 レオ様はどこ！！！！
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 パラダイム。次弾は撃てるか？
 
 パラダイム
 prdm
+Dr. Paradigm
 なにを……？
 
 ソル
 sols
+Sol Badguy
 撃てるのか、撃てねぇのか！！
 
 パラダイム
 prdm
+Dr. Paradigm
 撃てる！ しかし効果がなければ無意味なだけではなく―――
 
 ソル
 sols
+Sol Badguy
 <keyword>ジャンクヤード</keyword>に火を入れる。
 
 パラダイム
 prdm
+Dr. Paradigm
 な？
 
 ソル
 sols
+Sol Badguy
 <keyword>オラトリオ聖人</keyword>を直接こいつにぶち込んで、キックスタートさせる。
 
 パラダイム
 prdm
+Dr. Paradigm
 時速何キロだと？ 見切れるわけが無い！ それに受け止められない！
 
 ソル
 sols
+Sol Badguy
 ガタガタ抜かすな。<ruby>代案</ruby/>だいあん</ruby>があるなら１秒以内に出しやがれ。
 
 パラダイム
 prdm
+Dr. Paradigm
 ……。
 
 パラダイム
 prdm
+Dr. Paradigm
 ザッパ殿！
 
 ザッパ
 zppa
+Zappa
 はい！
 
 ダレル
 darl
+Durrell
 砲身展開。照準をジャスティスに固定。
 
 カイ
 kyk
+Ky Kiske
 聞こえますかダレル。
 
 ダレル
 darl
+Durrell
 聞こえている。どうやら、作戦は失敗だったようだな。
 
 カイ
 kyk
+Ky Kiske
 そのようです。しかし、最後の希望があります。
 
 カイ
 kyk
+Ky Kiske
 後、数分の間で良い、待ってもらえませんか？
 
 ダレル
 darl
+Durrell
 希望はこの砲撃だ。ソル=バッドガイの無謀な賭けのことではない。
 
 ダレル
 darl
+Durrell
 悪いが成功確率を計算する気にもならない一か八かの作戦に人類の命運を賭けるわけには―――
 
 レオ
 leo
+Leo Whitefang
 出来る！！！
 
 カイ
 kyk
+Ky Kiske
 レオ？
 
 レオ
 leo
+Leo Whitefang
 <keyword>イリュリア連王国憲法</keyword>第三条十二項だ！<cf><keyword>第一連王</keyword>カイ＝キスク、<keyword>第二連王</keyword>レオ＝ホワイトファング連名の元、<cf>現時刻を以て、お前を<keyword>第三連王</keyword>から解任する！ 発射は中止だ！
 
 ダレル
 darl
+Durrell
 なんだと？
 
 レオ
 leo
+Leo Whitefang
 解っている。この有事に、人間然とした下らん争いだ。
 
 レオ
 leo
+Leo Whitefang
 しかし、それでもあのソルという男には、全てを預けて賭けられるだけの価値があるのだ！
 
 レオ
 leo
+Leo Whitefang
 少なくとも、我々の身勝手で殺すことになれば、もはや人類は何かに感謝する資格すら失うぞ。
 
 レオ
 leo
+Leo Whitefang
 さあカイ、俺は既に承認した。あとはお前だけだ。
 
 カイ
 kyk
+Ky Kiske
 ……。
 
 ダレル
 darl
+Durrell
 やめろ、カイ。こんなの馬鹿げている。冷静になれ！
 
 カイ
 kyk
+Ky Kiske
 私は……
 
 カイ
 kyk
+Ky Kiske
 …ありがとう、レオ。しかし、ダレルは間違っているわけではない。
 
 カイ
 kyk
+Ky Kiske
 承認はしません。
 
 レオ
 leo
+Leo Whitefang
 なに？！
 
 カイ
 kyk
+Ky Kiske
 その代わり…。
 
 カイ
 kyk
+Ky Kiske
 その船に転移装置はありますか？
 
 ダレル
 darl
+Durrell
 ある。この距離ならば皆を回収できる。始めからそのつもりだ。
 
 カイ
 kyk
+Ky Kiske
 助かります。
 
 カイ
 kyk
+Ky Kiske
 しかしソルも標的にするなら、私も残してください。
 
 ダレル
 darl
+Durrell
 何！？
 
 ザッパ
 zppa
+Zappa
 標的命中まで……60秒！！
 
 ソル
 sols
+Sol Badguy
 何してやがる。テメェはシンといろ！
 
 カイ
 kyk
+Ky Kiske
 これが本当に奇跡の賭けであることくらい、私にもわかる。
 
 カイ
 kyk
+Ky Kiske
 友を犠牲に生き永らえるなら、私の王としての世界も終わりだ。
 
 ジャック・オー
 jko
+Jack-O Valentine
 ……。
 
 ダレル
 darl
+Durrell
 転移開始！
 
 シン
 sin
+Sin Kiske
 わっ！
 
 カイ
 kyk
+Ky Kiske
 ？！ これは！
 
 カイ
 kyk
+Ky Kiske
 馬鹿な、ダレル、すぐに私を戻してください！！！
 
 ダレル
 darl
+Durrell
 すまない、カイ。君と同様、私も信念に最後の希望を託している。
 
 ダレル
 darl
+Durrell
 君は…人類のために必要だ。
 
 カイ
 kyk
+Ky Kiske
 ……！！！
 
 ダレル
 darl
+Durrell
 砲撃開始！
 
 カイ
 kyk
+Ky Kiske
 ソルーーーーーっ！！！！！！！！！！！！！
 
 ソル
 sols
+Sol Badguy
 ジャック・オー。
 
 ソル
 sols
+Sol Badguy
 付き合わせちまったな。
 
 ジャック・オー
 jko
+Jack-O Valentine
 クス。
 
 ジャック・オー
 jko
+Jack-O Valentine
 貴方、本当に最後の一秒まで足掻くのね。
 
 ジャック・オー
 jko
+Jack-O Valentine
 でもいいじゃない。約束を守ってくれた。
 
 ジャック・オー
 jko
+Jack-O Valentine
 貴方は、独りにはならなかった。
 
 ソル
 sols
+Sol Badguy
 ……それでよしとするか。
 
 ソル
 sols
+Sol Badguy
 …これは？
 
 アクセル
 axl
+Axl Low
 …旦那、旦那、聞こえるかい？
 
 ソル
 sols
+Sol Badguy
 まさか…アクセルか！！
 
 アクセル
 axl
+Axl Low
 へへ、すごいっしょ。この一帯の時間を圧縮しちゃいました！
 
 ソル
 sols
+Sol Badguy
 なんて野郎だ…。
 
 アクセル
 axl
+Axl Low
 ここで起きることは全て一瞬だ。<cf>旦那が変身しても、世界に異変が起きる前に決着がつけられるかもしれない。
 
 ソル
 sols
+Sol Badguy
 だがお前、こんな力を使えば……。
 
 アクセル
 axl
+Axl Low
 解ってるよ。もう、元の世界には帰れないかもしれない。でもさ…
 
 アクセル
 axl
+Axl Low
 俺の彼女は…めぐみは…笑顔が可愛いんだ。
 
 アクセル
 axl
+Axl Low
 俺がこの世界を見捨てたとしても、<cf>「辛い決断だったね」って、きっと笑ってくれる。そういう娘なんだ。
 
 アクセル
 axl
+Axl Low
 …でもよ、駄目なんだよ。
 
 アクセル
 axl
+Axl Low
 駄目なんだよっ。
 
 アクセル
 axl
+Axl Low
 そんな俺じゃ。そんな<ruby>濁</ruby/>にご</ruby>った俺の目じゃ。
 
 アクセル
 axl
+Axl Low
 あいつの笑顔をマトモに見れやしないんだっ！
 
 アクセル
 axl
+Axl Low
 だから、だからさ…。
 
 アクセル
 axl
+Axl Low
 ブチかませ！！ 旦那ァああああああっ！！！！！！！！
 
 ソル
 sols
+Sol Badguy
 上等だアクセル＝ロウ！<cf>一杯奢らせろぉおおおおっ！！！！！！！！！！！！！！
 
 ソル
 sols
+Sol Badguy
 うおおおおおおおおおおおお！！！！！！！！！！！！！！
 
 シン
 sin
+Sin Kiske
 オヤジーーーーーっ！！！！！！！！！
 
 カイ
 kyk
+Ky Kiske
 ソル…。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ソル
 sols
+Sol Badguy
 テメェ…。
 
 聖皇
 arls
+St. Maximus
 …お前まで消えてしまったら、私の希望が本当になくなってしまうからな…。
 
 聖皇
 arls
+St. Maximus
 言えた義理じゃないが、娘たちを頼む……。
 
 聖皇
 arls
+St. Maximus
 今となっては、私が唯一この世に残せるものだ。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ヘヒョン
 kum
+Kum Haehyun
 調律が…帰ってきた。
 
 ザッパ
 zppa
+Zappa
 見てください…。
 
 ザッパ
 zppa
+Zappa
 ふ、フレアが消えました！
 
 ザッパ
 zppa
+Zappa
 消えましたっ！！！！！！！！！！
 
 シン
 sin
+Sin Kiske
 やっぱりオヤジは無敵だぜ！！！！！！！！！
 
 ダレル
 darl
+Durrell
 ……。
 
 ダレル
 darl
+Durrell
 君は英雄などではない。奇跡はそう何度も起こせるはずが無い。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 ダレル
 darl
+Durrell
 つまり、噂どおり軍神だったようだ。丁重におもてなししよう。
 
 ソル
 sols
+Sol Badguy
 はっ。
 
 ソル
 sols
+Sol Badguy
 そいつはありがてぇ話だが…。
 
 ジョニー
 jhn
+Johnny
 やれやれ、修理費もミスターに追加だな。
 
 ソル
 sols
+Sol Badguy
 酒がありそうな方に行くか。
 
 あの男
 aotk
+That Man
 フレデリック…。これで危機は本当に去った。
 
 あの男
 aotk
+That Man
 ありがとう。
 
 ソル
 sols
+Sol Badguy
 ……。
 
 あの男
 aotk
+That Man
 アリアは、君に任せた。だからあとは…。
 
 あの男
 aotk
+That Man
 僕達の決着だけだね。
 
 シン
 sin
+Sin Kiske
 は？
 
 シン
 sin
+Sin Kiske
 え！？ 何でだよ！ もう二人がケンカする理由なんてねぇだろ？
 
 あの男
 aotk
+That Man
 確かに、もう「<keyword>ギアメーカー</keyword>」も「<keyword>あの男</keyword>」も、この世界には必要なくなった。
 
 あの男
 aotk
+That Man
 でもね…。
 
 ソル
 sols
+Sol Badguy
 シン。よく見ておけ。
 
 ソル
 sols
+Sol Badguy
 アレが男の目だ。喧嘩を売る野郎の目だ。
 
 ソル
 sols
+Sol Badguy
 ああいう目をした奴には、理由なんか要らねぇ。応えてやるのが筋なんだよ。
 
 ソル
 sols
+Sol Badguy
 俺が売られた。
 
 ソル
 sols
+Sol Badguy
 良いだろう。『飛鳥＝R＝クロイツ』
 
 ソル
 sols
+Sol Badguy
 その喧嘩、買ってやる。
+
 To be continued…
